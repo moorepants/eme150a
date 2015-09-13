@@ -8,6 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 THEME = 'theme'
+PAGE_ORDER_BY = 'sortorder'
 
 TIMEZONE = 'US/Pacific'
 
