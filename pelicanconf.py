@@ -7,6 +7,7 @@ SITENAME = 'EME 150A: Mechanical Design'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'theme'
 
 TIMEZONE = 'US/Pacific'
 
