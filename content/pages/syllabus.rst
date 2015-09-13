@@ -50,19 +50,19 @@ ABET Educational Student Outcomes
 ---------------------------------
 
 This course addresses the following Educational Outcomes for the Mechanical
-Engineering and Aeronautical Science and Engineering Programs:
+Engineering and Aeronautical Science and Engineering Programs::
 
-a. an ability to apply knowledge of mathematics, science, and engineering
-c. an ability to design a system , component, or process to meet desired needs
-   within realistic constraints such as economic, environmental, social,
-   political, ethical, health and safety, manufacturability, and sustainability
-e. an ability to identify, formulate, and solve engineering problems
-f. an understanding of professional and ethical responsibility
-g. an ability to communicate effectively
-h. the broad education necessary to understand the impact of engineering
-   solutions in a global, economic, environmental, and societal context
-k. an ability to use the techniques, skills, and modern engineering tools
-   necessary for engineering practice.
+   a. an ability to apply knowledge of mathematics, science, and engineering
+   c. an ability to design a system , component, or process to meet desired needs
+      within realistic constraints such as economic, environmental, social,
+      political, ethical, health and safety, manufacturability, and sustainability
+   e. an ability to identify, formulate, and solve engineering problems
+   f. an understanding of professional and ethical responsibility
+   g. an ability to communicate effectively
+   h. the broad education necessary to understand the impact of engineering
+      solutions in a global, economic, environmental, and societal context
+   k. an ability to use the techniques, skills, and modern engineering tools
+      necessary for engineering practice.
 
 Instructors
 ===========
