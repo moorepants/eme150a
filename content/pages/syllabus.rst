@@ -13,28 +13,14 @@ Course Description
 | Mechanical Design - EME 150A
 | Fall 2015
 | CRN: 51884
+| `Catalog Entry <http://catalog.ucdavis.edu/programs/EME/EMEcourses.html#pgfId-3900785>`_
 |
 
-From the catalog:
-
-   Lecture-3 hours; discussion-1 hour. Prerequisite: C- or better in:
-   Engineering 45 or Engineering 45Y; C- or better in both Engineering 104 and
-   course 50 (may be taken concurrently). Restricted to Mechanical Engineering,
-   Aerospace Science and Engineering, Mechanical Engineering/Materials Science
-   and Engineering majors. Principles of engineering mechanics applied to
-   mechanical design.  Theories of static and fatigue failure of metals. Design
-   projects emphasizing the progression from conceptualization to hardware.
-   Experimental stress analysis and mechanical measurements using strain gages.
-   GE credit: SciEng | QL, SE, VL, WE.—I, III, IV. (I, III, IV.) Farouki, Hill,
-   Ravani, Schaaf
-
-Prerequisites
--------------
-
-- ENG 35 Statics
-- ENG 45/45Y Properties of Materials
-- ENG 104 Mechanics of Materials
-- EME 50 Manufacturing Processes (may be taken concurrently)
+This course introduces the student to mechanical design theory and processes
+using the fundamentals learned in statics, dynamics, strength of materials,
+computer aided drafting, and manufacturing. The course will prepare the student
+to both individually and collaboratively design mechanical systems that will be
+safe from failure and ensure that other design constraints are met.
 
 Objectives
 ----------
@@ -47,6 +33,14 @@ Objectives
    analytical problem solving and documentation of a design solution.
 4. To enhance your skills in engineering writing.
 
+Prerequisites
+-------------
+
+- ENG 35 Statics
+- ENG 45/45Y Properties of Materials
+- ENG 104 Mechanics of Materials
+- EME 50 Manufacturing Processes (may be taken concurrently)
+
 ABET Educational Student Outcomes
 ---------------------------------
 
@@ -54,9 +48,10 @@ This course addresses the following Educational Outcomes for the Mechanical
 Engineering and Aeronautical Science and Engineering Programs::
 
    a. an ability to apply knowledge of mathematics, science, and engineering
-   c. an ability to design a system , component, or process to meet desired needs
-      within realistic constraints such as economic, environmental, social,
-      political, ethical, health and safety, manufacturability, and sustainability
+   c. an ability to design a system , component, or process to meet desired
+      needs within realistic constraints such as economic, environmental,
+      social, political, ethical, health and safety, manufacturability, and
+      sustainability
    e. an ability to identify, formulate, and solve engineering problems
    f. an understanding of professional and ethical responsibility
    g. an ability to communicate effectively
@@ -71,7 +66,6 @@ Instructors
 | Jason K. Moore
 | 2095 Bainer Hall
 | jasonmoore@ucdavis.edu
-| 530-?
 |
 
 | Matthew Lefort
@@ -102,7 +96,7 @@ individual basis.
 
 Feel free to discuss homework assignments and work on them together, but each
 student must turn in a *unique* solution. Keep in mind that actually doing all
-of the homework yourself is critical for learning and passing the exams.
+of the homework yourself is critical for learning and passing the course.
 
 Both projects will group efforts but also include individual evaluation along
 with peer evaluations.
@@ -144,11 +138,11 @@ Final             20%  Dec 11: 10:30 to 12:30
 
 .. _smartsite.ucdavis.edu: http://smartsite.ucdavis.edu
 
-In class
-   There will be regular and irregular in class quizzes and assignments.
-Lecture Homework
+Homework
    Weekly homework will be assigned which will be due at the beginning of class
    the following week.
+In class
+   There will be regular and irregular in class quizzes and assignments.
 Design Projects
    There will be two design projects, one for the first half of the course and
    one for the second. Grades will be determined based on individual
@@ -170,14 +164,6 @@ Announcements
    All class announcements will be sent to your UCD email address and be
    collected here. Check this regularly during the class for important
    information.
-Assignments
-   You will turn in some or all assignments through smartsite. If you have the
-   ability to scan or take a clear photograph of your assignments, you can turn
-   them in digitally. Otherwise they must be handed in at the beginning of
-   class on the due date. Compress all of your files and documents into a
-   single zip file with your name and section in the file name and attach it to
-   the assignment. All documents must be in PDF form. Use Inventor's Pack and
-   Go feature for inventor files.
 Chat Room
    Feel free to use the chat room to meet with you peers and group members if
    you can't all be in one physical place. I will be available for chat during
@@ -189,9 +175,6 @@ Email Archive
    TODO@smartsite.ucdavis.edu if you have general questions that all
    of the class may benefit from. **Do not abuse this.** Send personal emails
    to me and the TA's through our UCD email addresses.
-Forums
-   Feel free to start topics and discussion in the forums. All class
-   participants and the instructors will be able to comment.
 Gradebook
    Your grades and basic stats on your relative performance will be available
    as the course goes along.
