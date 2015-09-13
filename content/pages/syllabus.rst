@@ -85,11 +85,11 @@ Office hours are to be determined.
 Academic Integrity
 ==================
 
-Academic dishonesty will not be tolerated. Please visit the Academic Integrity
-web page from UC Davis Office of Student Judicial Affairs at
-http://sja.ucdavis.edu/academic-integrity.html to review the campus' policy on
-academic responsibility and integrity and read the UC Davis code of academic
-conduct (http://sja.ucdavis.edu/cac.html).
+Academic dishonesty will not be tolerated. Please visit the `Academic Integrity
+web page <http://sja.ucdavis.edu/academic-integrity.html>`_ from UC Davis
+Office of Student Judicial Affairs to review the campus' policy on academic
+responsibility and integrity and read the UC Davis `code of academic conduct
+<http://sja.ucdavis.edu/cac.html>`_.
 
 The midterm and final exam will be closed note, closed book and done on an
 individual basis.
