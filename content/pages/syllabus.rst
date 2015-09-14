@@ -1,4 +1,5 @@
 :title: Syllabus
+:url:
 :save_as: index.html
 :sortorder: 0
 
@@ -14,7 +15,6 @@ Course Description
 | Fall 2015
 | CRN: 51884
 | `Catalog Entry <http://catalog.ucdavis.edu/programs/EME/EMEcourses.html#pgfId-3900785>`_
-|
 
 This course introduces the student to mechanical design theory and processes
 using the fundamentals learned in statics, dynamics, strength of materials,
