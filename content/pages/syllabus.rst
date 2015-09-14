@@ -66,7 +66,6 @@ Instructors
 | Jason K. Moore
 | 2095 Bainer Hall
 | jasonmoore@ucdavis.edu
-|
 
 | Matthew Lefort
 | mplefort@ucdavis.edu
