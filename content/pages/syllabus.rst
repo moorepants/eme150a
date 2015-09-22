@@ -3,24 +3,22 @@
 :save_as: index.html
 :sortorder: 0
 
-**This website that will be updated continuously throughout the duration of the
-course. All students and TAs should check periodically.**
-
 Course Description
 ==================
 
 | University of California, Davis
 | Department of Mechanical and Aerospace Engineering
 | Mechanical Design - EME 150A
-| Fall 2015
+| Fall 2015, Lecture: MWF 9-9:50AM, Discussion: F 10-10:50AM
 | CRN: 51884
 | `Catalog Entry <http://catalog.ucdavis.edu/programs/EME/EMEcourses.html#pgfId-3900785>`_
 
-This course introduces the student to mechanical design theory and processes
-using the fundamentals learned in statics, dynamics, strength of materials,
-computer aided drafting, and manufacturing. The course will prepare the student
-to both individually and collaboratively design mechanical systems that will be
-safe from failure and ensure that other design constraints are met.
+This course introduces the student to mechanical design theory and methodology
+that build on the fundamentals learned in statics, dynamics, strength of
+materials, computer aided drafting, and manufacturing. The course will prepare
+the student to both individually and collaboratively design mechanical systems
+that will be safe from failure and ensure that other design constraints are
+met.
 
 Objectives
 ----------
@@ -66,7 +64,6 @@ Instructors
 | Jason K. Moore
 | 2095 Bainer Hall
 | jasonmoore@ucdavis.edu
-|
 
 | Matthew Lefort
 | mplefort@ucdavis.edu
@@ -112,9 +109,10 @@ McGraw Hill Education. ISBN 978-0-07-339820-4 [`Book Information`_]
 Both reading and homework will be assigned from the textbook. A copy of the
 textbook will be available on two-hour reserve at the library. I will do my
 best to provide the homework in a way that doesn't require you purchase the
-book to read the problems. Older editions will be more than sufficient for
-reading and studying. Keep in mind that this particular textbook is likely one
-of the better references to have for your career as a mechanical engineer.
+book to read the problems but this is not guaranteed. Older editions will be
+more than sufficient for reading and studying. Keep in mind that this
+particular textbook is one of the better references to have for your career if
+you work in mechanical design.
 
 Assignments & Grades
 ====================
