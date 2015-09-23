@@ -57,4 +57,4 @@ F Dec 4
 F Dec 11    **Final Exam** 10:30-12:30
 ==========  =======================================  ===============  =====
 
-.. _Day One: {filename}/pages/day-one.rst
+.. _Day One: {filename}/pages/day-01.rst
