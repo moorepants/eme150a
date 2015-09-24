@@ -64,7 +64,7 @@ Instructors
 | Jason K. Moore
 | 2095 Bainer Hall
 | jasonmoore@ucdavis.edu
-
+|
 | Matthew Lefort
 | mplefort@ucdavis.edu
 
@@ -73,6 +73,10 @@ Time and Location
 
 The lecture/discussion meets on Mondays and Wednesdays from 9:00-9:50 AM and
 Fridays 9:00-10:50 AM in 1132 Bainer.
+
+**If you have any conflicts with the schedule, especially for the midterm or
+exam, you must tell me in the first week of class (emergencies will be the only
+exception.**
 
 Office Hours
 ============
@@ -95,8 +99,9 @@ Feel free to discuss homework assignments and work on them together, but each
 student must turn in a *unique* solution. Keep in mind that actually doing all
 of the homework yourself is critical for learning and passing the course.
 
-Both projects will group efforts but also include individual evaluation along
-with peer evaluations.
+The first project will be an individual project but have elements of
+collaboration built in. The second project will be a group effort but also
+include individual evaluation along with peer evaluations.
 
 Textbook
 ========
@@ -106,13 +111,13 @@ McGraw Hill Education. ISBN 978-0-07-339820-4 [`Book Information`_]
 
 .. _Book Information: http://highered.mheducation.com/sites/0073398209/information_center_view0/index.html
 
-Both reading and homework will be assigned from the textbook. A copy of the
-textbook will be available on two-hour reserve at the library. I will do my
-best to provide the homework in a way that doesn't require you purchase the
-book to read the problems but this is not guaranteed. Older editions will be
-more than sufficient for reading and studying. Keep in mind that this
-particular textbook is one of the better references to have for your career if
-you work in mechanical design.
+Both reading will be assigned from the textbook. A copy of the textbook will be
+available on two-hour reserve at the library. I will do my best to provide the
+homework in a way that doesn't require you purchase the book to read any
+problems but this is not guaranteed. Older editions will be more than
+sufficient for reading and studying. Keep in mind that this particular textbook
+is one of the better references to have for your career if you work in
+mechanical design.
 
 Assignments & Grades
 ====================
@@ -125,27 +130,31 @@ your exams or assignments to be incorrectly graded. If the request for
 additional points is found **NOT** to be valid, the points may be
 **subtracted** from the total score of the assignment or exam.
 
-================  ===  ==========
+================  ===
 Homework          10%
 In class          10%
 Design Project 1  20%
 Design Project 2  20%
-Midterm           20%  Oct 30: 1 hr and 40 mins during lecture period.
-Final             20%  Dec 11: 10:30 to 12:30
-================  ===  ==========
+Midterm           20%
+Final             20%
+================  ===
 
 .. _smartsite.ucdavis.edu: http://smartsite.ucdavis.edu
 
 Homework
-   Weekly homework will be assigned which will be due at the beginning of class
-   the following week.
+   Weekly homework will be assigned which will be due at the before class the
+   following week in the mechanical engineering homework **drop box D** in
+   Bainer Hall.
 In class
-   There will be regular and irregular in class quizzes and assignments.
-Design Projects
+   There will be a variety of in class assignments and quizzes that may count
+   towards your grade.
+`Design Projects`_
    There will be two design projects, one for the first half of the course and
    one for the second. Grades will be determined based on individual
    performance, group performance, and peer evaluations. To pass the course,
    each student must complete the two projects.
+
+.. _Design Projects: {filename}/pages/projects.rst
 
 Smartsite
 =========
@@ -154,7 +163,7 @@ We will make use of smartsite for the course. Log in to smartsite.ucdavis.edu
 with you Kerberos ID and passphrase then select **EME 150A FQ 2015** or access
 the smartsite through this link:
 
-TODO : Add link.
+https://smartsite.ucdavis.edu/portal/site/eme150a-1-fall-2015
 
 We will be using several features in smartsite:
 
@@ -162,22 +171,16 @@ Announcements
    All class announcements will be sent to your UCD email address and be
    collected here. Check this regularly during the class for important
    information.
-Chat Room
-   Feel free to use the chat room to meet with you peers and group members if
-   you can't all be in one physical place. I will be available for chat during
-   our scheduled office hours.
+Assignments
+   The assignments will be distributed here.
 Course Website
    This displays this website within smartsite.
-Email Archive
-   All emails sent to the class will be archived here. You may send emails to
-   TODO@smartsite.ucdavis.edu if you have general questions that all
-   of the class may benefit from. **Do not abuse this.** Send personal emails
-   to me and the TA's through our UCD email addresses.
 Gradebook
    Your grades and basic stats on your relative performance will be available
    as the course goes along.
-Mailtool
-   This allows you to send emails to everyone or just the instructors. The same
-   rules apply as in the "Email Archive" section.
 Resources
    Files, documents, and other resources will be available here for download.
+Piazza
+   Piazza should be used for all questions that everyone would benefit from.
+   Please default to asking questions on Piazza instead of email. Use personal
+   emails only for correspondence that needs privacy.
