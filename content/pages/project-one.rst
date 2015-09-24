@@ -66,7 +66,7 @@ Friday October 2
    designs that have been observed and noted. **Number your designs.** The
    instructors will take a grade for your notebook in class.
 Friday October 9
-   Continue to collect desing, but during the previous week you should choose 5
+   Continue to collect designs, but during the previous week you should choose 5
    designs that are you favorite and flesh out the details of the designs in
    your notebook with more notes, calculations, sketches, etc. During class you
    will present your top two designs to your group in a "lighting talk", i.e. 2
