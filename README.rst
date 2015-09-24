@@ -5,6 +5,23 @@ This site is generated with Pelican_.
 
 .. _Pelican: getpelican.com
 
+Build Instructions
+==================
+
+Install miniconda. Create an environment for Pelican sites::
+
+   $ conda create -n pelican python=2 pygments pip jinja2 docutils markupsafe python-dateutil pytz six unidecode fabric
+   $ source activate pelican
+   (pelican)$ pip install pelican
+
+Rebuild and serve the site locally::
+
+   (pelican)$ fab reserve
+
+Push the site to Github pages::
+
+   (pelican)$ fab gh_pages
+
 License
 =======
 
