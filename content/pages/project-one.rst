@@ -63,14 +63,14 @@ Friday September 25
    kickoff group activity to get everyone started.
 Friday October 2
    Each student will bring their notebook to class with at least 50 different
-   designs that have been observed and noted. The instructors will take a grade
-   for your notebook in class.
+   designs that have been observed and noted. **Number your designs.** The
+   instructors will take a grade for your notebook in class.
 Friday October 9
-   During the previous week you should choose 5 designs that are you favorite
-   and flesh out the details of the designs in your notebook with more notes,
-   calculations, sketches, etc. During class you will present your top two
-   designs to your group in a "lighting talk", i.e. 2 minutes per design with 2
-   minutes group feedback per design.
+   Continue to collect desing, but during the previous week you should choose 5
+   designs that are you favorite and flesh out the details of the designs in
+   your notebook with more notes, calculations, sketches, etc. During class you
+   will present your top two designs to your group in a "lighting talk", i.e. 2
+   minutes per design with 2 minutes group feedback per design.
 Friday October 16
    During the previous week you should choose your top design to detail in your
    report. First drafts will be due at the beginning of class. To "turn in" the
@@ -106,6 +106,9 @@ sketch or do a calculation. If you do work on computer or take photographs
 paste these into you notebook. Try to carry your notebook with you all the
 time, you never know when an idea or thought will reveal itself.
 
+Be sure to use any relevant engineering knowledge you have gained in previous
+courses and this course to enhance your design understanding.
+
 .. [2] You may use an electronic notebook (e.g. tablet) if you can easily
    include sketches and share the resulting documents to be graded by your
    instructors. The final output to be turned in with the report should be a
@@ -115,7 +118,8 @@ Things to address
 =================
 
 In your notebook and final report you likely want to address questions such as
-these:
+these. **You are not required to cover all of these questions nor should these
+limit you.**
 
 - What does it look like (use sketches and/or photographs)?
 - How big is it? (You could use formal dimensioning or scale relative to some
