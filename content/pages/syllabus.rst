@@ -76,7 +76,7 @@ Fridays 9:00-10:50 AM in 1132 Bainer.
 
 **If you have any conflicts with the schedule, especially for the midterm or
 exam, you must tell me in the first week of class (emergencies will be the only
-exception.**
+exception).**
 
 Office Hours
 ============
