@@ -81,7 +81,11 @@ exception).**
 Office Hours
 ============
 
-Office hours are to be determined.
+Jason will hold office hours on Wednesdays and Fridays from 2-3PM in Bainer
+2095.
+
+Matthew will hold office hours on Thursdays and Fridays from 11AM-12PM in the
+Computer Aided Engineering Lab (2121A) Bainer Hall.
 
 Academic Integrity
 ==================
