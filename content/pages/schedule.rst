@@ -13,7 +13,7 @@ Date        Topic                                    Preparation      Assignment
 F Sep 25    Introduction to mechanical design        `Day One`_
             Project 1 introduction
 ----------  ---------------------------------------  ---------------  -----
-M Sep 28    Review of Statics
+M Sep 28    Review of Statics                        `Day Two`_
 W Sep 30    ''
 F Oct 2     ''                                                        Project One: 50 designs
 ----------  ---------------------------------------  ---------------  -----
@@ -58,3 +58,4 @@ F Dec 11    **Final Exam** 10:30-12:30
 ==========  =======================================  ===============  =====
 
 .. _Day One: {filename}/pages/day-01.rst
+.. _Day Two: {filename}/pages/day-02.rst
