@@ -93,3 +93,59 @@ def gh_pages():
     local('pelican -s publishconf.py')
     local("ghp-import -n -b {github_pages_branch} {deploy_path}".format(**env))
     local("git push origin {github_pages_branch}".format(**env))
+
+def build_homework():
+    """Constructs the homework rst page and a pdf."""
+    hw_dir = 'homework'
+    hw_nums = [name for name in os.listdir(hw_dir) if
+               os.path.isdir(os.path.join(hw_dir, name))]
+    pdf_text = \
+"""\
+===========
+Homework #1
+===========
+
+:date: Monday, September 28, 2015
+
+**DUE: Monday, October 5, 2015 before class in Box D in the MAE department.**
+
+"""
+
+    web_text = \
+"""\
+:title: Homework #1
+:subtitle: Monday, September 28, 2015
+
+**DUE: Monday, October 5, 2015 before class in Box D in the MAE department.**
+
+"""
+    text = ""
+
+    preamble = r'\usepackage[top=1in,bottom=1in,right=1in,left=1in]{geometry}'
+    for hw_num in hw_nums:
+        root_dir = os.path.abspath(os.path.curdir)
+        os.chdir(os.path.join(hw_dir, hw_num))
+        files = os.listdir(os.path.curdir)
+        part_files = [part for part in files if part.startswith('part')]
+        image_files = [part for part in files if part.endswith('png')]
+        for p in sorted(part_files):
+            with open(p, 'r') as f:
+                text += '\n'
+                text += f.read()
+        output_file = 'hw_{}.rst'.format(hw_num)
+        with open(output_file, 'w') as f:
+            f.write(pdf_text + text)
+        tex_file = 'hw_{}.tex'.format(hw_num)
+        rst2latex_call = \
+"""\
+rst2latex --date --documentoptions="letter,10pt" \\
+--use-latex-docinfo        --latex-preamble="{}" {} {}\
+"""
+        os.chdir(root_dir)
+        with lcd(os.path.join(hw_dir, hw_num)):
+            local('pwd')
+            local(rst2latex_call.format(preamble, output_file, tex_file))
+            local('pdflatex {}'.format(tex_file))
+
+        with open(os.path.join('content/pages/homework', output_file), 'w') as f:
+            f.write(web_text + text)
