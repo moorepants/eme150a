@@ -66,17 +66,18 @@ Friday October 2
    designs that have been observed and noted. **Number your designs.** The
    instructors will take a grade for your notebook in class.
 Friday October 9
-   Continue to collect designs, but during the previous week you should choose 5
-   designs that are you favorite and flesh out the details of the designs in
+   Continue to collect designs, but during the previous week you should choose
+   5 designs that are you favorite and flesh out the details of the designs in
    your notebook with more notes, calculations, sketches, etc. During class you
    will present your top two designs to your group in a "lighting talk", i.e. 2
-   minutes per design with 2 minutes group feedback per design.
+   minutes per design with 2 minutes group feedback per design. We will check
+   for the five detailed designs in class. **Number your designs.**
 Friday October 16
    During the previous week you should choose your top design to detail in your
    report. First drafts will be due at the beginning of class. To "turn in" the
    draft you need to share it via Google drive with both instructors and your
    group members. The draft must be shared before the beginning of class on
-   Friday. We will start the peer review process during class.
+   Friday. We will give an introduction to peer review process during class.
 Tuesday October 20
    Each team member should peer review each other team member's report by
    midnight Tuesday. Each team member must provide at least two positive and
@@ -147,38 +148,6 @@ limit you.**
 - How is the device assembled?
 - How are the parts manufactured?
 
-Peer Review
-===========
-
-You will be responsible for peer reviewing you teammates' work. Each team member
-will draft their report using Google Docs. Once the draft is complete you
-will need to share the document with your teammates and the two instructors.
-You are then responsible for reading and critiquing your team members' reports
-with the goal of helping them improve the work. You must provide two positive
-and two negative pieces of feedback via the "Insert > Comment" or "Suggesting"
-feature in Google Docs. This feedback cannot be the same as other teammates. Do
-not edit their paper directly! This allows the author to decided which comments
-they want to include or dismiss. If you want to add more feedback it must come
-in pairs: positive and negative.
-
-Things to think about:
-
-- Is the writing clear? Do you understand what your teammate is trying to
-  describe and express?
-- Are the images/graphics/sketches clear and explanatory?
-- Is the document succinct and to the point?
-- Are the sentences coherent, well-constructed, varied?
-- What could be added (or subtracted) to give you a better picture and
-  understanding of the design?
-
-Tips:
-
-- Stay away from overly general comments, be specific. For example, "I just
-  didn't get it!" is not useful but "This sentence is unclear, if you do X and
-  Y it may become clearer." is.
-- Keep it impersonal and be polite. Statements like "this is a stupid idea"
-  will not be tolerated and cause your project grade to be lowered.
-
 Report
 ======
 
@@ -227,6 +196,9 @@ Cite sources for any information that you didn't generate yourself.
 Formatting
 ----------
 
+- The Google Doc file name should follow this format:
+  ``EME150A-PROJ01-LASTNAME-FIRSTNAME``, for example:
+  ``EME150A-PROJ01-MOORE-JASON``.
 - 11 pt Arial font (default)
 - Default margins
 - Equations and variables must be created with "Insert > Equation" or "Insert >
@@ -235,3 +207,36 @@ Formatting
   <https://chromebookandroidnews.wordpress.com/2014/09/08/how-to-caption-and-wrap-text-around-images-or-tables-in-google-docs/>`_
   for a method of adding captions with Google Docs.
 - Use whatever citation style you prefer.
+
+Peer Review
+===========
+
+You will be responsible for peer reviewing you teammates' work. Each team
+member will draft their report using Google Docs. Once the draft is complete
+you will need to share the document with your teammates and the two
+instructors.  You are then responsible for reading and critiquing your team
+members' reports with the goal of helping them improve the work. You must
+provide two positive and two negative pieces of feedback via the "Insert >
+Comment" or "Suggesting" feature in Google Docs. This feedback cannot be the
+same as other teammates. Do not edit their paper directly! This allows the
+author to decided which comments they want to include or dismiss. If you want
+to add more feedback it must come in pairs: positive and negative.
+
+Things to think about:
+
+- Is the writing clear? Do you understand what your teammate is trying to
+  describe and express?
+- Are the images/graphics/sketches clear and explanatory?
+- Is the document succinct and to the point?
+- Are the sentences coherent, well-constructed, varied?
+- What could be added (or subtracted) to give you a better picture and
+  understanding of the design?
+
+Tips:
+
+- Stay away from overly general comments, be specific. For example, "I just
+  didn't get it!" is not useful but "This sentence is unclear, if you do X and
+  Y it may become clearer." is.
+- Keep it impersonal and be polite. Statements like "this is a stupid idea"
+  will not be tolerated and cause your project grade to be lowered.
+
