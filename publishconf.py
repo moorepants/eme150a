@@ -18,6 +18,8 @@ FEED_RSS = None
 
 DELETE_OUTPUT_DIRECTORY = True
 
+STATIC_PATHS = ['materials']
+
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
