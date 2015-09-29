@@ -1,7 +1,7 @@
 :title: Schedule
 :sortorder: 1
 
-This is schedule for the quarter. The midterm and final dates are fixed and
+This is the schedule for the quarter. The midterm and final dates are fixed and
 homework will be due each week on Monday except around the exams. The lecture
 topics are tentative and will be adjusted to fit the flow of the class. Project
 One due dates are fixed and Project Two due dates will be posted later in the
@@ -11,15 +11,17 @@ quarter. **Check the schedule periodically for changes.**
 Date        Topic                                    Preparation      Assignment Due
 ==========  =======================================  ===============  =====
 F Sep 25    Introduction to mechanical design        `Day One`_
+            Factor of Safety
+            Uncertainty
             Project 1 introduction
 ----------  ---------------------------------------  ---------------  -----
-M Sep 28    Review of Statics                        `Day Two`_
-W Sep 30    ''
-F Oct 2     ''                                                        Project One: 50 designs
+M Sep 28    Reliability, Tolerances, Units           `Day Two`_
+W Sep 30    Free body diagrams
+F Oct 2     Bending moment and shear diagrams                         Project One: 50 designs
 ----------  ---------------------------------------  ---------------  -----
 M Oct 5     Stress and Strain                        Chapter 4        HW #1 Due
 W Oct 7
-F Oct 9     Project One: lightning presentation                       Project One: Details of two designs in notebook
+F Oct 9     Project One: lightning presentation                       Project One: Details of five designs in notebook
 ----------  ---------------------------------------  ---------------  -----
 M Oct 12    Properties of Materials                  Chapter 2        HW #2 Due
 W Oct 14
@@ -57,5 +59,5 @@ F Dec 4
 F Dec 11    **Final Exam** 10:30-12:30
 ==========  =======================================  ===============  =====
 
-.. _Day One: {filename}/pages/day-01.rst
-.. _Day Two: {filename}/pages/day-02.rst
+.. _Day One: {filename}/pages/lecture-prep/day-01.rst
+.. _Day Two: {filename}/pages/lecture-prep/day-02.rst
