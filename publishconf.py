@@ -23,4 +23,4 @@ STATIC_PATHS = ['materials']
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-15966419-8"
