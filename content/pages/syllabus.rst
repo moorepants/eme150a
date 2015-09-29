@@ -146,7 +146,7 @@ Final             20%
 .. _smartsite.ucdavis.edu: http://smartsite.ucdavis.edu
 
 Homework
-   Weekly homework will be assigned which will be due at the before class the
+   Weekly homework will be assigned which will be due before class the
    following week in the mechanical engineering homework **drop box D** in
    Bainer Hall.
 In class
