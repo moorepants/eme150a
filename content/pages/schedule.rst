@@ -19,7 +19,7 @@ M Sep 28    Reliability, Tolerances, Units        - `Prep 2`_
                                                   - `Plan 2`_
                                                   - `Notes 2`_
 W Sep 30    Free body diagrams                    `Prep 3`_
-F Oct 2     - Bending moment and shear diagrams                  Proj. 1: 50 designs
+F Oct 2     - Bending moment and shear diagrams   `Prep 4`_      Proj. 1: 50 designs
             - Problem + Q & A session
 ----------  ------------------------------------  -------------  -----
 M Oct 5     Stress and Strain                     Chapter 4      HW #1 Due
@@ -66,6 +66,7 @@ F Dec 11    **Final Exam** 10:30-12:30
 .. _Prep 1: {filename}/pages/materials/prep-01.rst
 .. _Prep 2: {filename}/pages/materials/prep-02.rst
 .. _Prep 3: {filename}/pages/materials/prep-03.rst
+.. _Prep 4: {filename}/pages/materials/prep-04.rst
 
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
 
