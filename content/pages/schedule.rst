@@ -17,7 +17,8 @@ F Sep 25    - Introduction to mechanical design      `Prep One`_
 ----------  ---------------------------------------  ---------------  -----
 M Sep 28    Reliability, Tolerances, Units           `Prep Two`_
 W Sep 30    Free body diagrams                       `Prep Three`_
-F Oct 2     Bending moment and shear diagrams                         Proj. 1: 50 designs
+F Oct 2     - Bending moment and shear diagrams                       Proj. 1: 50 designs
+            - Problem + Q & A session
 ----------  ---------------------------------------  ---------------  -----
 M Oct 5     Stress and Strain                        Chapter 4        HW #1 Due
 W Oct 7
@@ -25,7 +26,8 @@ F Oct 9     Proj. 1: lightning presentation                           Proj. 1: F
 ----------  ---------------------------------------  ---------------  -----
 M Oct 12    Properties of Materials                  Chapter 2        HW #2 Due
 W Oct 14
-F Oct 16                                                              Proj. 1: Report Draft Due
+F Oct 16    - Proj 1: Intro to peer review                            Proj. 1: Report Draft Due
+            - FEA with Solidworks
 ----------  ---------------------------------------  ---------------  -----
 M Oct 19    Design for static loading                Chapter 5        HW #3 Due
 T Oct 20    No lecture                                                Proj. 1: Peer review due
