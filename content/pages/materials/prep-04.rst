@@ -5,8 +5,10 @@ Preparation
 ===========
 
 - Read sections 3-2 and 3-3
-- Read the wikipedia article on shear and moment diagrams:
-  https://en.wikipedia.org/wiki/Shear_and_moment_diagram
+- For more information, read the wikipedia articles on `shear and moment
+  diagrams <https://en.wikipedia.org/wiki/Shear_and_moment_diagram>`_ and
+  `singularity functions
+  <https://en.wikipedia.org/wiki/Singularity_function>`_.
 - Try Examples 3-2 and 3-3 and/or one of the Problems 3-5 to 3-8
 - All 50 of your designs should be in your notebook and numbered for an in
   class grade.
