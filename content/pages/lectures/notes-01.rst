@@ -9,6 +9,10 @@ TODO
 9:00
 ====
 
+Rocklin mini maker faire: http://makerfairerocklin.com/ Oct 3
+
+Questions?
+
 Review mechanical design
 
 Review uncertainty
@@ -18,18 +22,16 @@ Review design factor and factory of saftey
    Design factors help account for uncertainity. The design factor is the
    desired value and the factor of the safety is the actual value.
 
-Questions?
-
 9:05
 ====
+
+Stochastic failure criteria and reliability
 
 Goals
 -----
 - Understand that uncertainty is more realistically modeled by statisical
   models.
 - Be able to compute Gaussian probablities using a transform table.
-
-Stochastic failure criteria and reliability
 
 9:15
 ====
@@ -43,6 +45,7 @@ Dimensions, units, sig figs
 
 Tolerances
 ----------
+
 - Nominal sizes are note exact sizes
 - Tolerance limits are specified as absolutes
 - Tight tolerances = higher costs
@@ -52,14 +55,16 @@ Tolerances
 
 Units
 -----
-- We will be using two unit system: International System of Units and U.S. Customary Units
-- US, Liberia, Burma
+
+- We will be using two unit system: International System of Units and U.S.
+  Customary Units
+- US, Liberia, Burma only countries that use the U.S. system.
 - F = MLT^{-2}
 
 M = FT^2 / L = (pound-force) (second)^2 = lbf * s^2 / ft = slug
 
-lbf: pound force
-kip : kilo pounds force
+- lbf: pound force
+- kip : kilo pounds force
 
 F = ML / T^2 = (kilogram) (meter) / (second)^2 = kg m / s^2 = N
 
@@ -67,12 +72,13 @@ W = mg
 
 g = 9.81 m/s^2 = 32.2 ft/s^2
 
-Mars climate orbiter: https://en.wikipedia.org/wiki/Mars_Climate_Orbiter
-Cost about $600 million
-outpu lbf s instead of N s
+- Mars climate orbiter: https://en.wikipedia.org/wiki/Mars_Climate_Orbiter
+- Cost about $600 million
+- output lbf s instead of N s
 
 Sig figs
 --------
+
 - sig figs are inferred by shown digits (except leading): 0.700"
 - scientific notation: 706.0, 7.060x10^2, 0.7060x10^3, 7.060E2
 - the smallest sig figs in a calc fix the number of sig figs you should report
@@ -108,5 +114,3 @@ Collect feedback
 What we will go over next time: shear and moment diagrams for beams
 
 Homework will be posted after class.
-
-Rocklin mini maker faire: http://makerfairerocklin.com/ Oct 3
