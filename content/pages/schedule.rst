@@ -13,7 +13,7 @@ Date        Topic                                 Materials      Assignment Due
 F Sep 25    - Introduction to mechanical design   - `Prep 1`_
             - Factor of Safety                    - Plan 1
             - Uncertainty                         - `Slides 1`_
-            - Project 1 introduction              - Notes 1
+            - Project 1 introduction              - `Notes 1`_
 ----------  ------------------------------------  -------------  -----
 M Sep 28    Reliability, Tolerances, Units        - `Prep 2`_
                                                   - `Plan 2`_
@@ -71,4 +71,5 @@ F Dec 11    **Final Exam** 10:30-12:30
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
+.. _Notes 1: {attach}/materials/notes-01.pdf
 .. _Notes 2: {attach}/materials/notes-02.pdf
