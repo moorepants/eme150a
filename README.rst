@@ -12,7 +12,7 @@ Install miniconda. Create an environment for Pelican sites::
 
    $ conda create -n pelican python=2 pygments pip jinja2 docutils markupsafe python-dateutil pytz six unidecode fabric
    $ source activate pelican
-   (pelican)$ pip install pelican
+   (pelican)$ pip install pelican ghp-import
 
 Rebuild and serve the site locally::
 
