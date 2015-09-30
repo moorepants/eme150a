@@ -18,7 +18,9 @@ F Sep 25    - Introduction to mechanical design   - `Prep 1`_
 M Sep 28    Reliability, Tolerances, Units        - `Prep 2`_
                                                   - `Plan 2`_
                                                   - `Notes 2`_
-W Sep 30    Free body diagrams                    `Prep 3`_
+W Sep 30    Free body diagrams                    - `Prep 3`_
+                                                  - `Plan 3`_
+                                                  - `Notes 3`_
 F Oct 2     - Bending moment and shear diagrams   `Prep 4`_      Proj. 1: 50 designs
             - Problem + Q & A session
 ----------  ------------------------------------  -------------  -----
@@ -69,8 +71,10 @@ F Dec 11    **Final Exam** 10:30-12:30
 .. _Prep 4: {filename}/pages/materials/prep-04.rst
 
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
+.. _Plan 3: {filename}/pages/materials/plan-03.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
 .. _Notes 1: {attach}/materials/notes-01.pdf
 .. _Notes 2: {attach}/materials/notes-02.pdf
+.. _Notes 3: {attach}/materials/notes-03.pdf
