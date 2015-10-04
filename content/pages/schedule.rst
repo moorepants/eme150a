@@ -25,8 +25,8 @@ F Oct 2     - Bending moment and shear diagrams   - `Prep 4`_    Proj. 1: 50 des
             - Problem + Q & A session             - `Plan 4`_
                                                   - `Notes 4`_
 ----------  ------------------------------------  -------------  -----
-M Oct 5     Stress and Strain                     Chapter 4      HW #1 Due
-W Oct 7
+M Oct 5     Multi-axial stress                    - `Prep 5`_    HW #1 Due
+W Oct 7     Principal stress, Mohr's Circle
 F Oct 9     Proj. 1: lightning presentation                      Proj. 1: Five designs in notebook
 ----------  ------------------------------------  -------------  -----
 M Oct 12    Properties of Materials               Chapter 2      HW #2 Due
@@ -70,6 +70,7 @@ F Dec 11    **Final Exam** 10:30-12:30
 .. _Prep 2: {filename}/pages/materials/prep-02.rst
 .. _Prep 3: {filename}/pages/materials/prep-03.rst
 .. _Prep 4: {filename}/pages/materials/prep-04.rst
+.. _Prep 5: {filename}/pages/materials/prep-05.rst
 
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
 .. _Plan 3: {filename}/pages/materials/plan-03.rst
