@@ -240,3 +240,17 @@ Tips:
 - Keep it impersonal and be polite. Statements like "this is a stupid idea"
   will not be tolerated and cause your project grade to be lowered.
 
+Grading
+=======
+
+**Added October 4, 2015**
+
+The grade for Project 1 will be broken down as follows:
+
+==================  ===
+50 Designs          10%
+5 Detailed Designs  10%
+Report Draft        10%
+Draft Peer Review   10%
+Final Report        60%
+==================  ===
