@@ -7,69 +7,78 @@ topics are tentative and will be adjusted to fit the flow of the class. Project
 One due dates are fixed and Project Two due dates will be posted later in the
 quarter. **Check the schedule periodically for changes.**
 
-==========  ====================================  =============  =====
-Date        Topic                                 Materials      Assignment Due
-==========  ====================================  =============  =====
-F Sep 25    - Introduction to mechanical design   - `Prep 1`_
-            - Factor of Safety                    - Plan 1
-            - Uncertainty                         - `Slides 1`_
-            - Project 1 introduction              - `Notes 1`_
-----------  ------------------------------------  -------------  -----
-M Sep 28    Reliability, Tolerances, Units        - `Prep 2`_
-                                                  - `Plan 2`_
-                                                  - `Notes 2`_
-W Sep 30    Free body diagrams                    - `Prep 3`_
-                                                  - `Plan 3`_
-                                                  - `Notes 3`_
-F Oct 2     - Bending moment and shear diagrams   - `Prep 4`_    Proj. 1: 50 designs
-            - Problem + Q & A session             - `Plan 4`_
-                                                  - `Notes 4`_
-----------  ------------------------------------  -------------  -----
-M Oct 5     Multi-axial stress                    - `Prep 5`_    HW #1 Due
-                                                  - `Plan 5`_
-                                                  - `Notes 5`_
-W Oct 7     - Principal stress
-            - 2D Mohr's Circle
-F Oct 9     - 3D Mohr's circle                                   Proj. 1: Five designs in notebook
-            - Proj. 1: lightning presentations
-----------  ------------------------------------  -------------  -----
-M Oct 12    Properties of Materials               Chapter 4      HW #2 Due
-W Oct 14
-F Oct 16    - Proj 1: Intro to peer review                       Proj. 1: Report Draft Due
-            - FEA: Stress concentrations
-----------  ------------------------------------  -------------  -----
-M Oct 19    Design for static loading             Chapter 5      HW #3 Due
-T Oct 20    No lecture                                           Proj. 1: Peer review due
-W Oct 21
-F Oct 23                                                         Proj. 1: Report due
-----------  ------------------------------------  -------------  -----
-M Oct 26                                                         HW #4 Due
-W Oct 28
-F Oct 30    **Midterm**
-----------  ------------------------------------  -------------  -----
-M Nov 2     - Project 2: Introduction             Chapter 6
-            - Design for dynamic loading
-W Nov 4
-F Nov 6     - Project 2: Ideation
-----------  ------------------------------------  -------------  -----
-M Nov 9                                                          HW #5 Due
-W Nov 11    Veteran's Day Holiday
-F Nov 13    - FEA: Pressure Vessels
-----------  ------------------------------------  -------------  -----
-M Nov 16                                                         HW #6 Due
-W Nov 18
-F Nov 20    - Project 2: Design Review
-----------  ------------------------------------  -------------  -----
-M Nov 23    Design for surface failures                          HW #7 Due
-W Nov 25
-F Nov 27    Thanksgiving Day Holiday
-----------  ------------------------------------  -------------  -----
-M Nov 30    Measurement with strain gauges                       HW #8 Due
-W Dec 2
-F Dec 4                                                          Project 2: Final report due
-----------  ------------------------------------  -------------  -----
-F Dec 11    **Final Exam** 10:30-12:30
-==========  ====================================  =============  =====
+== ==========  ====================================  =============  =====
+#  Date        Topic                                 Materials      Assignment Due
+== ==========  ====================================  =============  =====
+1  F Sep 25    - Introduction to mechanical design   - `Prep 1`_
+               - Factor of Safety                    - Plan 1
+               - Uncertainty                         - `Slides 1`_
+               - Project 1 introduction              - `Notes 1`_
+-- ----------  ------------------------------------  -------------  -----
+2  M Sep 28    Reliability, Tolerances, Units        - `Prep 2`_
+                                                     - `Plan 2`_
+                                                     - `Notes 2`_
+3  W Sep 30    Free body diagrams                    - `Prep 3`_
+                                                     - `Plan 3`_
+                                                     - `Notes 3`_
+4  F Oct 2     - Bending moment and shear diagrams   - `Prep 4`_    Proj. 1: 50 designs
+               - Problem + Q & A session             - `Plan 4`_
+                                                     - `Notes 4`_
+-- ----------  ------------------------------------  -------------  -----
+5  M Oct 5     Multi-axial stress                    - `Prep 5`_    HW #1 Due
+                                                     - `Plan 5`_
+                                                     - `Notes 5`_
+6  W Oct 7     - Principal stress
+               - 2D Mohr's Circle
+7  F Oct 9     - 3D Mohr's circle                                   Proj. 1: Five designs in notebook
+               - Elastic strain
+               - Proj. 1: lightning presentations
+-- ----------  ------------------------------------  -------------  -----
+8  M Oct 12    - Elastic strain                      Chapter 4      HW #2 Due
+9  W Oct 14    - Stress concentrations
+               - Curved beams
+10 F Oct 16    - Pressure vessels
+               - Contact stresses
+               - Proj 1: Intro to peer review                       Proj. 1: Report Draft Due
+               - FEA: Stress concentrations
+-- ----------  ------------------------------------  -------------  -----
+11 M Oct 19    - Contact stresses                                   HW #3 Due
+NA T Oct 20    No lecture                                           Proj. 1: Peer review due
+12 W Oct 21    - Deformation and stiffness
+13 F Oct 23    - Deflections of beams                               Proj. 1: Report due
+               - Castigliano's Theorem
+-- ----------  ------------------------------------  -------------  -----
+14 M Oct 26    - Statically indeterminate problems                  HW #4 Due
+15 W Oct 28    Catch up and review
+NA F Oct 30    **Midterm**
+-- ----------  ------------------------------------  -------------  -----
+16 M Nov 2     - Project 2: Introduction
+               - Buckling and compression
+17 W Nov 4     - Static failure theory               Chapter 5
+18 F Nov 6     - Static failure theory
+               - Project 2: Ideation
+-- ----------  ------------------------------------  -------------  -----
+19 M Nov 9     - Static failure theory                              HW #5 Due
+NA W Nov 11    Veteran's Day Holiday
+20 F Nov 13    - Fatigue Failure
+               - FEA: Pressure Vessels
+-- ----------  ------------------------------------  -------------  -----
+21 M Nov 16    Fatigue Failure                                      HW #6 Due
+22 W Nov 18    S-N curves and endurance limits
+23 F Nov 20    - Fluctuation stress
+               - Project 2: Design Review
+-- ----------  ------------------------------------  -------------  -----
+24 M Nov 23    Fatigue and factor of safety                         HW #7 Due
+25 W Nov 25    Compound and cumulative loading
+NA F Nov 27    Thanksgiving Day Holiday
+-- ----------  ------------------------------------  -------------  -----
+26 M Nov 30    Fracture mechanics                                   HW #8 Due
+27 W Dec 2     Fracture mechanics, cont
+28 F Dec 4     - Catch up and review                                Project 2: Final report due
+               - Project 2: Lightning talks
+-- ----------  ------------------------------------  -------------  -----
+   F Dec 11    **Final Exam** 10:30-12:30
+== ==========  ====================================  =============  =====
 
 .. _Prep 1: {filename}/pages/materials/prep-01.rst
 .. _Prep 2: {filename}/pages/materials/prep-02.rst
