@@ -16,3 +16,9 @@ Tables
    McGraw Hill Education. ISBN 978-0-07-339820-4
 .. [2] I'm looking for a better table for this. Something more like the book.
    Let me know if you find one (or make one). *-- Jason*
+
+Other
+=====
+
+- `Juggling Bot <http://imgur.com/a/Ytscx>`_
+- `Tufte on PowerPoint <http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB>`_
