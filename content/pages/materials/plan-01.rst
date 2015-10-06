@@ -1,3 +1,7 @@
+:title: Lecture Schedule
+:subtitle: Friday, September 25, 2015
+:status: hidden
+
 Class Activities
 ================
 
@@ -23,7 +27,7 @@ Class Activities
 Intro 9:00
 ==========
 
-- Jason Moore, call me Jason
+- Jason and Matt
 - Lecturer
   - teach and improve engineering education
   - mention that we will try out new things in class and that i want feedback
