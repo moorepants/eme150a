@@ -95,21 +95,51 @@ def gh_pages():
     local("ghp-import -n -b {github_pages_branch} {deploy_path}".format(**env))
     local("git push origin {github_pages_branch}".format(**env))
 
+
 def build_homework():
-    """Constructs the homework rst page and a pdf."""
+    """Collects the problems in the homework folder and constructs both a PDF
+    and pelican page.
+
+    The ``homework`` directory should contain subdirectories of two digit
+    numbers, e.g. ``01``, which contain a collection of problems that are named
+    as ``prob-XX.rst``. Any images should be in the same directory as the rst
+    files and should be png files.
+
+    For example::
+
+        homework/
+        |
+        -> 01/
+        |  |
+        |  -> prob-01.rst
+        |  -> prob-02.rst
+        |  -> hw-01-prob-02.png
+        -> 02/
+        |  |
+        |  -> prob-01.rst
+        |  -> prob-02.rst
+        |  -> hw-02-prob-01.png
+
+    """
+
     hw_dir = 'homework'
-    hw_nums = [name for name in os.listdir(hw_dir) if
-               os.path.isdir(os.path.join(hw_dir, name))]
+    web_dir = 'content/pages/homework'
+    img_dir = 'content/images'
+
+    for d in [hw_dir, web_dir, img_dir]:
+        if not os.path.exists(d):
+            os.makedirs(d)
+
     assigned_dates = {'01': '2015/09/28',
                       '02': '2015/10/05',
-                      '03': '2015/05/12',
+                      '03': '2015/10/12',
                       '04': '2015/10/19',
                       '05': '2015/11/02',
                       '06': '2015/11/09',
                       '07': '2015/11/16',
                       '08': '2015/11/23'}
-    pdf_text = \
-"""\
+
+    pdf_header_template = """\
 ================================
 EME 150A Fall 2015 Homework #{}
 ================================
@@ -117,11 +147,9 @@ EME 150A Fall 2015 Homework #{}
 :date: {}
 
 **DUE: {} before class in Box D in the MAE department.**
-
 """
 
-    web_text = \
-"""\
+    web_header_template = """\
 :title: Homework #{}
 :subtitle: {}
 :status: hidden
@@ -132,66 +160,62 @@ EME 150A Fall 2015 Homework #{}
 """
     preamble = r'\usepackage[top=1in,bottom=1in,right=1in,left=1in]{geometry}'
 
-    rst2latex_call = \
-"""\
-rst2latex.py --date --documentoptions="letter,10pt" \\
---use-latex-docinfo        --latex-preamble="{}" {} {}\
-"""
+    rst2latex_call = ('rst2latex.py --date --documentoptions="letter,10pt"'
+                      '--use-latex-docinfo --latex-preamble="{}" {} {}')
 
     date_format = '%A, %B %d, %Y'
+
+    pelican_root_dir = os.path.abspath(os.path.curdir)
+
+    hw_nums = [name for name in os.listdir(hw_dir) if
+               os.path.isdir(os.path.join(hw_dir, name))]
 
     for hw_num in hw_nums:
 
         text = ""
 
-        # dates
         date_assigned = datetime.datetime.strptime(assigned_dates[hw_num],
                                                    '%Y/%m/%d')
         date_due = date_assigned + datetime.timedelta(days=7)
 
-        root_dir = os.path.abspath(os.path.curdir)
-        os.chdir(os.path.join(hw_dir, hw_num))
+        os.chdir(os.path.join(pelican_root_dir, hw_dir, hw_num))
 
-        files = os.listdir(os.path.curdir)
-        part_files = [part for part in files if part.startswith('part')]
-        image_files = [part for part in files if part.endswith('png')]
+        contents = os.listdir(os.path.curdir)
+        prob_files = [f for f in contents if f.startswith('prob-')]
+        image_files = [f for f in contents if f.endswith('.png')]
 
-        # join part files together
-        for p in sorted(part_files):
+        # join problem files together into a single rst file
+        for p in sorted(prob_files):
             with open(p, 'r') as f:
                 text += '\n'
                 text += f.read()
 
-        output_file = 'hw-{}.rst'.format(hw_num)
+        rst_filename = 'hw-{}.rst'.format(hw_num)
+        tex_filename = 'hw-{}.tex'.format(hw_num)
+        pdf_filename = 'hw-{}.pdf'.format(hw_num)
 
-        with open(output_file, 'w') as f:
-            f.write(pdf_text.format(hw_num, date_assigned.strftime(date_format),
-                                    date_due.strftime(date_format)) + text)
+        with open(rst_filename, 'w') as f:
+            hd = pdf_header_template.format(hw_num,
+                                            date_assigned.strftime(date_format),
+                                            date_due.strftime(date_format))
+            f.write(hd + text)
 
-        tex_file = 'hw-{}.tex'.format(hw_num)
-        pdf_file = 'hw-{}.pdf'.format(hw_num)
-        os.chdir(root_dir)
-        with lcd(os.path.join(hw_dir, hw_num)):
-            local('pwd')
-            local(rst2latex_call.format(preamble, output_file, tex_file))
-            local('pdflatex {}'.format(tex_file))
-            local('cp {} ../../content/materials/'.format(pdf_file))
+        os.chdir(pelican_root_dir)
 
-        web_dir = 'content/pages/homework'
-
-        if not os.path.exists(web_dir):
-            os.makedirs(web_dir)
-
-        img_dir = 'content/images'
-
-        if not os.path.exists(img_dir):
-            os.makedirs(img_dir)
+        with lcd(os.path.join(pelican_root_dir, hw_dir, hw_num)):
+            local(rst2latex_call.format(preamble, rst_filename, tex_filename))
+            local('pdflatex {}'.format(tex_filename))
+            local('mv {} ../../content/materials/'.format(pdf_filename))
+            local('rm hw-*.rst *.tex *.aux *.out *.log')
 
         # copy image files over to website
         for im_file in image_files:
             shutil.copy(os.path.join(hw_dir, hw_num, im_file), img_dir)
 
-        with open(os.path.join(web_dir, output_file), 'w') as f:
+        with open(os.path.join(web_dir, rst_filename), 'w') as f:
             text = text.replace('.. image:: ', '.. image:: {attach}/images/')
-            f.write(web_text.format(hw_num, date_assigned.strftime(date_format),
-                                    date_due.strftime(date_format), hw_num) + text)
+            hd = web_header_template.format(hw_num,
+                                            date_assigned.strftime(date_format),
+                                            date_due.strftime(date_format),
+                                            hw_num)
+            f.write(hd + text)
