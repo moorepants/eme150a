@@ -25,7 +25,7 @@ quarter. **Check the schedule periodically for changes.**
                - Problem + Q & A session             - `Plan 4`_
                                                      - `Notes 4`_
 -- ----------  ------------------------------------  -------------  -----
-5  M Oct 5     Multi-axial stress                    - `Prep 5`_    HW #1 Due
+5  M Oct 5     Multi-axial stress                    - `Prep 5`_    `HW #1`_ Due
                                                      - `Plan 5`_
                                                      - `Notes 5`_
 6  W Oct 7     - Principal stress
@@ -34,7 +34,7 @@ quarter. **Check the schedule periodically for changes.**
                - Elastic strain
                - Proj. 1: lightning presentations
 -- ----------  ------------------------------------  -------------  -----
-8  M Oct 12    - Elastic strain                      Chapter 4      HW #2 Due
+8  M Oct 12    - Elastic strain                      Chapter 4      `HW #2`_ Due
 9  W Oct 14    - Stress concentrations
                - Curved beams
 10 F Oct 16    - Pressure vessels
@@ -100,3 +100,6 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 3: {attach}/materials/notes-03.pdf
 .. _Notes 4: {attach}/materials/notes-04.pdf
 .. _Notes 5: {attach}/materials/notes-05.pdf
+
+.. _HW #1: {filename}/pages/homework/hw-01.rst
+.. _HW #2: {filename}/pages/homework/hw-02.rst

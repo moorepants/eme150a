@@ -6,6 +6,7 @@ Problem 2
    **C-C** (symbolic form).
 
    .. image:: hw-01-prob-02.png
+      :class: homeworkfig
 
 **Part 2**
    It has been determined that the design factor for this part is to be 3 with

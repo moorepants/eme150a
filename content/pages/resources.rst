@@ -1,5 +1,5 @@
 :title: Resources
-:sortorder: 3
+:sortorder: 4
 
 Tables
 ======
