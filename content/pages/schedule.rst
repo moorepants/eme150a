@@ -28,10 +28,8 @@ quarter. **Check the schedule periodically for changes.**
 5  M Oct 5     Multi-axial stress                    - `Prep 5`_    `HW #1`_ Due
                                                      - `Plan 5`_
                                                      - `Notes 5`_
-6  W Oct 7     - Principal stress
-               - 2D Mohr's Circle
-7  F Oct 9     - 3D Mohr's circle                                   Proj. 1: Five designs in notebook
-               - Elastic strain
+6  W Oct 7     - Principal stress                    - `Prep 6`_
+7  F Oct 9     - Mohr's circle                                      Proj. 1: Five designs in notebook
                - Proj. 1: lightning presentations
 -- ----------  ------------------------------------  -------------  -----
 8  M Oct 12    - Elastic strain                      Chapter 4      `HW #2`_ Due
