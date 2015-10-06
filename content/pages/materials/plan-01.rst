@@ -1,5 +1,4 @@
-:title: Lecture Schedule
-:subtitle: Friday, September 25, 2015
+:title: Plan for Friday, September 25, 2015
 :status: hidden
 
 Class Activities

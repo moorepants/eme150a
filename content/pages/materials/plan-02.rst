@@ -1,5 +1,4 @@
-:title: Lecture Schedule
-:subtitle: Monday, September 28, 2015
+:title: Plan for Monday, September 28, 2015
 :status: hidden
 
 TODO
