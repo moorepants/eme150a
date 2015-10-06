@@ -11,7 +11,7 @@ quarter. **Check the schedule periodically for changes.**
 #  Date        Topic                                 Materials      Assignment Due
 == ==========  ====================================  =============  =====
 1  F Sep 25    - Introduction to mechanical design   - `Prep 1`_
-               - Factor of Safety                    - Plan 1
+               - Factor of Safety                    - `Plan 1`_
                - Uncertainty                         - `Slides 1`_
                - Project 1 introduction              - `Notes 1`_
 -- ----------  ------------------------------------  -------------  -----
@@ -87,6 +87,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 5: {filename}/pages/materials/prep-05.rst
 .. _Prep 6: {filename}/pages/materials/prep-06.rst
 
+.. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
 .. _Plan 3: {filename}/pages/materials/plan-03.rst
 .. _Plan 4: {filename}/pages/materials/plan-04.rst
