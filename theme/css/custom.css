@@ -4,3 +4,6 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background: #FFF
 }
+img.homeworkfig {
+  width: 600px
+}
