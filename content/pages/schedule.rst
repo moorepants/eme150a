@@ -29,7 +29,9 @@ quarter. **Check the schedule periodically for changes.**
                                                      - `Plan 5`_
                                                      - `Notes 5`_
 6  W Oct 7     - Principal stress                    - `Prep 6`_
-7  F Oct 9     - Mohr's circle                                      Proj. 1: Five designs in notebook
+                                                     - `Plan 6`_
+                                                     - `Notes 6`_
+7  F Oct 9     - Mohr's circle                       - `Prep 7`_    Proj. 1: Five designs in notebook
                - Proj. 1: lightning presentations
 -- ----------  ------------------------------------  -------------  -----
 8  M Oct 12    - Elastic strain                      Chapter 4      `HW #2`_ Due
@@ -84,12 +86,14 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 4: {filename}/pages/materials/prep-04.rst
 .. _Prep 5: {filename}/pages/materials/prep-05.rst
 .. _Prep 6: {filename}/pages/materials/prep-06.rst
+.. _Prep 7: {filename}/pages/materials/prep-07.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
 .. _Plan 3: {filename}/pages/materials/plan-03.rst
 .. _Plan 4: {filename}/pages/materials/plan-04.rst
 .. _Plan 5: {filename}/pages/materials/plan-05.rst
+.. _Plan 6: {filename}/pages/materials/plan-06.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -98,6 +102,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 3: {attach}/materials/notes-03.pdf
 .. _Notes 4: {attach}/materials/notes-04.pdf
 .. _Notes 5: {attach}/materials/notes-05.pdf
+.. _Notes 6: {attach}/materials/notes-06.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
