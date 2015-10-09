@@ -41,7 +41,7 @@ quarter. **Check the schedule periodically for changes.**
 10 F Oct 16    - Pressure vessels
                - Contact stresses
                - Proj 1: Intro to peer review                       Proj. 1: Report Draft Due
-               - FEA: Stress concentrations
+               - FEA: Stress concentrations                         FEA Assignment due
 -- ----------  ------------------------------------  -------------  -----
 11 M Oct 19    - Contact stresses                                   HW #3 Due
 NA T Oct 20    No lecture                                           Proj. 1: Peer review due
