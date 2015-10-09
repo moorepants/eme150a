@@ -32,7 +32,8 @@ quarter. **Check the schedule periodically for changes.**
                                                      - `Plan 6`_
                                                      - `Notes 6`_
 7  F Oct 9     - Mohr's circle                       - `Prep 7`_    Proj. 1: Five designs in notebook
-               - Proj. 1: lightning presentations
+               - Proj. 1: lightning presentations    - `Plan 7`_
+                                                     - `Notes 7`_
 -- ----------  ------------------------------------  -------------  -----
 8  M Oct 12    - Elastic strain                      Chapter 4      `HW #2`_ Due
 9  W Oct 14    - Stress concentrations
@@ -94,6 +95,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 4: {filename}/pages/materials/plan-04.rst
 .. _Plan 5: {filename}/pages/materials/plan-05.rst
 .. _Plan 6: {filename}/pages/materials/plan-06.rst
+.. _Plan 7: {filename}/pages/materials/plan-07.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -103,6 +105,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 4: {attach}/materials/notes-04.pdf
 .. _Notes 5: {attach}/materials/notes-05.pdf
 .. _Notes 6: {attach}/materials/notes-06.pdf
+.. _Notes 7: {attach}/materials/notes-07.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
