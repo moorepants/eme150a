@@ -35,7 +35,7 @@ quarter. **Check the schedule periodically for changes.**
                - Proj. 1: lightning presentations    - `Plan 7`_
                                                      - `Notes 7`_
 -- ----------  ------------------------------------  -------------  -----
-8  M Oct 12    - Elastic strain                      - `Prep 8`     `HW #2`_ Due
+8  M Oct 12    - Elastic strain                      - `Prep 8`_    `HW #2`_ Due
 9  W Oct 14    - Stress concentrations
                - Curved beams
 10 F Oct 16    - Pressure vessels
