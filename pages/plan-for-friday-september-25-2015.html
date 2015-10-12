@@ -9,6 +9,10 @@
         <!--[if IE]>
             <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+
+        <script type="text/javascript"
+          src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
 </head>
 
 <body id="index" class="home">
@@ -154,9 +158,9 @@ professional way&quot;, and the accident was an &quot;act of God&quot;
 <ul class="simple">
 <li>Max stress &lt; strength</li>
 <li>strength: property of the component/part/element</li>
-<li><span class="formula"><i>S</i></span> typically deontes strength</li>
+<li><span class="math">\(S\)</span> typically deontes strength</li>
 <li>stress: a property of the component's state at a specific point</li>
-<li><span class="formula"><i>σ</i></span> normal stress and <span class="formula"><i>τ</i></span> shear stress</li>
+<li><span class="math">\(\sigma\)</span> normal stress and <span class="math">\(\tau\)</span> shear stress</li>
 <li>Needs margin to ensure failure rare or improbable</li>
 <li>Focus on areas of the part that are critical stress areas</li>
 </ul>
@@ -186,15 +190,19 @@ The yield strength of hot rolled mild steel is 220 MPa.</blockquote>
 <dt>Design factor</dt>
 <dd>deterministic based on absolutes</dd>
 </dl>
-<div class="formula">
-<i>n</i><sub><i>d</i></sub> = <span class="fraction"><span class="ignored">(</span><span class="numerator"><i>loss</i><i>of</i><i>function</i><i>paramter</i></span><span class="ignored">)/(</span><span class="denominator"><i>maximum</i><i>allowable</i><i>parameter</i></span><span class="ignored">)</span></span>
+<div class="math">
+\begin{equation*}
+n_d = \frac{loss of function paramter}{maximum allowable parameter}
+\end{equation*}
 </div>
 <div class="section" id="id1">
 <h3>Class Question</h3>
 <p>If the load that will cause failure is between 90 and 110 lbs and you'd like a
 design factor of 2, what is the max allowable load?</p>
-<div class="formula">
-<i>P</i><sub><i>max</i></sub> = <span class="fraction"><span class="ignored">(</span><span class="numerator"><i>P</i><sub><i>fail</i></sub></span><span class="ignored">)/(</span><span class="denominator"><i>n</i><sub><i>d</i></sub></span><span class="ignored">)</span></span> = <span class="fraction"><span class="ignored">(</span><span class="numerator">90<span class="textrm">  lbs</span></span><span class="ignored">)/(</span><span class="denominator">2</span><span class="ignored">)</span></span> = 45<span class="textrm">  lbs</span>
+<div class="math">
+\begin{equation*}
+P_{max} = \frac{P_{fail}}{n_d} = \frac{90 \textrm{ lbs}}{2} = 45 \textrm{ lbs}
+\end{equation*}
 </div>
 </div>
 </div>
@@ -211,8 +219,10 @@ design factor of 2, what is the max allowable load?</p>
 </dl>
 <p>Why would the Factor of Safety be different than the design factor?</p>
 <p>This is most typically:</p>
-<div class="formula">
-<i>n</i><sub><i>d</i></sub> = <span class="fraction"><span class="ignored">(</span><span class="numerator"><i>S</i></span><span class="ignored">)/(</span><span class="denominator"><i>σ</i><span class="textrm"> or </span><i>τ</i></span><span class="ignored">)</span></span>
+<div class="math">
+\begin{equation*}
+n_d = \frac{S}{\sigma \textrm{ or } \tau}
+\end{equation*}
 </div>
 <p>because stress may not vary linearly with load.</p>
 <div class="section" id="sample-problem">
