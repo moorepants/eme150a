@@ -1,0 +1,62 @@
+:title: Homework #03
+:subtitle: Monday, October 12, 2015
+:status: hidden
+
+**DUE: Monday, October 19, 2015 before class in Box D in the MAE department.**
+
+`PDF Version <{attach}/materials/hw-03.pdf>`_
+
+Problem 1
+=========
+
+What is the maximum force :math:`F` that can be applied to this system to
+ensure that the stress in member :math:`CD` never exceeds 20 kpsi and the point
+:math:`A` moves no more than 0.05"? Assume that the curved bar, :math:`ABC`, is
+much more rigid than :math:`CD`, i.e. assume it doesn't deform. The modulus of
+elasticity of the bar :math:`CD` is :math:`6\times10^6
+\frac{\mathrm{lb}}{\mathrm{in}^2}` and the cross sectional area is
+:math:`0.25\mathrm{in}^2`.
+
+.. image:: {attach}/images/hw-03-prob-01.png
+   :class: homeworkfig
+
+Problem 2
+=========
+
+Three strain gauges are arranged in the orientation shown below on a free
+surface of a stressed member. The measured strains from the strain gauges are:
+
+- :math:`\epsilon_A = 50\times10^{-6}`
+- :math:`\epsilon_B = 120\times10^{-6}`
+- :math:`\epsilon_C = 264\times10^{-6}`
+
+a. Derive the symbolic expressions for :math:`\epsilon_x, \epsilon_y,
+   \epsilon_z` for this configuration. Use only rational numbers, i.e. no
+   decimal numbers and compute the state of strain.
+b. Find the principal strains and directions.
+c. If :math:`E=106\mathrm{GPa}` and :math:`G=40\mathrm{GPa}`, what are the
+   principal stresses and directions? Keep in mind that the normal stress on
+   the surface is 0 because it is a free surface.
+d. What is the maximum principal shear stress?
+
+.. image:: {attach}/images/hw-03-prob-02.png
+   :class: homeworkfig
+
+Problem 3
+=========
+
+Find the maximum stress in the axially loaded member shown below.
+
+.. image:: {attach}/images/hw-03-prob-03.png
+   :class: homeworkfig
+
+Problem 4
+=========
+
+A rock climbing carabiner is shown below. The carabiner must be able to
+withstand a force up to 2700 lb to be safe enough to catch a 10 ft fall. What
+are the curved beam theory predicted stresses at the inner and outer points on
+section A-A?
+
+.. image:: {attach}/images/hw-03-prob-04.png
+   :class: homeworkfig
