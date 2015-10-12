@@ -14,6 +14,10 @@ TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = 'en'
 
+PLUGIN_PATHS = ['/home/moorepants/src/pelican-plugins']
+PLUGINS = ['render_math']
+MATH_JAX = {'color':'black'}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

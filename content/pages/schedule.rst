@@ -45,7 +45,7 @@ quarter. **Check the schedule periodically for changes.**
                - Proj 1: Intro to peer review                       Proj. 1: Report Draft Due
                - FEA: Stress concentrations                         FEA Assignment due
 -- ----------  ------------------------------------  -------------  -----
-11 M Oct 19    - Contact stresses                                   HW #3 Due
+11 M Oct 19    - Contact stresses                                   `HW #3`_ Due
 NA T Oct 20    No lecture                                           Proj. 1: Peer review due
 12 W Oct 21    - Deformation and stiffness
 13 F Oct 23    - Deflections of beams                               Proj. 1: Report due
@@ -114,3 +114,4 @@ NA F Nov 27    Thanksgiving Day Holiday
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
+.. _HW #3: {filename}/pages/homework/hw-03.rst
