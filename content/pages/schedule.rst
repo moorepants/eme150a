@@ -38,7 +38,7 @@ quarter. **Check the schedule periodically for changes.**
 8  M Oct 12    - Elastic strain                      - `Prep 8`_    `HW #2`_ Due
                                                      - `Plan 8`_
                                                      - `Notes 8`_
-9  W Oct 14    - Stress concentrations
+9  W Oct 14    - Stress concentrations               - `Prep 9`_
                - Curved beams
 10 F Oct 16    - Pressure vessels
                - Contact stresses
@@ -91,6 +91,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 6: {filename}/pages/materials/prep-06.rst
 .. _Prep 7: {filename}/pages/materials/prep-07.rst
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
+.. _Prep 9: {filename}/pages/materials/prep-09.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
