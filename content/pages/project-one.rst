@@ -206,6 +206,13 @@ Reference Page
 
 Cite sources for any information that you didn't generate yourself.
 
+Appendix
+--------
+
+You may include an optional appendix with extra details, but you will only be
+graded on the above pages. The appendix could include more details of a
+calculation or a more detailed drawing/sketch.
+
 Formatting
 ----------
 
