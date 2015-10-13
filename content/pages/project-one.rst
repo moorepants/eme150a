@@ -154,6 +154,19 @@ Report
 The goal of the report is to explain the design you studied by giving the
 reader an idea of how it functions and why it was designed the way it was.
 
+The main content items we are looking for are:
+
+- That the explanation should be communicated through written and graphical
+  means.
+- You should identify the "need" that the design was meant to address.
+- You should comment on whether the need is or isn't addressed well, in your
+  engineering opinion and explain why you think so.
+- What are the design's weaknesses and strengths, and why?
+- That you address one or more of the "things to address" above. If you choose
+  one it should be thoroughly detailed and less so if you choose more.
+- You can close with suggestions for improvements to the design if you have
+  any.
+
 You will be graded on:
 
 - Accuracy and correctness of your design explanation
