@@ -38,10 +38,11 @@ quarter. **Check the schedule periodically for changes.**
 8  M Oct 12    - Elastic strain                      - `Prep 8`_    `HW #2`_ Due
                                                      - `Plan 8`_
                                                      - `Notes 8`_
-9  W Oct 14    - Stress concentrations               - `Prep 9`_
-               - Curved beams
-10 F Oct 16    - Pressure vessels
-               - Contact stresses
+9  W Oct 14    - Homework 2 review                   - `Prep 9`_
+               - Stress concentrations               - `Plan 9`_
+                                                     - `Notes 9`_
+10 F Oct 16    - Curved beams                        - `Prep 10`_
+               - Pressure vessels
                - Proj 1: Intro to peer review                       Proj. 1: Report Draft Due
                - FEA: Stress concentrations                         FEA Assignment due
 -- ----------  ------------------------------------  -------------  -----
@@ -92,6 +93,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 7: {filename}/pages/materials/prep-07.rst
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
+.. _Prep 10: {filename}/pages/materials/prep-10.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
@@ -101,6 +103,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 6: {filename}/pages/materials/plan-06.rst
 .. _Plan 7: {filename}/pages/materials/plan-07.rst
 .. _Plan 8: {filename}/pages/materials/plan-08.rst
+.. _Plan 9: {filename}/pages/materials/plan-09.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -112,6 +115,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 6: {attach}/materials/notes-06.pdf
 .. _Notes 7: {attach}/materials/notes-07.pdf
 .. _Notes 8: {attach}/materials/notes-08.pdf
+.. _Notes 9: {attach}/materials/notes-09.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
