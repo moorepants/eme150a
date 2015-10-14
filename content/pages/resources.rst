@@ -22,3 +22,4 @@ Other
 
 - `Juggling Bot <http://imgur.com/a/Ytscx>`_
 - `Tufte on PowerPoint <http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB>`_
+- `Paper clip machine <https://youtu.be/OsDdmDFDYHA>`_
