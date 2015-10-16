@@ -42,8 +42,8 @@ quarter. **Check the schedule periodically for changes.**
                - Stress concentrations               - `Plan 9`_
                                                      - `Notes 9`_
 10 F Oct 16    - Curved beams                        - `Prep 10`_
-               - Pressure vessels
-               - Proj 1: Intro to peer review                       Proj. 1: Report Draft Due
+               - Pressure vessels                    - `Plan 10`_
+               - Proj 1: Intro to peer review        - `Notes 10`_  Proj. 1: Report Draft Due
                - FEA: Stress concentrations                         FEA Assignment due
 -- ----------  ------------------------------------  -------------  -----
 11 M Oct 19    - Contact stresses                                   `HW #3`_ Due
@@ -104,6 +104,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 7: {filename}/pages/materials/plan-07.rst
 .. _Plan 8: {filename}/pages/materials/plan-08.rst
 .. _Plan 9: {filename}/pages/materials/plan-09.rst
+.. _Plan 10: {filename}/pages/materials/plan-10.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -116,6 +117,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 7: {attach}/materials/notes-07.pdf
 .. _Notes 8: {attach}/materials/notes-08.pdf
 .. _Notes 9: {attach}/materials/notes-09.pdf
+.. _Notes 10: {attach}/materials/notes-10.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
