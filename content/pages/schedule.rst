@@ -46,9 +46,8 @@ quarter. **Check the schedule periodically for changes.**
                - Proj 1: Intro to peer review        - `Notes 10`_  Proj. 1: Report Draft Due
                - FEA: Stress concentrations                         FEA Assignment due
 -- ----------  ------------------------------------  -------------  -----
-11 M Oct 19    - Contact stresses                                   `HW #3`_ Due
-NA T Oct 20    No lecture                                           Proj. 1: Peer review due
-12 W Oct 21    - Deformation and stiffness
+11 M Oct 19    - Contact stresses                    - `Prep 11`_   `HW #3`_ Due
+12 W Oct 21    - Deformation and stiffness                          Proj. 1: Peer review due
 13 F Oct 23    - Deflections of beams                               Proj. 1: Report due
                - Castigliano's Theorem
 -- ----------  ------------------------------------  -------------  -----
@@ -94,6 +93,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
+.. _Prep 11: {filename}/pages/materials/prep-11.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
