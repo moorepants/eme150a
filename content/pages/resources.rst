@@ -20,6 +20,8 @@ Tables
 Contact Stress Failures
 =======================
 
+- `Contact stress visualization from photoelasticity
+  <https://upload.wikimedia.org/wikipedia/commons/1/18/Kontakt_Spannungsoptik.JPG>`_
 - `Gear teeth spalling <http://www.rttech.com.au/wp-content/uploads/2010/06/mt6.jpg>`_
 - `Bearing Brinelling <http://www.linearmotiontips.com/wp-content/uploads/2013/04/False-brinelling-300x300.jpg>`_
 - Pitting:
