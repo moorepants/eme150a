@@ -47,6 +47,8 @@ quarter. **Check the schedule periodically for changes.**
                - FEA: Stress concentrations                         FEA Assignment due
 -- ----------  ------------------------------------  -------------  -----
 11 M Oct 19    - Contact stresses                    - `Prep 11`_   `HW #3`_ Due
+                                                     - `Plan 11`_
+                                                     - `Notes 11`_
 12 W Oct 21    - Deformation and stiffness                          Proj. 1: Peer review due
 13 F Oct 23    - Deflections of beams                               Proj. 1: Report due
                - Castigliano's Theorem
@@ -105,6 +107,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 8: {filename}/pages/materials/plan-08.rst
 .. _Plan 9: {filename}/pages/materials/plan-09.rst
 .. _Plan 10: {filename}/pages/materials/plan-10.rst
+.. _Plan 11: {filename}/pages/materials/plan-11.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -118,6 +121,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 8: {attach}/materials/notes-08.pdf
 .. _Notes 9: {attach}/materials/notes-09.pdf
 .. _Notes 10: {attach}/materials/notes-10.pdf
+.. _Notes 11: {attach}/materials/notes-11.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst

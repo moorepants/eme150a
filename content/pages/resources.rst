@@ -17,6 +17,18 @@ Tables
 .. [2] I'm looking for a better table for this. Something more like the book.
    Let me know if you find one (or make one). *-- Jason*
 
+Contact Stress Failures
+=======================
+
+- `Gear teeth spalling <http://www.rttech.com.au/wp-content/uploads/2010/06/mt6.jpg>`_
+- `Bearing Brinelling <http://www.linearmotiontips.com/wp-content/uploads/2013/04/False-brinelling-300x300.jpg>`_
+- Pitting:
+
+  - http://www.differentials.com/wp-content/uploads/2011/12/Pitted-Bearing_0159.jpg
+  - http://www.knowyourparts.com/public/uploads/2013/06/61274DiagSolnsp_00000022462.jpg
+  - http://thereliabilityroadmap.com/assets/images/pitting3.png
+  - http://thebiketube.com/sites/all/files/tutorials/pitted-ball-bearing-races.jpg
+
 Other
 =====
 
