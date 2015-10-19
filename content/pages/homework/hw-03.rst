@@ -15,7 +15,7 @@ ensure that the stress in member :math:`CD` never exceeds 20 kpsi and the point
 much more rigid than :math:`CD`, i.e. assume it doesn't deform. The modulus of
 elasticity of the bar :math:`CD` is :math:`6\times10^6
 \frac{\mathrm{lb}}{\mathrm{in}^2}` and the cross sectional area is
-:math:`0.25\mathrm{in}^2`.
+:math:`0.25\mathrm{in}^2`. All of the joints are pin joints.
 
 .. image:: {attach}/images/hw-03-prob-01.png
    :class: homeworkfig
@@ -45,7 +45,9 @@ d. What is the maximum principal shear stress?
 Problem 3
 =========
 
-Find the maximum stress in the axially loaded member shown below.
+Find the maximum stress in the axially loaded member shown below. The hole is
+far enough away from the step down that the stress concentrations do not
+interact.
 
 .. image:: {attach}/images/hw-03-prob-03.png
    :class: homeworkfig
@@ -56,7 +58,7 @@ Problem 4
 A rock climbing carabiner is shown below. The carabiner must be able to
 withstand a force up to 2700 lb to be safe enough to catch a 10 ft fall. What
 are the curved beam theory predicted stresses at the inner and outer points on
-section A-A?
+section A-A? The cross section is circular.
 
 .. image:: {attach}/images/hw-03-prob-04.png
    :class: homeworkfig

@@ -7,7 +7,7 @@ ensure that the stress in member :math:`CD` never exceeds 20 kpsi and the point
 much more rigid than :math:`CD`, i.e. assume it doesn't deform. The modulus of
 elasticity of the bar :math:`CD` is :math:`6\times10^6
 \frac{\mathrm{lb}}{\mathrm{in}^2}` and the cross sectional area is
-:math:`0.25\mathrm{in}^2`.
+:math:`0.25\mathrm{in}^2`. All of the joints are pin joints.
 
 .. image:: hw-03-prob-01.png
    :class: homeworkfig
