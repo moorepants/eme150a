@@ -78,13 +78,14 @@ Friday October 16
    draft you need to share it via Google drive with both instructors and your
    group members. The draft must be shared before the beginning of class on
    Friday. We will give an introduction to peer review process during class.
-Tuesday October 20
-   Each team member should peer review each other team member's report by
-   midnight Tuesday. Each team member must provide at least two positive and
-   two negative comments on each teammates' paper and any additional comments
-   must come in positive/negative pairs. Make sure to use the insert comment
-   functionality and/or the "suggestions" editing mode so that the author of
-   the paper can choose whether to accept your advice or not.
+Wednesday October 21
+   Each team member should peer review each other team member's report before
+   class. Each team member must provide at least two positive and two negative
+   comments on each teammates' paper and any additional comments must come in
+   positive/negative pairs. Make sure to use the insert comment functionality
+   and/or the "suggestions" editing mode so that the author of the paper can
+   choose whether to accept your advice or not. See the shared Google Doc for
+   more tips.
 Friday October 23
    After you've turned in your draft you should work to refine your report
    based off of you peer's feedback. The final report is due by beginning of
