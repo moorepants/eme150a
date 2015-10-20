@@ -1,0 +1,38 @@
+:title: Homework #04
+:subtitle: Monday, October 19, 2015
+:status: hidden
+
+**DUE: Monday, October 26, 2015 before class in Box D in the MAE department.**
+
+`PDF Version <{attach}/materials/hw-04.pdf>`_
+
+Problem 1
+=========
+
+A small spherical ball of brass is pressed into a hemispherical depression with
+a force :math:`F = 500N`. Determine the principal normal and shear stresses at
+the location along the z axis corresponding to the highest shear stress. The
+ball is made of brass and the depression is made of copper.
+
+.. image:: {attach}/images/hw-04-prob-01.png
+   :class: homeworkfig
+
+Problem 2
+=========
+
+Find the radius of curvature of the deflected beam at points A and B. The
+modulus of elasticity is 10 Mpsi.
+
+.. image:: {attach}/images/hw-04-prob-02.png
+   :class: homeworkfig
+
+Problem 3
+=========
+
+For the beam and loading shown, find the deflection at D and deflections and
+slope at C using two different methods. Use :math:`l = 1.2 \textrm{m}`,
+:math:`E = 180 \textrm{GPa}`, :math:`I = 0.23 \textrm{m}^2`, :math:`w = 60
+\frac{\textrm{kN}}{\textrm{m}}`.
+
+.. image:: {attach}/images/hw-04-prob-03.png
+   :class: homeworkfig
