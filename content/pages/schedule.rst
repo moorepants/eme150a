@@ -49,11 +49,11 @@ quarter. **Check the schedule periodically for changes.**
 11 M Oct 19    - Contact stresses                    - `Prep 11`_   `HW #3`_ Due
                                                      - `Plan 11`_
                                                      - `Notes 11`_
-12 W Oct 21    - Deformation and stiffness                          Proj. 1: Peer review due
+12 W Oct 21    - Deformation and stiffness           - `Prep 12`_   Proj. 1: Peer review due
 13 F Oct 23    - Deflections of beams                               Proj. 1: Report due
                - Castigliano's Theorem
 -- ----------  ------------------------------------  -------------  -----
-14 M Oct 26    - Statically indeterminate problems                  HW #4 Due
+14 M Oct 26    - Statically indeterminate problems                  `HW #4`_ Due
 15 W Oct 28    Catch up and review
 NA F Oct 30    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
@@ -96,6 +96,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
 .. _Prep 11: {filename}/pages/materials/prep-11.rst
+.. _Prep 12: {filename}/pages/materials/prep-12.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
@@ -126,3 +127,4 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
 .. _HW #3: {filename}/pages/homework/hw-03.rst
+.. _HW #4: {filename}/pages/homework/hw-04.rst
