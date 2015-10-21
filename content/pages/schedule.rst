@@ -50,6 +50,8 @@ quarter. **Check the schedule periodically for changes.**
                                                      - `Plan 11`_
                                                      - `Notes 11`_
 12 W Oct 21    - Deformation and stiffness           - `Prep 12`_   Proj. 1: Peer review due
+                                                     - `Plan 12`_
+                                                     - `Notes 12`_
 13 F Oct 23    - Deflections of beams                               Proj. 1: Report due
                - Castigliano's Theorem
 -- ----------  ------------------------------------  -------------  -----
@@ -109,6 +111,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 9: {filename}/pages/materials/plan-09.rst
 .. _Plan 10: {filename}/pages/materials/plan-10.rst
 .. _Plan 11: {filename}/pages/materials/plan-11.rst
+.. _Plan 12: {filename}/pages/materials/plan-12.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -123,6 +126,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 9: {attach}/materials/notes-09.pdf
 .. _Notes 10: {attach}/materials/notes-10.pdf
 .. _Notes 11: {attach}/materials/notes-11.pdf
+.. _Notes 12: {attach}/materials/notes-12.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
