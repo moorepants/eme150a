@@ -52,7 +52,7 @@ quarter. **Check the schedule periodically for changes.**
 12 W Oct 21    - Deformation and stiffness           - `Prep 12`_   Proj. 1: Peer review due
                                                      - `Plan 12`_
                                                      - `Notes 12`_
-13 F Oct 23    - Deflections of beams                               Proj. 1: Report due
+13 F Oct 23    - Deflections of beams                - `Prep 13`_   Proj. 1: Report due
                - Castigliano's Theorem
 -- ----------  ------------------------------------  -------------  -----
 14 M Oct 26    - Statically indeterminate problems                  `HW #4`_ Due
@@ -99,6 +99,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
 .. _Prep 11: {filename}/pages/materials/prep-11.rst
 .. _Prep 12: {filename}/pages/materials/prep-12.rst
+.. _Prep 13: {filename}/pages/materials/prep-13.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
