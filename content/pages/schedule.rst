@@ -49,14 +49,16 @@ quarter. **Check the schedule periodically for changes.**
 11 M Oct 19    - Contact stresses                    - `Prep 11`_   `HW #3`_ Due
                                                      - `Plan 11`_
                                                      - `Notes 11`_
-12 W Oct 21    - Deformation and stiffness           - `Prep 12`_   Proj. 1: Peer review due
-                                                     - `Plan 12`_
-                                                     - `Notes 12`_
+12 W Oct 21    - Copyright                           - `Prep 12`_   Proj. 1: Peer review due
+               - Combined loads quiz                 - `Plan 12`_
+               - Deformation and stiffness           - `Notes 12`_
 13 F Oct 23    - Deflections of beams                - `Prep 13`_   Proj. 1: Report due
-               - Castigliano's Theorem
+                                                     - `Plan 13`_
+                                                     - `Notes 13`_
 -- ----------  ------------------------------------  -------------  -----
-14 M Oct 26    - Statically indeterminate problems                  `HW #4`_ Due
-15 W Oct 28    Catch up and review
+14 M Oct 26    - Castigliano's Theorem                              `HW #4`_ Due
+15 W Oct 28    - Statically indeterminate problems
+               - Catch up and review
 NA F Oct 30    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
 16 M Nov 2     - Project 2: Introduction
@@ -113,6 +115,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 10: {filename}/pages/materials/plan-10.rst
 .. _Plan 11: {filename}/pages/materials/plan-11.rst
 .. _Plan 12: {filename}/pages/materials/plan-12.rst
+.. _Plan 13: {filename}/pages/materials/plan-13.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -128,6 +131,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 10: {attach}/materials/notes-10.pdf
 .. _Notes 11: {attach}/materials/notes-11.pdf
 .. _Notes 12: {attach}/materials/notes-12.pdf
+.. _Notes 13: {attach}/materials/notes-13.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
