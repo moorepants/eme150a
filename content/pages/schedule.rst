@@ -56,12 +56,14 @@ quarter. **Check the schedule periodically for changes.**
                                                      - `Plan 13`_
                                                      - `Notes 13`_
 -- ----------  ------------------------------------  -------------  -----
-14 M Oct 26    - Castigliano's Theorem                              `HW #4`_ Due
-15 W Oct 28    - Statically indeterminate problems
-               - Catch up and review
+14 M Oct 26    - Deformation and stiffness           - `Plan 14`_   `HW #4`_ Due
+               - Midterm review                      - `Notes 14`_
+15 W Oct 28    - Catch up and review
 NA F Oct 30    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
 16 M Nov 2     - Project 2: Introduction
+               - Castigliano's Theorem
+               - Statically indeterminate problems
                - Buckling and compression
 17 W Nov 4     - Static failure theory               Chapter 5
 18 F Nov 6     - Static failure theory
@@ -116,6 +118,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 11: {filename}/pages/materials/plan-11.rst
 .. _Plan 12: {filename}/pages/materials/plan-12.rst
 .. _Plan 13: {filename}/pages/materials/plan-13.rst
+.. _Plan 14: {filename}/pages/materials/plan-14.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -132,6 +135,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 11: {attach}/materials/notes-11.pdf
 .. _Notes 12: {attach}/materials/notes-12.pdf
 .. _Notes 13: {attach}/materials/notes-13.pdf
+.. _Notes 14: {attach}/materials/notes-14.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
