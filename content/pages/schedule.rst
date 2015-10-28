@@ -58,7 +58,9 @@ quarter. **Check the schedule periodically for changes.**
 -- ----------  ------------------------------------  -------------  -----
 14 M Oct 26    - Deformation and stiffness           - `Plan 14`_   `HW #4`_ Due
                - Midterm review                      - `Notes 14`_
-15 W Oct 28    - Catch up and review
+15 W Oct 28    - Catch up and review                 - `Prep 15`_
+                                                     - `Plan 15`_
+                                                     - `Notes 15`_
 NA F Oct 30    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
 16 M Nov 2     - Project 2: Introduction
@@ -104,6 +106,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Prep 11: {filename}/pages/materials/prep-11.rst
 .. _Prep 12: {filename}/pages/materials/prep-12.rst
 .. _Prep 13: {filename}/pages/materials/prep-13.rst
+.. _Prep 15: {filename}/pages/materials/prep-15.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
@@ -119,6 +122,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 12: {filename}/pages/materials/plan-12.rst
 .. _Plan 13: {filename}/pages/materials/plan-13.rst
 .. _Plan 14: {filename}/pages/materials/plan-14.rst
+.. _Plan 15: {filename}/pages/materials/plan-15.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -136,6 +140,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Notes 12: {attach}/materials/notes-12.pdf
 .. _Notes 13: {attach}/materials/notes-13.pdf
 .. _Notes 14: {attach}/materials/notes-14.pdf
+.. _Notes 15: {attach}/materials/notes-15.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
