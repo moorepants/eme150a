@@ -18,17 +18,25 @@ easy to operate, easy to maintain, and be cost effective.
    discourage bringing bicycles on public transit because there simply isn't
    room. Davis is likely in this camp.
 
-Goals
-=====
+Educational Goals
+=================
 
+- To be able to describe your design using verbal, written, and graphical
+  communication means.
+- To develop team work and collaboration skills.
+- To effectively use engineering analyses to guide design decisions.
+
+Team Goals
+===========
+
+- To collectively develop an open ended mechanical design that meets
+  static/dynamic failure criteria while meeting the stakeholder's needs.
 - Log your design activities in your design notebook or in electronic documents
   and keep you materials well organized.
-- You must performed detailed static and dynamic failure analyses for your
-  design to prove that your design meets all requirements and is safe for
-  consumer use. You will need to report an overall factor of safety that should
-  be appropriate for this type of product.
-- You should be able to describe your design using verbal, written, and
-  graphical communication means.
+- To perform detailed static and dynamic failure analyses for your design to
+  prove that your design meets all requirements and is safe for consumer use.
+  You will need to report an overall factor of safety that should be
+  appropriate for this type of product.
 - You will need to estimate the cost of manufacture and report an estimated
   "Manufacturers Suggest Retail Price (MSRP)" price for the design.
 - Include any pertinent information that you find during your research.
@@ -43,10 +51,6 @@ Design Contraints and Feature Requirements
 - The rack should be able to hold a static load of 250 lbs, e.g. a person
   should be able to stand on it while washing the window.
 - The rack must be attached to the front bumper area of the chassis.
-- The rack should have a "stowed" configuration and a "loaded" configuration,
-  i.e. if bicycles are not being carried, the rack should be take up less space
-  and be fully secured from motion. The "stowing" should be able to be done
-  with one hand.
 - The bicycles must be guaranteed not to fall off during transit.
 - It must be usable by a variety of people and allow for the easiest possible
   bicycle attachment to the rack.
@@ -135,7 +139,6 @@ can use any kind of communication media that you want, e.g. the board,
 projector, handouts, etc. Your goal is communicate your technical information
 as clearly and succinctly as possible. Think carefully about the mediums you
 use to do this.
-
 
 Reports
 =======
