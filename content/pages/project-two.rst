@@ -5,8 +5,8 @@ Introduction
 ============
 
 Your team will be tasked with developing a design to meet a hypothetical need
-of `Unitrans <http://unitrans.ucdavis.edu>`_, the public transportation
-authority in Davis, CA. Davis is known as the "Bicycle Capital of the United
+for `Unitrans <http://unitrans.ucdavis.edu>`_, the public transportation
+system in Davis. Davis is known as the "Bicycle Capital of the United
 States" and Unitrans finally wants to figure out how to carry bicycles on their
 buses like many other transit authorities in the country [1]_. Your team's job
 will be to develop a detailed mechanical design for a dual bicycle rack that is
@@ -18,27 +18,28 @@ easy to operate, easy to maintain, and be cost effective.
    discourage bringing bicycles on public transit because there simply isn't
    room. Davis is likely in this camp.
 
-Educational Goals
-=================
+Educational Objectives
+======================
 
+- To learn to effectively use engineering analyses to guide design decisions in
+  an open ended problem.
+- To develop team work and collaboration skills around a technical mission.
 - To be able to describe your design using verbal, written, and graphical
   communication means.
-- To develop team work and collaboration skills.
-- To effectively use engineering analyses to guide design decisions.
 
-Team Goals
-===========
+Project Goals
+=============
 
 - To collectively develop an open ended mechanical design that meets
   static/dynamic failure criteria while meeting the stakeholder's needs.
-- Log your design activities in your design notebook or in electronic documents
-  and keep you materials well organized.
 - To perform detailed static and dynamic failure analyses for your design to
   prove that your design meets all requirements and is safe for consumer use.
   You will need to report an overall factor of safety that should be
   appropriate for this type of product.
 - You will need to estimate the cost of manufacture and report an estimated
   "Manufacturers Suggest Retail Price (MSRP)" price for the design.
+- Log your design activities in your design notebook or in electronic documents
+  and keep you materials well organized.
 - Include any pertinent information that you find during your research.
 
 Design Contraints and Feature Requirements
@@ -47,7 +48,7 @@ Design Contraints and Feature Requirements
 - The bicycle rack must be able to carry at least two normal bicycles (wheel
   size 20" to 29", road and mountain width tire tread). The maximum weight of a
   single bike shall be no more than 55 lbs. It will not accommodate
-  non-standard things like unicycles, tandems, recumbents, etc.
+  non-standard cycles like unicycles, tandems, recumbents, etc.
 - The rack should be able to hold a static load of 250 lbs, e.g. a person
   should be able to stand on it while washing the window.
 - The rack must be attached to the front bumper area of the chassis.
@@ -61,12 +62,12 @@ Design Contraints and Feature Requirements
   made of standard steel or aluminum structural elements.
 - The rack must be corrosion resistant and designed for an all-weather
   environment.
-- Each bicycles must be able to be loaded independently.
-- It should never force the user to be on the traffic side of the bus to
-  load/unload the bicycle.
+- Each bicycle must be able to be loaded independently.
+- The rack design should never force the user to be on the traffic side of the
+  bus to load/unload the bicycle.
 - The operation should be intuitively obvious or clear simple instructions
   provided on or near the rack.
-- The rack itself should weight no more than 75 lbs.
+- The rack itself should weigh no more than 75 lbs and be removable.
 - The rack should not protrude past the sides of the bus.
 
 Obtaining Information
@@ -80,7 +81,7 @@ communicated, and pointed. They should be written in format, tone, language
 that you'd expect to see in professional communication. With good questions we
 will provide you with the needed information to clarify the details. But, keep
 in mind that there may not always be an answer and it is up to your team to
-make the best decisions with the available information.
+make the best decisions with the available information. Ask early and often!
 
 Activities
 ==========
@@ -104,18 +105,18 @@ Question Grouping (5 minutes)
    Eliminate duplicates by combining them into one question.
 Design Ideation Sketching (5 minutes)
    At this point you will each go to the sheets of white paper on the walls and
-   sketch a design independently.
+   sketch a design independently. Leave room for two sketches per person.
 Design Sketching Modifications (5 minutes)
-   Next rotate positions so that you are in front of a teammates design. Below
-   the teammates design, add, subtract, or modify the their design to create a
-   new design.
+   Next rotate positions so that you are in front of a teammate's design. Below
+   the teammate's design, add, subtract, or modify their design to create a new
+   design.
 Design Review and Discussion (10 minutes)
     Now discuss the merits of each design idea. Add new questions and refine
-    the previous ones that will need to be determined to make decisions each
-    design's merits.
+    the previous ones that will need to be determined to make decisions about
+    each design's merits.
 
-Tuesday, November 3rd
----------------------
+Tuesday, November 3rd, 11 AM
+----------------------------
 
 At least one team member will visit the Unitrans maintenance facility on campus
 to meet with Andrew Wyly, the Maintenance Manager. You will have the
@@ -123,6 +124,8 @@ opportunity to ask many of the questions developed during the ideation session
 and inspect the bus for technical details. Be sure to bring a camera and a
 measuring device. This may be your only chance to inspect the actual bus in
 detail.
+
+Location: http://campusmap.ucdavis.edu/?b=173
 
 Friday, November 20
 -------------------
@@ -143,23 +146,25 @@ use to do this.
 Reports
 =======
 
-You will create four memos that culminate in a full final report. The
-reports will all be turned in as PDFs to Smartsite on the respective due date.
-Each report should stand on its own but you will be able to use the content
-from the memos in the final report.
+You will create four memos that culminate in a final report. The reports will
+all be turned in as PDFs to Smartsite on the respective due date.  Each memo
+should stand on its own and you will be able to use the content from the memos
+in the final report.
 
-- Each report must be submitted as a single PDF document.
+- Each report or memo must be submitted as a single PDF document.
 - Your group is free to use any software you prefer to prepare the documents.
-- The reports should be treated as a professional documents and should be self
-  contained.
+- The memos and report should be treated as a professional documents and should
+  be self contained.
+- The audience you should write for is a technically component reader, e.g.
+  another engineering colleague or engineering management.
 
 Memos
 -----
 
-The memos are at most one page. The formatting is informal, but professional.
-Use these to report the required progress and to act as drafts for your final
-report sections. The more you put into these this less work you'll need when
-preparing the final report.
+The memos are at most one page. The formatting is not strict, but they should
+be professional. Use these to report the required progress and to act as drafts
+for your final report sections. The more you put into these this less work
+you'll need when preparing the final report.
 
 Plan and Ideation (Friday, November 6)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -181,14 +186,14 @@ meet the requirements and hold up to more scrutinous analyses.
 Static Failure (Friday, November 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The static failure memo is due today. You will need to show that your
-your design will have a sufficient safety factor for static loads.
+The static failure memo will need to show that your your design will have a
+sufficient safety factor for static loads.
 
 Dynamic Failure (Wednesday December 2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The dynamic failure memo is due today. You will need to show that your
-your design will have a sufficient safety factor for dynamic loads.
+The dynamic failure memo will need to show that your your design will have a
+sufficient safety factor for dynamic loads.
 
 Final Report
 ------------
@@ -227,7 +232,7 @@ Manufacturing
    This section should provide the estimates and explanations of
    manufacturability including costs.
 Conclusion
-   The conclusion should wrap up you paper and can mention lessons learned and
+   The conclusion should wrap up your paper and can mention lessons learned and
    ideas for the future.
 
 References
