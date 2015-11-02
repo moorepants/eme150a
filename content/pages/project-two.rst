@@ -154,8 +154,8 @@ in the final report.
 - Each report or memo must be submitted as a single PDF document.
 - Your group is free to use any software you prefer to prepare the documents.
 - The memos and report should be treated as a professional documents and should
-  be self contained.
-- The audience you should write for is a technically component reader, e.g.
+  be self contained
+- The audience you should write for is a technically competent reader, e.g.
   another engineering colleague or engineering management.
 
 Memos
