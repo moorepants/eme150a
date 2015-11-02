@@ -63,33 +63,32 @@ quarter. **Check the schedule periodically for changes.**
                                                      - `Notes 15`_
 NA F Oct 30    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
-16 M Nov 2     - Project 2: Introduction
-               - Castigliano's Theorem
+16 M Nov 2     - Project 2: Intro and ideation
+NA T Nov 3     Proj. 2: Unitrans visit
+17 W Nov 4     - Castigliano's Theorem
                - Statically indeterminate problems
-               - Buckling and compression
-17 W Nov 4     - Static failure theory               Chapter 5
-18 F Nov 6     - Static failure theory
-               - Project 2: Ideation
+18 F Nov 6     - Buckling and compression                           Proj. 2: Plan Due
+               - Static failure theory
 -- ----------  ------------------------------------  -------------  -----
 19 M Nov 9     - Static failure theory                              HW #5 Due
 NA W Nov 11    Veteran's Day Holiday
-20 F Nov 13    - Fatigue Failure
+20 F Nov 13    - Fatigue Failure                                    FEA Assignment, Proj. 2: Initial Design
                - FEA: Pressure Vessels
 -- ----------  ------------------------------------  -------------  -----
 21 M Nov 16    Fatigue Failure                                      HW #6 Due
 22 W Nov 18    S-N curves and endurance limits
-23 F Nov 20    - Fluctuation stress
-               - Project 2: Design Review
+23 F Nov 20    Fluctuation stress                                   Proj. 2.: Static Failure
 -- ----------  ------------------------------------  -------------  -----
 24 M Nov 23    Fatigue and factor of safety                         HW #7 Due
 25 W Nov 25    Compound and cumulative loading
 NA F Nov 27    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  -------------  -----
 26 M Nov 30    Fracture mechanics                                   HW #8 Due
-27 W Dec 2     Fracture mechanics, cont
-28 F Dec 4     - Catch up and review                                Project 2: Final report due
+27 W Dec 2     Fracture mechanics                                   Proj 2.: Dynamic Failure
+28 F Dec 4     - Catch up and review
                - Project 2: Lightning talks
 -- ----------  ------------------------------------  -------------  -----
+   S Dec 6     NA                                                   Proj 2.: Final Report, CATME Peer Eval
    F Dec 11    **Final Exam** 10:30-12:30
 == ==========  ====================================  =============  =====
 
