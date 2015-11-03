@@ -63,7 +63,7 @@ quarter. **Check the schedule periodically for changes.**
                                                      - `Notes 15`_
 NA F Oct 30    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
-16 M Nov 2     - Project 2: Intro and ideation
+16 M Nov 2     - Project 2: Intro and ideation       - `Plan 16`_
 NA T Nov 3     Proj. 2: Unitrans visit
 17 W Nov 4     - Castigliano's Theorem
                - Statically indeterminate problems
@@ -122,6 +122,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _Plan 13: {filename}/pages/materials/plan-13.rst
 .. _Plan 14: {filename}/pages/materials/plan-14.rst
 .. _Plan 15: {filename}/pages/materials/plan-15.rst
+.. _Plan 16: {filename}/pages/materials/plan-16.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
