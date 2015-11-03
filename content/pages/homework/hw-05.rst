@@ -1,0 +1,46 @@
+:title: Homework #05
+:subtitle: Monday, November 02, 2015
+:status: hidden
+
+**DUE: Monday, November 09, 2015 before class in Box D in the MAE department.**
+
+`PDF Version <{attach}/materials/hw-05.pdf>`_
+
+Problem 1
+=========
+
+Find the deflection of the end of the bar in the direction of the applied force
+using Castigliano's theorem. The bar is made from steel.
+
+.. image:: {attach}/images/hw-05-prob-01.png
+   :class: homeworkfig
+
+Problem 2
+=========
+
+Shown below is a 3/16" diameter steel wire where R=5" and l=3". The applied
+force, P, is 1 lb. Estimate the vertical deflection of point A and justify any
+components of strain energy that you neglect.
+
+.. image:: {attach}/images/hw-05-prob-02.png
+   :class: homeworkfig
+
+Problem 3
+=========
+
+A piston and connecting rod are shown below. If the operating pressure in the
+chamber is 2000 psi, the rod ends are pin joints, and the rod is made of AISI
+1030 steel what should the preferred diameter of the rod be for a design factor
+of 3 to prevent buckling.
+
+.. image:: {attach}/images/hw-05-prob-03.png
+   :class: homeworkfig
+
+Problem 4
+=========
+
+Determine an expression for what the outside diameter of a slender tube must be
+for buckling to occur if the inside diameter is d, the outside diameter is D,
+and the ratio of the two is K=d/D. The expression should be in terms of K, the
+critical load, column length, modulus of elasticity, and the end condition
+constant.

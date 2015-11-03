@@ -70,7 +70,7 @@ NA T Nov 3     Proj. 2: Unitrans visit
 18 F Nov 6     - Buckling and compression                           Proj. 2: Plan Due
                - Static failure theory
 -- ----------  ------------------------------------  -------------  -----
-19 M Nov 9     - Static failure theory                              HW #5 Due
+19 M Nov 9     - Static failure theory                              `HW #5`_ Due
 NA W Nov 11    Veteran's Day Holiday
 20 F Nov 13    - Fatigue Failure                                    FEA Assignment, Proj. 2: Initial Design
                - FEA: Pressure Vessels
@@ -145,3 +145,4 @@ NA F Nov 27    Thanksgiving Day Holiday
 .. _HW #2: {filename}/pages/homework/hw-02.rst
 .. _HW #3: {filename}/pages/homework/hw-03.rst
 .. _HW #4: {filename}/pages/homework/hw-04.rst
+.. _HW #5: {filename}/pages/homework/hw-05.rst
