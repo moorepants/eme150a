@@ -65,9 +65,10 @@ NA F Oct 30    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
 16 M Nov 2     - Project 2: Intro and ideation       - `Plan 16`_
 NA T Nov 3     Proj. 2: Unitrans visit
-17 W Nov 4     - Castigliano's Theorem
-               - Statically indeterminate problems
-18 F Nov 6     - Buckling and compression                           Proj. 2: Plan Memo Due
+17 W Nov 4     - Castigliano's Theorem               - `Plan 17`_
+                                                     - `Notes 17`_
+18 F Nov 6     - Statically indeterminate problems                  Proj. 2: Plan Memo Due
+               - Buckling and compression
                - Static failure theory
 -- ----------  ------------------------------------  -------------  -----
 19 M Nov 9     - Static failure theory                              `HW #5`_ Due
@@ -123,6 +124,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Plan 14: {filename}/pages/materials/plan-14.rst
 .. _Plan 15: {filename}/pages/materials/plan-15.rst
 .. _Plan 16: {filename}/pages/materials/plan-16.rst
+.. _Plan 17: {filename}/pages/materials/plan-17.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -141,6 +143,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 13: {attach}/materials/notes-13.pdf
 .. _Notes 14: {attach}/materials/notes-14.pdf
 .. _Notes 15: {attach}/materials/notes-15.pdf
+.. _Notes 17: {attach}/materials/notes-17.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
