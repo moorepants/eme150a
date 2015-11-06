@@ -67,13 +67,13 @@ NA F Oct 30    **Midterm**
 NA T Nov 3     Proj. 2: Unitrans visit
 17 W Nov 4     - Castigliano's Theorem               - `Plan 17`_
                                                      - `Notes 17`_
-18 F Nov 6     - Statically indeterminate problems                  Proj. 2: Plan Memo Due
-               - Buckling and compression
-               - Static failure theory
+18 F Nov 6     - Statically indeterminate problems   - `Plan 18`_   Proj. 2: Plan Memo Due
+               - Buckling and compression            - `Notes 18`_
+               - Midterm results review
 -- ----------  ------------------------------------  -------------  -----
 19 M Nov 9     - Static failure theory                              `HW #5`_ Due
 NA W Nov 11    Veteran's Day Holiday
-20 F Nov 13    - Fatigue Failure                                    FEA Assignment, Proj. 2: Initial Design Memo Due
+20 F Nov 13    - Fatigue Failure                                    Proj. 2: Initial Design Memo Due
                - FEA: Pressure Vessels
 -- ----------  ------------------------------------  -------------  -----
 21 M Nov 16    Fatigue Failure                                      HW #6 Due
@@ -89,7 +89,7 @@ NA F Nov 27    Thanksgiving Day Holiday
 28 F Dec 4     - Catch up and review
                - Project 2: Lightning talks
 -- ----------  ------------------------------------  -------------  -----
-NA S Dec 6     NA                                                   Proj 2.: Final Report Due, CATME Peer Eval Due
+NA U Dec 6     NA                                                   Proj 2.: Final Report Due, CATME Peer Eval Due
 NA F Dec 11    **Final Exam** 10:30-12:30
 == ==========  ====================================  =============  =====
 
@@ -125,6 +125,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Plan 15: {filename}/pages/materials/plan-15.rst
 .. _Plan 16: {filename}/pages/materials/plan-16.rst
 .. _Plan 17: {filename}/pages/materials/plan-17.rst
+.. _Plan 18: {filename}/pages/materials/plan-18.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -144,6 +145,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 14: {attach}/materials/notes-14.pdf
 .. _Notes 15: {attach}/materials/notes-15.pdf
 .. _Notes 17: {attach}/materials/notes-17.pdf
+.. _Notes 18: {attach}/materials/notes-18.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
