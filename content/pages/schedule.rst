@@ -71,9 +71,11 @@ NA T Nov 3     Proj. 2: Unitrans visit
                - Buckling and compression            - `Notes 18`_
                - Midterm results review
 -- ----------  ------------------------------------  -------------  -----
-19 M Nov 9     - Static failure theory                              `HW #5`_ Due
+19 M Nov 9     - Static failure theory: Ductile      - `Plan 19`_   `HW #5`_ Due
+                                                     - `Notes 19`_
 NA W Nov 11    Veteran's Day Holiday
-20 F Nov 13    - Fatigue Failure                                    Proj. 2: Initial Design Memo Due
+20 F Nov 13    - Quiz on sections 5-7 to 5-13        - `Prep 20`_   Proj. 2: Initial Design Memo Due
+               - Static failure theory: Brittle
                - FEA: Pressure Vessels
 -- ----------  ------------------------------------  -------------  -----
 21 M Nov 16    Fatigue Failure                                      HW #6 Due
@@ -107,6 +109,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Prep 12: {filename}/pages/materials/prep-12.rst
 .. _Prep 13: {filename}/pages/materials/prep-13.rst
 .. _Prep 15: {filename}/pages/materials/prep-15.rst
+.. _Prep 20: {filename}/pages/materials/prep-20.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
@@ -126,6 +129,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Plan 16: {filename}/pages/materials/plan-16.rst
 .. _Plan 17: {filename}/pages/materials/plan-17.rst
 .. _Plan 18: {filename}/pages/materials/plan-18.rst
+.. _Plan 19: {filename}/pages/materials/plan-19.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -146,6 +150,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 15: {attach}/materials/notes-15.pdf
 .. _Notes 17: {attach}/materials/notes-17.pdf
 .. _Notes 18: {attach}/materials/notes-18.pdf
+.. _Notes 19: {attach}/materials/notes-19.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
