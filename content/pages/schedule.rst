@@ -78,7 +78,7 @@ NA W Nov 11    Veteran's Day Holiday
                - Static failure theory: Brittle
                - FEA: Pressure Vessels
 -- ----------  ------------------------------------  -------------  -----
-21 M Nov 16    Fatigue Failure                                      HW #6 Due
+21 M Nov 16    Fatigue Failure                                      `HW #6`_ Due
 22 W Nov 18    S-N curves and endurance limits
 23 F Nov 20    Fluctuation stress                                   Proj. 2.: Static Failure Memo Due
 -- ----------  ------------------------------------  -------------  -----
@@ -157,3 +157,4 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _HW #3: {filename}/pages/homework/hw-03.rst
 .. _HW #4: {filename}/pages/homework/hw-04.rst
 .. _HW #5: {filename}/pages/homework/hw-05.rst
+.. _HW #6: {filename}/pages/homework/hw-06.rst
