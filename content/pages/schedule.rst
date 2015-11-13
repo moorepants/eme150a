@@ -75,8 +75,8 @@ NA T Nov 3     Proj. 2: Unitrans visit
                                                      - `Notes 19`_
 NA W Nov 11    Veteran's Day Holiday
 20 F Nov 13    - Quiz on sections 5-7 to 5-13        - `Prep 20`_   Proj. 2: Initial Design Memo
-               - Static failure theory: Brittle
-               - FEA: Pressure Vessels
+               - Static failure theory: Brittle      - `Plan 20`_
+               - FEA: Pressure Vessels               - `Notes 20`_
 -- ----------  ------------------------------------  -------------  -----
 21 M Nov 16    Fatigue Failure                                      `HW #6`_
 22 W Nov 18    S-N curves and endurance limits
@@ -130,6 +130,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Plan 17: {filename}/pages/materials/plan-17.rst
 .. _Plan 18: {filename}/pages/materials/plan-18.rst
 .. _Plan 19: {filename}/pages/materials/plan-19.rst
+.. _Plan 20: {filename}/pages/materials/plan-20.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -151,6 +152,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 17: {attach}/materials/notes-17.pdf
 .. _Notes 18: {attach}/materials/notes-18.pdf
 .. _Notes 19: {attach}/materials/notes-19.pdf
+.. _Notes 20: {attach}/materials/notes-20.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
