@@ -14,6 +14,10 @@ Install miniconda. Create an environment for Pelican sites::
    $ source activate pelican
    (pelican)$ pip install pelican ghp-import
 
+Clone the plugin repository (for the render_math plugin)::
+
+   $ git clone git@github.com:getpelican/pelican-plugins.git ~/src/
+
 Rebuild and serve the site locally::
 
    (pelican)$ fab reserve
