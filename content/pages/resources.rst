@@ -31,6 +31,14 @@ Contact Stress Failures
   - http://thereliabilityroadmap.com/assets/images/pitting3.png
   - http://thebiketube.com/sites/all/files/tutorials/pitted-ball-bearing-races.jpg
 
+Fatigue Failures
+================
+
+- `R. R. Moore Fatigue Test of AL 6061-T6 [Video] <https://youtu.be/93I6Wk7GZhI>`_
+- `FATIMAT Rotating Bending Machine Prototype [Video] <https://youtu.be/52knsY5AWIc>`_
+- `Notable Fatigue Failures <https://en.wikipedia.org/wiki/Fatigue_%28material%29#Notable_fatigue_failures>`_
+- `Xcelerator Cable Snap Accident <https://youtu.be/VFL2ybuxeUY>`_
+
 Other
 =====
 
