@@ -1,4 +1,4 @@
-:title: Preparation for Friday, October 13, 2015
+:title: Preparation for Friday, November 13, 2015
 :status: hidden
 
 Preparation
