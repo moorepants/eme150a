@@ -1,0 +1,41 @@
+:title: Homework #07
+:subtitle: Monday, November 16, 2015
+:status: hidden
+
+**DUE: Monday, November 23, 2015 before class in Box D in the MAE department.**
+
+`PDF Version <{attach}/materials/hw-07.pdf>`_
+
+Problem 1
+=========
+
+(1) Estimate the endurance limit and the low cycle fatigue strength for an
+axially loaded ground steel specimen with :math:`S_{ut} = 150 \mathrm{ksi}`,
+:math:`d= 1.0 \mathrm{in}`, and :math:`T = 70^\circ \mathrm{F}`. (2) Determine
+the expected life for :math:`\sigma_a = 75 \mathrm{ksi}`.
+
+Problem 2
+=========
+
+Determine the required diameter for a round steel element that is axially
+loaded from -2500 to 2500 lb in fully reversed cycles. Assume it is ground,
+:math:`S_{ut} = 150 \mathrm{ksi}`, and is loaded at :math:`T = 70^\circ
+\mathrm{F}`. Determine the diameter for infinite life and :math:`10^3` cycles.
+
+Problem 3
+=========
+
+Given a 2024-T3 aluminum specimen forged to :math:`2.0 \mathrm{in}` round,
+determine the fatigue strength for :math:`3 \times 10^7` cycles of loading for
+fully reversed torsion. Note that for non-ferrous metals, the unmodified
+fatigue strength is taken at :math:`N = 5 \times 10^8` cycles (see Table A-24).
+
+Problem 4
+=========
+
+A simple hot rolled 1020 steel cantilever beam is loaded transversely at the
+end with a fully reversing load of :math:`\pm 5 \mathrm{kN}`. The beam has a
+rectangular cross section with a width of :math:`40 \mathrm{mm}`. What is the
+required height of the beam's cross section to guarantee safe operation up to
+:math:`N = 10^4 \mathrm{cycles}` with a design factor of 2? Neglect any stress
+concentrations.
