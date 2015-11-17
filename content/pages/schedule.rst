@@ -80,7 +80,7 @@ NA W Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  -------------  -----
 21 M Nov 16    Fatigue Failure Introduction          - `Plan 21`_   `HW #6`_
                S-N curves and endurance limits       - `Notes 21`_
-22 W Nov 18    Marin parameters                      -`Prep 22`_
+22 W Nov 18    Marin parameters                      - `Prep 22`_
 23 F Nov 20    Fluctuation stress                                   Proj. 2.: Static Failure Memo
 -- ----------  ------------------------------------  -------------  -----
 24 M Nov 23    Fatigue and factor of safety                         HW #7
