@@ -78,13 +78,13 @@ NA W Nov 11    Veteran's Day Holiday
                - Static failure theory: Brittle      - `Plan 20`_
                - FEA: Pressure Vessels               - `Notes 20`_
 -- ----------  ------------------------------------  -------------  -----
-21 M Nov 16    Fatigue Failure Introduction          - `Plan 21`_   `HW #6`_
-               S-N curves and endurance limits       - `Notes 21`_
-22 W Nov 18    Marin parameters                      - `Prep 22`_
-                                                     - `Plan 22`_
+21 M Nov 16    - Fatigue Failure Introduction        - `Plan 21`_   `HW #6`_
+               - S-N curves and endurance limits     - `Notes 21`_
+22 W Nov 18    Crack growth                          - `Prep 22`_
+               Marin parameters                      - `Plan 22`_
                                                      - `Notes 22`_
-23 F Nov 20    Stree concentrations                                 Proj. 2.: Static Failure Memo
-               Fluctuation stress
+23 F Nov 20    - Stress concentrations                                 Proj. 2.: Static Failure Memo
+               - Fluctuation stress
 -- ----------  ------------------------------------  -------------  -----
 24 M Nov 23    Fatigue and factor of safety                         HW #7
 25 W Nov 25    Compound and cumulative loading
