@@ -83,10 +83,10 @@ NA W Nov 11    Veteran's Day Holiday
 22 W Nov 18    Crack growth                          - `Prep 22`_
                Marin parameters                      - `Plan 22`_
                                                      - `Notes 22`_
-23 F Nov 20    - Stress concentrations                                 Proj. 2.: Static Failure Memo
-               - Fluctuation stress
+23 F Nov 20    - Stress concentrations               - `Plan 23`_   Proj. 2.: Static Failure Memo
+               - Fluctuation stress                  - `Notes 23`_
 -- ----------  ------------------------------------  -------------  -----
-24 M Nov 23    Fatigue and factor of safety                         HW #7
+24 M Nov 23    Fatigue and factor of safety                         `HW #7`_
 25 W Nov 25    Compound and cumulative loading
 NA F Nov 27    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  -------------  -----
@@ -138,6 +138,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Plan 20: {filename}/pages/materials/plan-20.rst
 .. _Plan 21: {filename}/pages/materials/plan-21.rst
 .. _Plan 22: {filename}/pages/materials/plan-22.rst
+.. _Plan 23: {filename}/pages/materials/plan-23.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -162,6 +163,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 20: {attach}/materials/notes-20.pdf
 .. _Notes 21: {attach}/materials/notes-21.pdf
 .. _Notes 22: {attach}/materials/notes-22.pdf
+.. _Notes 23: {attach}/materials/notes-23.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
@@ -169,3 +171,4 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _HW #4: {filename}/pages/homework/hw-04.rst
 .. _HW #5: {filename}/pages/homework/hw-05.rst
 .. _HW #6: {filename}/pages/homework/hw-06.rst
+.. _HW #7: {filename}/pages/homework/hw-07.rst
