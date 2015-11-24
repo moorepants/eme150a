@@ -84,13 +84,13 @@ NA W Nov 11    Veteran's Day Holiday
                Marin parameters                      - `Plan 22`_
                                                      - `Notes 22`_
 23 F Nov 20    - Stress concentrations               - `Plan 23`_   Proj. 2.: Static Failure Memo
-               - Fluctuation stress                  - `Notes 23`_
+               - Fluctuating stress                  - `Notes 23`_
 -- ----------  ------------------------------------  -------------  -----
-24 M Nov 23    Fatigue and factor of safety                         `HW #7`_
+24 M Nov 23    Fluctuating stress                    - `Notes 24`_  `HW #7`_
 25 W Nov 25    Compound and cumulative loading
 NA F Nov 27    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  -------------  -----
-26 M Nov 30    Fracture mechanics                                   HW #8
+26 M Nov 30    Modeling                                             HW #8
 27 W Dec 2     Fracture mechanics                                   Proj 2.: Dynamic Failure Memo
 28 F Dec 4     - Catch up and review
                - Project 2: Lightning talks
@@ -164,6 +164,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 21: {attach}/materials/notes-21.pdf
 .. _Notes 22: {attach}/materials/notes-22.pdf
 .. _Notes 23: {attach}/materials/notes-23.pdf
+.. _Notes 24: {attach}/materials/notes-24.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
