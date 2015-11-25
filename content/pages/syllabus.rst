@@ -115,7 +115,7 @@ McGraw Hill Education. ISBN 978-0-07-339820-4 [`Book Information`_]
 
 .. _Book Information: http://highered.mheducation.com/sites/0073398209/information_center_view0/index.html
 
-Both reading will be assigned from the textbook. A copy of the textbook will be
+Reading will be assigned from the textbook. A copy of the textbook will be
 available on two-hour reserve at the library. I will do my best to provide the
 homework in a way that doesn't require you purchase the book to read any
 problems but this is not guaranteed. Older editions will be more than
