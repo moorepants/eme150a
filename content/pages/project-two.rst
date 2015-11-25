@@ -136,20 +136,20 @@ Friday, December 4th
 --------------------
 
 During the discussion period each team will have a five minute lightning talk
-to pitch their design to the rest of the class. Your goal is to show why your
-design meets all of the requirements and why it would be the best choice. You
-can use any kind of communication media that you want, e.g. the board,
-projector, handouts, etc. Your goal is communicate your technical information
-as clearly and succinctly as possible. Think carefully about the mediums you
-use to do this.
+to pitch their design to the rest of the class and judges. Your goal is to show
+why your design meets all of the requirements and why it would be the best
+choice. You can use any kind of communication media that you want, e.g. the
+board, projector, handouts, etc. Your goal is communicate your technical
+information as clearly and succinctly as possible. Think carefully about the
+mediums you use to do this.
 
 Reports
 =======
 
 You will create four memos that culminate in a final report. The reports will
-all be turned in as PDFs to Smartsite on the respective due date.  Each memo
-should stand on its own and you will be able to use the content from the memos
-in the final report.
+all be turned in as PDFs to Smartsite on the respective due date. Each memo
+should stand on its own and you will be able to use the content as a base to
+develop the final report.
 
 - Each report or memo must be submitted as a single PDF document.
 - Your group is free to use any software you prefer to prepare the documents.
@@ -183,11 +183,30 @@ pursue. You should at least have back-of-the-envelope calculations, drawings,
 and other items in place that gives confidence that your design will likely
 meet the requirements and hold up to more scrutinous analyses.
 
+- Ideally pick one main one to start with that you can iterate, but you can
+  mention multiple design ideas that you haven't chosen yet.
+- Should have some graphical elements that communicate your design.
+- Explanation of how your design will meet core requirements and what other
+  features your are adding.
+- Thoughts on material choices.
+- What will be the most likely weak spots for failure and what analysis you
+  will likely need to use.
+
 Static Failure (Friday, November 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The static failure memo will need to show that your your design will have a
 sufficient safety factor for static loads.
+
+- Identify the elements with the highest stresses due to static loadings.
+- Requirement: 250 lb standing on end of rack, but you need to locate other
+  unique failure points in your design too.
+- Show individual factor of safety for critical points (hand calcs required,
+  FEA can be used to support your conclusions)
+- Report the overall factor of safety for the design.
+- Justify your material and geometry choices.
+- Explanations on what you may need to redesign to make it safer: material
+  choice, geometry changes, etc.
 
 Dynamic Failure (Wednesday December 2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -195,11 +214,31 @@ Dynamic Failure (Wednesday December 2)
 The dynamic failure memo will need to show that your your design will have a
 sufficient safety factor for dynamic loads.
 
+- Where are the largest stresses seen from dynamic loads?
+- How did you estimate the max and min stresses for the critical areas?
+- What fatigue material properties did you obtain for your material choices?
+- What magnitude of fatigue stresses are seen?
+- What factor of safety do you find for fatigue?
+
 Final Report
 ------------
 
 The final report in PDF format will be due via Smartsite by midnight Sunday,
-December 6th. See below for report format details.
+December 6th.
+
+General Format
+~~~~~~~~~~~~~~
+
+- The report should fit on 8.5" x 11" sheets of paper[1]_.
+- All margins should be 1".
+- The font of main text should be 11 pt Arial.
+- Number and caption all figures and tables.
+- The font size in captions can be 10 pt.
+- Include page numbers on every sheet.
+- Equations should be numbered and rendered as proper mathematical notation.
+- Any citation style is permitted.
+
+.. [1] Be sure to scale layout drawings correctly.
 
 Title Page
 ~~~~~~~~~~
@@ -239,15 +278,17 @@ References
 ~~~~~~~~~~
 
 All text and materials in the paper that were not created by your team must be
-cited here. Be sure to up-hold copyright laws on any included material.
+cited here. Be sure to up-hold copyright laws on any included material. Use any
+citation style that you prefer that fully communicates the reference.
 
 Appendices
 ~~~~~~~~~~
 
-The appendices can contain details that don't belong in the main text. Examples
-are layout drawings, renderings, detailed calculations, etc. Anything that
-takes attention away from the main points in the paper should go in the
-appendices.
+The appendices can be any length and contain details that don't belong in the
+main text. This should include layout drawings, 3D renderings, detailed
+calculations, big tables, etc. Basically, anything that takes attention away
+from the main points but provides the details that back them up should go in
+the appendices.
 
 Grading
 =======
@@ -259,9 +300,9 @@ Plan Memo               5%
 Initial Memo            5%
 Static Failure Memo     5%
 Dynamic Failure Memo    5%
-Peer Evaluations        5%
+Peer Evaluations        10%
 Lightning talk          10%
-Final Report            65%
+Final Report            60%
 ======================  ===
 
 Sample grading items
@@ -276,10 +317,11 @@ Sample grading items
 - design theory selection and justification
 - selection of safety factor
 - design theory application
-- manufacturing nd assembly
+- manufacturing and assembly
 - constraints achieved
 - suggestions on how to improve the design
 - suggestions on how to improve the validation of the design
 - written and graphical design communication
 - team work
 - utilization of tools and theory from your courses
+- deflection analysis
