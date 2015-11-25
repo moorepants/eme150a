@@ -90,7 +90,7 @@ NA W Nov 11    Veteran's Day Holiday
 25 W Nov 25    Compound and cumulative loading
 NA F Nov 27    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  -------------  -----
-26 M Nov 30    Modeling                                             HW #8
+26 M Nov 30    Modeling                                             `HW #8`_
 27 W Dec 2     Fracture mechanics                                   Proj 2.: Dynamic Failure Memo
 28 F Dec 4     - Catch up and review
                - Project 2: Lightning talks
@@ -173,3 +173,4 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _HW #5: {filename}/pages/homework/hw-05.rst
 .. _HW #6: {filename}/pages/homework/hw-06.rst
 .. _HW #7: {filename}/pages/homework/hw-07.rst
+.. _HW #8: {filename}/pages/homework/hw-08.rst
