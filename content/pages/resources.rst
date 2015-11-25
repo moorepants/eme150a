@@ -39,6 +39,19 @@ Fatigue Failures
 - `Notable Fatigue Failures <https://en.wikipedia.org/wiki/Fatigue_%28material%29#Notable_fatigue_failures>`_
 - `Xcelerator Cable Snap Accident <https://youtu.be/VFL2ybuxeUY>`_
 
+Self-driving Race Cars
+======================
+
+- `Christian Gerdes TEDX talk
+  <https://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver?language=en>`_
+- `Shelley Article and Video
+  <http://www.aaas.org/news/safer-self-driving-cars-race-track-may-hold-key>`_
+- `Who will be driving on the Highway of the Future?
+  <https://youtu.be/LFx0s3odCx8>`_ (talk by Christian Gerdes)
+- `Introduction to MARTY <https://www.youtube.com/watch?v=WNIDcT0Zdj4>`_ (electrified and automous Delorean)
+- `Renovo Motors <http://www.renovomotors.com/>`_ (has hired interns and
+  employees from UCD in the past)
+
 Other
 =====
 
