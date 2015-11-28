@@ -229,7 +229,7 @@ December 6th.
 General Format
 ~~~~~~~~~~~~~~
 
-- The report should fit on 8.5" x 11" sheets of paper[1]_.
+- The report should fit on 8.5" x 11" sheets of paper[2]_.
 - All margins should be 1".
 - The font of main text should be 11 pt Arial.
 - Number and caption all figures and tables.
@@ -238,7 +238,7 @@ General Format
 - Equations should be numbered and rendered as proper mathematical notation.
 - Any citation style is permitted.
 
-.. [1] Be sure to scale layout drawings correctly.
+.. [2] Be sure to scale layout drawings correctly.
 
 Title Page
 ~~~~~~~~~~
@@ -288,7 +288,7 @@ The appendices can be any length and contain details that don't belong in the
 main text. This should include layout drawings, 3D renderings, detailed
 calculations, big tables, etc. Basically, anything that takes attention away
 from the main points but provides the details that back them up should go in
-the appendices.
+the appendices. Working layout drawings are required.
 
 Grading
 =======
