@@ -164,20 +164,20 @@ detail.</p>
 <div class="section" id="friday-december-4th">
 <h3>Friday, December 4th</h3>
 <p>During the discussion period each team will have a five minute lightning talk
-to pitch their design to the rest of the class. Your goal is to show why your
-design meets all of the requirements and why it would be the best choice. You
-can use any kind of communication media that you want, e.g. the board,
-projector, handouts, etc. Your goal is communicate your technical information
-as clearly and succinctly as possible. Think carefully about the mediums you
-use to do this.</p>
+to pitch their design to the rest of the class and judges. Your goal is to show
+why your design meets all of the requirements and why it would be the best
+choice. You can use any kind of communication media that you want, e.g. the
+board, projector, handouts, etc. Your goal is communicate your technical
+information as clearly and succinctly as possible. Think carefully about the
+mediums you use to do this.</p>
 </div>
 </div>
 <div class="section" id="reports">
 <h2>Reports</h2>
 <p>You will create four memos that culminate in a final report. The reports will
-all be turned in as PDFs to Smartsite on the respective due date.  Each memo
-should stand on its own and you will be able to use the content from the memos
-in the final report.</p>
+all be turned in as PDFs to Smartsite on the respective due date. Each memo
+should stand on its own and you will be able to use the content as a base to
+develop the final report.</p>
 <ul class="simple">
 <li>Each report or memo must be submitted as a single PDF document.</li>
 <li>Your group is free to use any software you prefer to prepare the documents.</li>
@@ -206,22 +206,69 @@ concepts you will pursue.</p>
 pursue. You should at least have back-of-the-envelope calculations, drawings,
 and other items in place that gives confidence that your design will likely
 meet the requirements and hold up to more scrutinous analyses.</p>
+<ul class="simple">
+<li>Ideally pick one main one to start with that you can iterate, but you can
+mention multiple design ideas that you haven't chosen yet.</li>
+<li>Should have some graphical elements that communicate your design.</li>
+<li>Explanation of how your design will meet core requirements and what other
+features your are adding.</li>
+<li>Thoughts on material choices.</li>
+<li>What will be the most likely weak spots for failure and what analysis you
+will likely need to use.</li>
+</ul>
 </div>
 <div class="section" id="static-failure-friday-november-20">
 <h4>Static Failure (Friday, November 20)</h4>
 <p>The static failure memo will need to show that your your design will have a
 sufficient safety factor for static loads.</p>
+<ul class="simple">
+<li>Identify the elements with the highest stresses due to static loadings.</li>
+<li>Requirement: 250 lb standing on end of rack, but you need to locate other
+unique failure points in your design too.</li>
+<li>Show individual factor of safety for critical points (hand calcs required,
+FEA can be used to support your conclusions)</li>
+<li>Report the overall factor of safety for the design.</li>
+<li>Justify your material and geometry choices.</li>
+<li>Explanations on what you may need to redesign to make it safer: material
+choice, geometry changes, etc.</li>
+</ul>
 </div>
 <div class="section" id="dynamic-failure-wednesday-december-2">
 <h4>Dynamic Failure (Wednesday December 2)</h4>
 <p>The dynamic failure memo will need to show that your your design will have a
 sufficient safety factor for dynamic loads.</p>
+<ul class="simple">
+<li>Where are the largest stresses seen from dynamic loads?</li>
+<li>How did you estimate the max and min stresses for the critical areas?</li>
+<li>What fatigue material properties did you obtain for your material choices?</li>
+<li>What magnitude of fatigue stresses are seen?</li>
+<li>What factor of safety do you find for fatigue?</li>
+</ul>
 </div>
 </div>
 <div class="section" id="final-report">
 <h3>Final Report</h3>
 <p>The final report in PDF format will be due via Smartsite by midnight Sunday,
-December 6th. See below for report format details.</p>
+December 6th.</p>
+<div class="section" id="general-format">
+<h4>General Format</h4>
+<ul class="simple">
+<li>The report should fit on 8.5&quot; x 11&quot; sheets of paper[2]_.</li>
+<li>All margins should be 1&quot;.</li>
+<li>The font of main text should be 11 pt Arial.</li>
+<li>Number and caption all figures and tables.</li>
+<li>The font size in captions can be 10 pt.</li>
+<li>Include page numbers on every sheet.</li>
+<li>Equations should be numbered and rendered as proper mathematical notation.</li>
+<li>Any citation style is permitted.</li>
+</ul>
+<table class="docutils footnote" frame="void" id="id3" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[2]</td><td>Be sure to scale layout drawings correctly.</td></tr>
+</tbody>
+</table>
+</div>
 <div class="section" id="title-page">
 <h4>Title Page</h4>
 <p>The title page should include the title, authors, team name, date, course
@@ -257,14 +304,16 @@ ideas for the future.</dd>
 <div class="section" id="references">
 <h4>References</h4>
 <p>All text and materials in the paper that were not created by your team must be
-cited here. Be sure to up-hold copyright laws on any included material.</p>
+cited here. Be sure to up-hold copyright laws on any included material. Use any
+citation style that you prefer that fully communicates the reference.</p>
 </div>
 <div class="section" id="appendices">
 <h4>Appendices</h4>
-<p>The appendices can contain details that don't belong in the main text. Examples
-are layout drawings, renderings, detailed calculations, etc. Anything that
-takes attention away from the main points in the paper should go in the
-appendices.</p>
+<p>The appendices can be any length and contain details that don't belong in the
+main text. This should include layout drawings, 3D renderings, detailed
+calculations, big tables, etc. Basically, anything that takes attention away
+from the main points but provides the details that back them up should go in
+the appendices. Working layout drawings are required.</p>
 </div>
 </div>
 </div>
@@ -290,13 +339,13 @@ appendices.</p>
 <td>5%</td>
 </tr>
 <tr><td>Peer Evaluations</td>
-<td>5%</td>
+<td>10%</td>
 </tr>
 <tr><td>Lightning talk</td>
 <td>10%</td>
 </tr>
 <tr><td>Final Report</td>
-<td>65%</td>
+<td>60%</td>
 </tr>
 </tbody>
 </table>
@@ -312,13 +361,14 @@ appendices.</p>
 <li>design theory selection and justification</li>
 <li>selection of safety factor</li>
 <li>design theory application</li>
-<li>manufacturing nd assembly</li>
+<li>manufacturing and assembly</li>
 <li>constraints achieved</li>
 <li>suggestions on how to improve the design</li>
 <li>suggestions on how to improve the validation of the design</li>
 <li>written and graphical design communication</li>
 <li>team work</li>
 <li>utilization of tools and theory from your courses</li>
+<li>deflection analysis</li>
 </ul>
 </div>
 </div>
