@@ -91,9 +91,11 @@ NA W Nov 11    Veteran's Day Holiday
                                                      - `Notes 25`_
 NA F Nov 27    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  -------------  -----
-26 M Nov 30    Modeling                                             `HW #8`_
-27 W Dec 2     Fracture mechanics                                   Proj 2.: Dynamic Failure Memo
-28 F Dec 4     - Catch up and review
+26 M Nov 30    - Cumlative loading                   - `Plan 26`_   `HW #8`_
+               - Homework review                     - `Notes 26`_
+27 W Dec 2     - Exam review                                        Proj 2.: Dynamic Failure Memo
+28 F Dec 4     - Review                              - `Plan 28`_
+               - Course evaluations
                - Project 2: Lightning talks
 -- ----------  ------------------------------------  -------------  -----
 NA U Dec 6     NA                                                   Proj 2.: Final Report, CATME Peer Eval
@@ -141,6 +143,8 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Plan 22: {filename}/pages/materials/plan-22.rst
 .. _Plan 23: {filename}/pages/materials/plan-23.rst
 .. _Plan 25: {filename}/pages/materials/plan-25.rst
+.. _Plan 26: {filename}/pages/materials/plan-26.rst
+.. _Plan 28: {filename}/pages/materials/plan-28.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
 
@@ -168,6 +172,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 23: {attach}/materials/notes-23.pdf
 .. _Notes 24: {attach}/materials/notes-24.pdf
 .. _Notes 25: {attach}/materials/notes-25.pdf
+.. _Notes 26: {attach}/materials/notes-26.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
