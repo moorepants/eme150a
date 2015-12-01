@@ -296,7 +296,8 @@ Lightning Talk
 Your team will have 5 minutes to pitch your design. The talk will be followed
 by 1 minute of questions while the next team sets up. The intended audience for
 your pitch will be engineering management and a potential purchaser of the
-product, so adjust your content appropriately.
+product, so adjust your content appropriately. You should touch on the design
+features, analyses for failure, manufacturing and cost, etc.
 
 Suggestion:
 
@@ -310,7 +311,7 @@ Notes
 - We will be very strict with time. You will be cut off at 5 minutes!
 - Can use visuals: doc camera, board, projector
 - It takes more time than you expect to make it concise!
-- You grade will come from the three judges.
+- Your grade will come from the three judges.
 - The best talk, based on class vote, will get a prize!
 
 - https://en.wikipedia.org/wiki/Lightning_talk
