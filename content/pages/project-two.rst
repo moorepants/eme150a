@@ -5,14 +5,14 @@ Introduction
 ============
 
 Your team will be tasked with developing a design to meet a hypothetical need
-for `Unitrans <http://unitrans.ucdavis.edu>`_, the public transportation
-system in Davis. Davis is known as the "Bicycle Capital of the United
-States" and Unitrans finally wants to figure out how to carry bicycles on their
-buses like many other transit authorities in the country [1]_. Your team's job
-will be to develop a detailed mechanical design for a dual bicycle rack that is
-mounted to the front of a typical Unitrans bus. The design will have to meet a
-number of constraints and have a variety of features, all while being safe,
-easy to operate, easy to maintain, and be cost effective.
+for `Unitrans <http://unitrans.ucdavis.edu>`_, the public transportation system
+in Davis. Davis is known as the "Bicycle Capital of the United States" and
+Unitrans finally wants to figure out how to carry bicycles on their buses like
+many other transit authorities in the country [1]_. Your team's job will be to
+develop a detailed mechanical design for a dual bicycle rack that is mounted to
+the front of a typical Unitrans bus. The design will have to meet a number of
+constraints and have a variety of features, all while being safe, easy to
+operate, easy to maintain, and be cost effective.
 
 .. [1] In actuality, most cities that have high bicycle and high transit usage
    discourage bringing bicycles on public transit because there simply isn't
@@ -195,7 +195,7 @@ meet the requirements and hold up to more scrutinous analyses.
 Static Failure (Friday, November 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The static failure memo will need to show that your your design will have a
+The static failure memo will need to show that your design will have a
 sufficient safety factor for static loads.
 
 - Identify the elements with the highest stresses due to static loadings.
@@ -288,7 +288,35 @@ The appendices can be any length and contain details that don't belong in the
 main text. This should include layout drawings, 3D renderings, detailed
 calculations, big tables, etc. Basically, anything that takes attention away
 from the main points but provides the details that back them up should go in
-the appendices. Working layout drawings are required.
+the appendices.
+
+Lightning Talk
+==============
+
+Your team will have 5 minutes to pitch your design. The talk will be followed
+by 1 minute of questions while the next team sets up. The intended audience for
+your pitch will be engineering management and a potential purchaser of the
+product, so adjust your content appropriately.
+
+Suggestion:
+
+- Make ten slides that will be shown for 30 seconds each (each team member
+  makes 2-3 slides).
+- Each slide has an accompanying script that focuses on the main points.
+- Pick one person to deliver the talk.
+
+Notes
+
+- We will be very strict with time. You will be cut off at 5 minutes!
+- Can use visuals: doc camera, board, projector
+- It takes more time than you expect to make it concise!
+- You grade will come from the three judges.
+- The best talk, based on class vote, will get a prize!
+
+- https://en.wikipedia.org/wiki/Lightning_talk
+- `Giving a good lightning talk <http://software.ac.uk/home/cw11/giving-good-lightning-talk>`_
+- `16 ways to prepare for a lightning talk <http://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/>`_
+- Search for "Lightning Talk" to find many other resources.
 
 Grading
 =======
@@ -301,7 +329,7 @@ Initial Memo            5%
 Static Failure Memo     5%
 Dynamic Failure Memo    5%
 Peer Evaluations        10%
-Lightning talk          10%
+Lightning Talk          10%
 Final Report            60%
 ======================  ===
 
