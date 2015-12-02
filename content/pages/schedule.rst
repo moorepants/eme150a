@@ -80,8 +80,8 @@ NA W Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  -------------  -----
 21 M Nov 16    - Fatigue Failure Introduction        - `Plan 21`_   `HW #6`_
                - S-N curves and endurance limits     - `Notes 21`_
-22 W Nov 18    Crack growth                          - `Prep 22`_
-               Marin parameters                      - `Plan 22`_
+22 W Nov 18    - Crack growth                        - `Prep 22`_
+               - Marin parameters                    - `Plan 22`_
                                                      - `Notes 22`_
 23 F Nov 20    - Stress concentrations               - `Plan 23`_   Proj. 2.: Static Failure Memo
                - Fluctuating stress                  - `Notes 23`_
@@ -93,12 +93,14 @@ NA F Nov 27    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  -------------  -----
 26 M Nov 30    - Cumlative loading                   - `Plan 26`_   `HW #8`_
                - Homework review                     - `Notes 26`_
-27 W Dec 2     - Exam review                                        Proj 2.: Dynamic Failure Memo
-28 F Dec 4     - Review                              - `Plan 28`_
+27 W Dec 2     - Exam review                         - `Plan 27`_   Proj 2.: Dynamic Failure Memo
+                                                     - `Notes 27`_
+28 F Dec 4     - Project 2: Lightning talks          - `Plan 28`_
+               - Review
                - Course evaluations
-               - Project 2: Lightning talks
 -- ----------  ------------------------------------  -------------  -----
-NA U Dec 6     NA                                                   Proj 2.: Final Report, CATME Peer Eval
+NA U Dec 6     NA                                                   Proj 2.: Final Report
+NA M Dec 7     NA                                                   CATME Peer Eval
 NA F Dec 11    **Final Exam** 10:30-12:30
 == ==========  ====================================  =============  =====
 
@@ -144,6 +146,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Plan 23: {filename}/pages/materials/plan-23.rst
 .. _Plan 25: {filename}/pages/materials/plan-25.rst
 .. _Plan 26: {filename}/pages/materials/plan-26.rst
+.. _Plan 27: {filename}/pages/materials/plan-27.rst
 .. _Plan 28: {filename}/pages/materials/plan-28.rst
 
 .. _Slides 1: https://docs.google.com/presentation/d/1vXz6O1fpYN7E2HNdC6TS16fi51hsjfbb0YZdRBYPENs/pub?start=false&loop=false&delayms=3000
@@ -173,6 +176,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 24: {attach}/materials/notes-24.pdf
 .. _Notes 25: {attach}/materials/notes-25.pdf
 .. _Notes 26: {attach}/materials/notes-26.pdf
+.. _Notes 27: {attach}/materials/notes-27.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst

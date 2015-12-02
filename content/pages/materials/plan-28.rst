@@ -4,66 +4,38 @@
 9:00
 ====
 
-Questions?
+- Introduction to the lightning talks
+- 7 teams with 6 minutes each (5 min talk, 1 min question/changeover)
 
-9:05
-====
-
-Do example problem(s)
-
-9:25
-====
-
-Course evaluations
-
-9:40
-====
-
-Break and test visuals.
+| 9:05: Team Cap Screw
+| 9:11: Team Crankshaft
+| 9:17: Team Flywheel
+| 9:23: Team Helical Spring
+| 9:29: Team Planetary Gear
+| 9:35: Team Roller Bearing
+| 9:41: Team Weldment
 
 9:50
 ====
 
-Introduction to the lightning talks
+Voting
 
-7 teams with 6 minutes each (5 min talk, 1 min question)
-
-9:55
-====
-
-1. Team
-
-10:01
+10:00
 =====
 
-2. Team Cap Screw
+Break
 
-10:07
+10:10
 =====
 
-3. Team Roller Bearing
+Announce winners!
 
-10:13
+10:15
 =====
 
-4. Team Helical Spring
+Example problem(s)
 
-10:19
+10:40
 =====
 
-5. Team Weldment
-
-10:25
-=====
-
-6.
-
-10:31
-=====
-
-7.
-
-10:37
-=====
-
-Judging and prizes
+Course evaluations
