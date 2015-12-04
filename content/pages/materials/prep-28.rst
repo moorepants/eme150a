@@ -22,4 +22,6 @@ Course Evaluations
 The last 10 to 15 minutes of class will be used to fill out the electronic
 course evaluations at:
 
+http://eval.ucdavis.edu
+
 **Bring a smartphone, tablet, or laptop with you to class to access this.**
