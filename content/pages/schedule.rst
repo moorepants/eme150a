@@ -95,8 +95,8 @@ NA F Nov 27    Thanksgiving Day Holiday
                - Homework review                     - `Notes 26`_
 27 W Dec 2     - Exam review                         - `Plan 27`_   Proj 2.: Dynamic Failure Memo
                                                      - `Notes 27`_
-28 F Dec 4     - Project 2: Lightning talks          - `Plan 28`_
-               - Review
+28 F Dec 4     - Project 2: Lightning talks          - `Prep 28`_
+               - Review                              - `Plan 28`_
                - Course evaluations
 -- ----------  ------------------------------------  -------------  -----
 NA U Dec 6     NA                                                   Proj 2.: Final Report
@@ -120,6 +120,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Prep 15: {filename}/pages/materials/prep-15.rst
 .. _Prep 20: {filename}/pages/materials/prep-20.rst
 .. _Prep 22: {filename}/pages/materials/prep-22.rst
+.. _Prep 28: {filename}/pages/materials/prep-28.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 .. _Plan 2: {filename}/pages/materials/plan-02.rst
