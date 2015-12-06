@@ -97,7 +97,7 @@ NA F Nov 27    Thanksgiving Day Holiday
                                                      - `Notes 27`_
 28 F Dec 4     - Project 2: Lightning talks          - `Prep 28`_
                - Review                              - `Plan 28`_
-               - Course evaluations
+               - Course evaluations                  - `Notes 28`_
 -- ----------  ------------------------------------  -------------  -----
 NA U Dec 6     NA                                                   Proj 2.: Final Report
 NA M Dec 7     NA                                                   CATME Peer Eval
@@ -178,6 +178,7 @@ NA F Dec 11    **Final Exam** 10:30-12:30
 .. _Notes 25: {attach}/materials/notes-25.pdf
 .. _Notes 26: {attach}/materials/notes-26.pdf
 .. _Notes 27: {attach}/materials/notes-27.pdf
+.. _Notes 28: {attach}/materials/notes-28.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
