@@ -1,6 +1,11 @@
 :title: Resources
 :sortorder: 4
 
+Exam Review
+===========
+
+`Final Exam Study Guide <{filename}/pages/final-exam-study-guide.rst>`_
+
 Tables
 ======
 
