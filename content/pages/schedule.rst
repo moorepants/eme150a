@@ -4,104 +4,104 @@
 This is the schedule for the quarter. The midterm and final dates are fixed and
 homework will be due each week on Monday except around the exams. The lecture
 topics are tentative and will be adjusted to fit the flow of the class. Project
-One due dates are fixed and Project Two due dates will be posted later in the
-quarter. **Check the schedule periodically for changes.**
+One and Two. **Check the schedule periodically for changes.**
 
 == ==========  ====================================  =============  =====
 #  Date        Topic                                 Materials      Assignment Due
 == ==========  ====================================  =============  =====
-1  F Sep 25    - Introduction to mechanical design   - `Prep 1`_
+1  W Sep 21    - Introduction to mechanical design   - `Prep 1`_
                - Factor of Safety                    - `Plan 1`_
                - Uncertainty                         - `Slides 1`_
-               - Project 1 introduction              - `Notes 1`_
--- ----------  ------------------------------------  -------------  -----
-2  M Sep 28    Reliability, Tolerances, Units        - `Prep 2`_
-                                                     - `Plan 2`_
+                                                     - `Notes 1`_
+2  F Sep 23    Reliability, Tolerances, Units        - `Prep 2`_
+               - Project 1 introduction              - `Plan 2`_
                                                      - `Notes 2`_
-3  W Sep 30    Free body diagrams                    - `Prep 3`_
+-- ----------  ------------------------------------  -------------  -----
+3  M Sep 26    Free body diagrams                    - `Prep 3`_
                                                      - `Plan 3`_
                                                      - `Notes 3`_
-4  F Oct 2     - Bending moment and shear diagrams   - `Prep 4`_    Proj. 1: 50 designs
-               - Problem + Q & A session             - `Plan 4`_
+4  W Sep 28    - Bending moment and shear diagrams   - `Prep 4`_    Proj. 1: 50 designs
+                                                     - `Plan 4`_
                                                      - `Notes 4`_
--- ----------  ------------------------------------  -------------  -----
-5  M Oct 5     Multi-axial stress                    - `Prep 5`_    `HW #1`_
-                                                     - `Plan 5`_
+5  F Sep 30    Multi-axial stress                    - `Prep 5`_
+               - Problem + Q & A session             - `Plan 5`_
                                                      - `Notes 5`_
-6  W Oct 7     - Principal stress                    - `Prep 6`_
+-- ----------  ------------------------------------  -------------  -----
+6  M Oct 3     - Principal stress                    - `Prep 6`_    `HW #1`_
                                                      - `Plan 6`_
                                                      - `Notes 6`_
-7  F Oct 9     - Mohr's circle                       - `Prep 7`_    Proj. 1: Five designs in notebook
-               - Proj. 1: lightning presentations    - `Plan 7`_
+7  W Oct 5     - Mohr's circle                       - `Prep 7`_    Proj. 1: Five designs in notebook
+                                                     - `Plan 7`_
                                                      - `Notes 7`_
--- ----------  ------------------------------------  -------------  -----
-8  M Oct 12    - Elastic strain                      - `Prep 8`_    `HW #2`_
-                                                     - `Plan 8`_
+8  F Oct 7     - Elastic strain                      - `Prep 8`_
+               - Proj. 1: lightning presentations    - `Plan 8`_
                                                      - `Notes 8`_
-9  W Oct 14    - Homework 2 review                   - `Prep 9`_
+-- ----------  ------------------------------------  -------------  -----
+9  M Oct 10    - Homework 2 review                   - `Prep 9`_    `HW #2`_
                - Stress concentrations               - `Plan 9`_
                                                      - `Notes 9`_
-10 F Oct 16    - Curved beams                        - `Prep 10`_
+10 W Oct 12    - Curved beams                        - `Prep 10`_
                - Pressure vessels                    - `Plan 10`_
-               - Proj 1: Intro to peer review        - `Notes 10`_  Proj. 1: Report Draft
-               - FEA: Stress concentrations                         FEA Assignment
+                                                     - `Notes 10`_  Proj. 1: Report Draft
+                                                     FEA Assignment
+11 F Oct 14    - Contact stresses                    - `Prep 11`_
+               - Proj 1: Intro to peer review        - `Plan 11`_
+               - FEA: Stress concentrations          - `Notes 11`_
 -- ----------  ------------------------------------  -------------  -----
-11 M Oct 19    - Contact stresses                    - `Prep 11`_   `HW #3`_
-                                                     - `Plan 11`_
-                                                     - `Notes 11`_
-12 W Oct 21    - Copyright                           - `Prep 12`_   Proj. 1: Peer review
+12 M Oct 17    - Copyright                           - `Prep 12`_   `HW #3`_  Proj. 1: Peer review
                - Combined loads quiz                 - `Plan 12`_
                - Deformation and stiffness           - `Notes 12`_
-13 F Oct 23    - Deflections of beams                - `Prep 13`_   Proj. 1: Report
+13 W Oct 19    - Deflections of beams                - `Prep 13`_   Proj. 1: Report
                                                      - `Plan 13`_
                                                      - `Notes 13`_
--- ----------  ------------------------------------  -------------  -----
-14 M Oct 26    - Deformation and stiffness           - `Plan 14`_   `HW #4`_
+14 F Oct 21    - Deformation and stiffness           - `Plan 14`_
                - Midterm review                      - `Notes 14`_
-15 W Oct 28    - Catch up and review                 - `Prep 15`_
+-- ----------  ------------------------------------  -------------  -----
+15 M Oct 24    - Catch up and review                 - `Prep 15`_   `HW #4`_
                                                      - `Plan 15`_
                                                      - `Notes 15`_
-NA F Oct 30    **Midterm**
+16 W Oct 26     - Project 2: Intro and ideation       - `Plan 16`_
+NA F Oct 28    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
-16 M Nov 2     - Project 2: Intro and ideation       - `Plan 16`_
 NA T Nov 3     Proj. 2: Unitrans visit
-17 W Nov 4     - Castigliano's Theorem               - `Plan 17`_
+17 M Oct 31    - Castigliano's Theorem               - `Plan 17`_
                                                      - `Notes 17`_
-18 F Nov 6     - Statically indeterminate problems   - `Plan 18`_   Proj. 2: Plan Memo
+18 W Nov 2     - Statically indeterminate problems   - `Plan 18`_   Proj. 2: Plan Memo
                - Buckling and compression            - `Notes 18`_
                - Midterm results review
--- ----------  ------------------------------------  -------------  -----
-19 M Nov 9     - Static failure theory: Ductile      - `Plan 19`_   `HW #5`_
+19 F Nov 4     - Static failure theory: Ductile      - `Plan 19`_
                                                      - `Notes 19`_
-NA W Nov 11    Veteran's Day Holiday
-20 F Nov 13    - Quiz on sections 5-7 to 5-13        - `Prep 20`_   Proj. 2: Initial Design Memo
+-- ----------  ------------------------------------  -------------  -----
+20 M Nov 7     - Quiz on sections 5-7 to 5-13        - `Prep 20`_   `HW #5`_ Proj. 2: Initial Design Memo
                - Static failure theory: Brittle      - `Plan 20`_
                - FEA: Pressure Vessels               - `Notes 20`_
--- ----------  ------------------------------------  -------------  -----
-21 M Nov 16    - Fatigue Failure Introduction        - `Plan 21`_   `HW #6`_
+21 W Nov 9     - Fatigue Failure Introduction        - `Plan 21`_
                - S-N curves and endurance limits     - `Notes 21`_
-22 W Nov 18    - Crack growth                        - `Prep 22`_
+NA F Nov 11    Veteran's Day Holiday
+-- ----------  ------------------------------------  -------------  -----
+22 M Nov 14    - Crack growth                        - `Prep 22`_   `HW #6`_
                - Marin parameters                    - `Plan 22`_
                                                      - `Notes 22`_
-23 F Nov 20    - Stress concentrations               - `Plan 23`_   Proj. 2.: Static Failure Memo
+23 W Nov 16    - Stress concentrations               - `Plan 23`_   Proj. 2.: Static Failure Memo
                - Fluctuating stress                  - `Notes 23`_
+24 F Nov 18    Fluctuating stress                    - `Notes 24`_
 -- ----------  ------------------------------------  -------------  -----
-24 M Nov 23    Fluctuating stress                    - `Notes 24`_  `HW #7`_
-25 W Nov 25    Compound and cumulative loading       - `Plan 25`_
+25 M Nov 21    Compound and cumulative loading       - `Plan 25`_  `HW #7`_
                                                      - `Notes 25`_
-NA F Nov 27    Thanksgiving Day Holiday
--- ----------  ------------------------------------  -------------  -----
-26 M Nov 30    - Cumlative loading                   - `Plan 26`_   `HW #8`_
+26 W Nov 23    - Cumlative loading                   - `Plan 26`_
                - Homework review                     - `Notes 26`_
-27 W Dec 2     - Exam review                         - `Plan 27`_   Proj 2.: Dynamic Failure Memo
+NA F Nov 25    Thanksgiving Day Holiday
+-- ----------  ------------------------------------  -------------  -----
+27 M Nov 28    - Exam review                         - `Plan 27`_   `HW #8`_Proj 2.: Dynamic Failure Memo
                                                      - `Notes 27`_
-28 F Dec 4     - Project 2: Lightning talks          - `Prep 28`_
+28 W Nov 30    - Project 2: Lightning talks          - `Prep 28`_
                - Review                              - `Plan 28`_
                - Course evaluations                  - `Notes 28`_
+29 F Dec 2
 -- ----------  ------------------------------------  -------------  -----
-NA U Dec 6     NA                                                   Proj 2.: Final Report
-NA M Dec 7     NA                                                   CATME Peer Eval
-NA F Dec 11    **Final Exam** 10:30-12:30
+NA U Dec 4     NA                                                   Proj 2.: Final Report
+                                                                    CATME Peer Eval
+NA W Dec 7    **Final Exam** 10:30-12:30
 == ==========  ====================================  =============  =====
 
 .. _Prep 1: {filename}/pages/materials/prep-01.rst
