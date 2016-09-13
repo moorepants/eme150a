@@ -86,8 +86,8 @@ make the best decisions with the available information. Ask early and often!
 Activities
 ==========
 
-Monday, November 2nd
---------------------
+Monday, October 31
+------------------
 
 We will use the class period to introduce the project and begin the ideation
 process. After the introduction, you will join your team members to start
@@ -115,8 +115,8 @@ Design Review and Discussion (10 minutes)
     the previous ones that will need to be determined to make decisions about
     each design's merits.
 
-Tuesday, November 3rd, 11 AM
-----------------------------
+TBA
+---
 
 At least one team member will visit the Unitrans maintenance facility on campus
 to meet with Andrew Wyly, the Maintenance Manager. You will have the
@@ -127,13 +127,8 @@ detail.
 
 Location: http://campusmap.ucdavis.edu/?b=173
 
-Friday, November 20
--------------------
-
-If time permits we will have a TBA activity for project 2 during discussion.
-
-Friday, December 4th
---------------------
+Friday, December 2
+------------------
 
 During the discussion period each team will have a five minute lightning talk
 to pitch their design to the rest of the class and judges. Your goal is to show
@@ -166,7 +161,7 @@ be professional. Use these to report the required progress and to act as drafts
 for your final report sections. The more you put into these this less work
 you'll need when preparing the final report.
 
-Plan and Ideation (Friday, November 6)
+Plan and Ideation (Friday, November 4)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This report should show your team's plan of execution with action items,
@@ -175,8 +170,8 @@ should report on the current state of the design, what questions you've found
 answers for and the plans for utilizing that information, and the top design
 concepts you will pursue.
 
-Initial Design (Friday, November 13)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Initial Design (Wednesday, November 9)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This report should detail the primary concept that your team has selected to
 pursue. You should at least have back-of-the-envelope calculations, drawings,
@@ -192,7 +187,7 @@ meet the requirements and hold up to more scrutinous analyses.
 - What will be the most likely weak spots for failure and what analysis you
   will likely need to use.
 
-Static Failure (Friday, November 20)
+Static Failure (Friday, November 18)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The static failure memo will need to show that your design will have a
@@ -208,8 +203,8 @@ sufficient safety factor for static loads.
 - Explanations on what you may need to redesign to make it safer: material
   choice, geometry changes, etc.
 
-Dynamic Failure (Wednesday December 2)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dynamic Failure (Monday November 28)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The dynamic failure memo will need to show that your your design will have a
 sufficient safety factor for dynamic loads.

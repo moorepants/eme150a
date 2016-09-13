@@ -4,21 +4,27 @@
 Introduction
 ============
 
-The first project for the course will introduce you to the initial stages of
-`reverse engineering`_. It is important for an engineer to develop the ability
-to observe existing products/systems and determine how they function and why
-they were designed they way they were. Most, if not all, new ideas are
-generated after observing and experiencing existing engineering solutions [1]_.
+The first project for the course will introduce you to `reverse engineering`_.
+It is important for an engineer to develop the ability to observe existing
+products or systems and determine how they function and why they were designed
+they way they were. Most, if not all, new ideas are generated after observing
+and experiencing existing engineering solutions [1]_.
 
-The learning objectives for the student are to develop the ability to:
+During this project you will:
 
 - identify engineered products and systems
 - explain both verbally and written how an existing product or system functions
 - identify materials and manufacturing processes
 - identify engineering design reasoning and decisions
 - peer review presentations and reports
+- draft written technical documents about existing designs
+
+This is a lead up to the `second project`_ in the course. The second project is
+focused on designing a bicycle rack for a Unitrans bus. In this project you
+will reverse engineer various existing bicycle racks.
 
 .. _reverse engineering: https://en.wikipedia.org/wiki/Reverse_engineering
+.. _second project: {filename}/pages/projects.rst
 
 .. [1] "If I have seen further, it is by standing on the shoulders of giants."
    -- Isaac Newton https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
@@ -26,59 +32,55 @@ The learning objectives for the student are to develop the ability to:
 Instructions
 ============
 
-The first task is to maintain a notebook of designs that you observe in your
-everyday life over the first two weeks of the quarter. You should purchase a
-notebook with blank line-less pages so that you can take notes and generate
-sketches of the products and systems you observe. Carry the notebook with you
-at all times, observe as many designs as possible in any domain (i.e.,
-mechanical, architectural, electrical, interior, fashion, pop-culture, etc.)
-using an engineer's "eye", and keep a log in the notebook concerning your
-observations. Of all the designs you observe, you'll ultimately need to detail
-two favorite designs in your notebook and finalize one of those in a formal
-written report. Both of which will be peer reviewed by your teammates and then
+The primary task is to maintain a notebook with design information about the
+designs you research. You should purchase a notebook with blank line-less pages
+so that you can take notes and generate sketches of the products and systems
+you observe and discover. Carry the notebook with you regularly and using an
+engineer's "eye" keep a log in the notebook concerning your observations.
+You'll ultimately need to detail the research you collect in a formal written
+report. The report draft will be peer reviewed by your teammates and then
 graded by the instructors. Your design notebook must be submitted with the
 final written report.
 
-Possible Observable Objects
-===========================
+What to Research
+================
 
-Any human-made item that you encounter can qualify, here are some examples:
-
-- household products and machines, e.g. washing machines, kitchen appliances,
-  lamps, electrical boxes
-- buildings and architecture
-- vehicles: trains, planes, automobiles, bicycles, etc
-- garments and textiles
-- city infrastructure: traffic, sewage, etc
-- toys
-- electronic devices
-
-Don't let this list limit you, there are endless possibilities.
+Many transit systems (bus, rail, etc) allow passengers to bring their bicycles
+aboard. For example, Yolobus has front mounted bicycle racks, Amtrak's Capitol
+Corridor has bike hooks, Sacramento's light rail has bike hooks, etc. In the
+second half of the course your team will be designing a front mounted bicycle
+rack for a Unitrans bus. Your job for the first half of the course is to learn
+as much as you possibly can about existing bicycle rack technology to help
+inform your future design. You should investigate all types of bicycle racks:
+those for automobiles, buses, trains, and even stationary racks.
 
 Timeline
 ========
 
-Friday September 25
+Friday September 23
    The project will be introduced in class during the discussion section with a
-   kickoff group activity to get everyone started.
-Friday October 2
-   Each student will bring their notebook to class with at least 50 different
-   designs that have been observed and noted. **Number your designs.** The
-   instructors will take a grade for your notebook in class.
-Friday October 9
+   kickoff group sketching activity to get everyone started.
+Friday Septmeber 30
+   Each student will bring their notebook to class with at least 30 different
+   bicycle rack designs. Keep in mind that each item can be an aspect of a full
+   bicycle rack design. **Number your designs.** The instructors will take a
+   grade for your notebook in class.
+Friday October 7
    Continue to collect designs, but during the previous week you should choose
-   5 designs that are you favorite and flesh out the details of the designs in
-   your notebook with more notes, calculations, sketches, etc. During class you
-   will present your top two designs to your group in a "lighting talk", i.e. 2
-   minutes per design with 2 minutes group feedback per design. We will check
-   for the five detailed designs in class. **Number your designs.**
-Friday October 16
+   5 designs or design aspects that are you favorite and flesh out the details
+   of the designs in your notebook with more notes, calculations, sketches,
+   etc. During class you will present your top two designs to your group in a
+   "lighting explanation", i.e. 2 minutes per design with 2 minutes group
+   feedback per design. We will check for the five detailed designs in class.
+   **Number your designs.**
+Friday October 14
    During the previous week you should choose your top design to detail in your
    report. First drafts will be due at the beginning of class. To "turn in" the
    draft you need to share it via Google drive with both instructors and your
    group members. The draft must be shared before the beginning of class on
-   Friday. We will give an introduction to peer review process during class.
-Wednesday October 21
+   Friday. We will give an introduction to peer review process during class and
+   do peer review in class.
+Monday October 17
    Each team member should peer review each other team member's report before
    class. Each team member must provide at least two positive and two negative
    comments on each teammates' paper and any additional comments must come in
@@ -86,7 +88,7 @@ Wednesday October 21
    and/or the "suggestions" editing mode so that the author of the paper can
    choose whether to accept your advice or not. See the shared Google Doc for
    more tips.
-Friday October 23
+Friday October 21
    After you've turned in your draft you should work to refine your report
    based off of you peer's feedback. The final report is due by beginning of
    class this day.
@@ -152,7 +154,7 @@ limit you.**
 Report
 ======
 
-The goal of the report is to explain the design you studied by giving the
+The goal of the report is to explain the designs you studied by giving the
 reader an idea of how it functions and why it was designed the way it was.
 
 The main content items we are looking for are:
@@ -190,13 +192,13 @@ paragraph should be plenty.
 Content Pages (three pages)
 ---------------------------
 
-- Introduction: Introduce the design and what you are you want us to learn
-  about it.
+- Introduction: Introduce the five designs and what you are you want us to
+  learn about it.
 - Detailed explanations and descriptions: Text, figures, tables, equations, etc
   that explain the design and address some, more or all of the issues listed
   above.
 - Conclusion: Summary of what you learned and maybe things you'd still like to
-  learn about the design.
+  learn about the designs.
 
 We strongly encourage you to use visual communication liberally in the report.
 Reports should contain a significant amount of visual information such as
@@ -235,7 +237,7 @@ Peer Review
 You will be responsible for peer reviewing you teammates' work. Each team
 member will draft their report using Google Docs. Once the draft is complete
 you will need to share the document with your teammates and the two
-instructors.  You are then responsible for reading and critiquing your team
+instructors. You are then responsible for reading and critiquing your team
 members' reports with the goal of helping them improve the work. You must
 provide two positive and two negative pieces of feedback via the "Insert >
 Comment" or "Suggesting" feature in Google Docs. This feedback cannot be the
@@ -264,12 +266,10 @@ Tips:
 Grading
 =======
 
-**Added October 4, 2015**
-
 The grade for Project 1 will be broken down as follows:
 
 ==================  ===
-50 Designs          10%
+30 Designs          10%
 5 Detailed Designs  10%
 Report Draft        10%
 Draft Peer Review   10%
