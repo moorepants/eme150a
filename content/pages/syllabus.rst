@@ -25,11 +25,13 @@ Objectives
 
 1. Students will demonstrate the use of analytical skills and intuitive
    judgment for mechanical design and the evaluation of structural integrity.
-2. Students will identify and use appropriate resources in engineering design
+2. Students will develop and use simple analytic models to predict static and
+   dynamic stresses and strains in mechanical structures.
+3. Students will identify and use appropriate resources in engineering design
    and failure analysis.
-3. Students will solve open-ended design problems that require conceptual and
+4. Students will solve open-ended design problems that require conceptual and
    analytical problem solving and create documentation of design solutions.
-4. Students will demonstrate effective engineering writing.
+5. Students will demonstrate effective engineering writing.
 
 Prerequisites
 -------------
