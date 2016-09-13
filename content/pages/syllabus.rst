@@ -172,13 +172,19 @@ you Kerberos ID and passphrase then select **EME 150A 001 FQ 2016**.
 
 We will be using several features in smartsite:
 
+Announcements
+   This will be my primary communication avenue to you. These announcements
+   will be forwarded automatically to your UCD email address. You are expected
+   to read these either through your email program or on the Canvas website.
 Assignments
    The electronic assignments will be distributed and collected here.
 Grades
    Your grades and basic stats on your relative performance will be available
    as the course goes along.
 Files
-   Files, documents, and other resources will be available here for download.
+   Copyrighted and private files, documents, and other resources will be
+   available here for download. The rest will be available for download on this
+   website.
 
 Piazza
 ======
