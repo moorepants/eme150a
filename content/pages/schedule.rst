@@ -45,7 +45,8 @@ NA F Oct 28    **Midterm**
                - Midterm results review
 -- ----------  ------------------------------------  -------------  -----
 20 M Nov 7     - Static failure theory: Ductile                     HW #5
-21 W Nov 9     - Static failure theory: Brittle                     Proj. 2: Initial Design Memo
+21 W Nov 9     - Static failure theory: Brittle
+NA R Nov 10                                                         Proj. 2: Initial Design Memo
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  -------------  -----
 22 M Nov 14    - Fatigue Failure Introduction                       HW #6
