@@ -24,7 +24,18 @@ Introduction to Project 1 9:00
   add to your notebook when investigating an object with an "engineer's" eye.
   They need a clear idea of  what constitues 1 item in the notebook.
 
-Break into Teams 9:15
+Quiz on past materials 9:15
+===========================
+
+- Give quiz on Statics, Properties of Materials, Mechanics of Materials
+- Go over solution.
+
+Break 9:45
+==========
+
+Five minute rest.
+
+Break into Teams 9:50
 =====================
 
 - Post teams on screen or board
