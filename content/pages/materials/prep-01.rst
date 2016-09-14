@@ -1,4 +1,4 @@
-:title: Preparation for Friday, September 25, 2015
+:title: Preparation for Wednesday, September 21, 2016
 :status: hidden
 
 Preparation
