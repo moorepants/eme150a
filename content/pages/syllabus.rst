@@ -188,9 +188,30 @@ Files
    available here for download. The rest will be available for download on this
    website.
 
-Piazza
-======
+Communications
+==============
 
-Piazza should be used for all questions that everyone would benefit from.
-Please default to asking questions on Piazza instead of email. Use personal
-emails only for correspondence that needs privacy.
+Email
+-----
+
+Personal electronic correspondence from the instructors will be made to your
+UCD email address. It is your responsibility to check this regularly.
+
+Electronic announcements from the instructors to the whole class will be made
+through Canvas. By default, Canvas will automatically send the announcement to
+your UCD email address. You can change your Canvas settings to opt out, send it
+them to a different email, or as an SMS. You are responsible for reading the
+announcements made via canvas.
+
+When contacting the instructors via email you should default to submitting it
+via Piazza (see next section) unless the question is a private matter.
+
+Piazza
+------
+
+Piazza should be used for all questions about the class, homework, theory,
+projects, etc that is not of a private nature. Piazza allows both the
+instructors and students to collectively answer questions for the whole classes
+benefit. The instructors can also endorse the student answer if it is correct.
+The top student askers and answerers, to be judged by the instructors,
+will be rewarded with bonus points to their final grade.
