@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from os.path import expanduser, join
 
 AUTHOR = 'Jason K. Moore'
 SITENAME = 'EME 150A: Mechanical Design'
@@ -14,7 +15,7 @@ TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = 'en'
 
-PLUGIN_PATHS = ['/home/moorepants/src/pelican-plugins']
+PLUGIN_PATHS = [join(expanduser("~"), 'src', 'pelican-plugins')]
 PLUGINS = ['render_math']
 MATH_JAX = {'color':'black'}
 
