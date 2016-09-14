@@ -18,12 +18,15 @@ Intro 9:00
 ==========
 
 - Destiny introduces herself
+
   - Tell them about yourself (e.g. name, from, research, hobbies, etc)
   - Show them what you did in EME 150A and EME 150B
   - Mabuchi on Mah Booty
   - Tell them briefly about the project for this class: they will design a
     bicycle rack for a Unitrans bus.
+
 - Introduction activity
+
   - Group into groups of ~4
   - Tell your group your name
   - What machines you hope to design in the future
@@ -34,8 +37,10 @@ Class Questions 9:15
 ====================
 
 - Any syllabus questions? (open up the website on the screen)
+
   - I'll ask them to review the syllabus and class website before arriving. So
     just ask for questions here.
+
 - Show them Canvas (it may be new to many)
 - Show them Piazza and explain how it works and that this is the primary place
   to ask questions pertaining to class. Mention that we will award points to
