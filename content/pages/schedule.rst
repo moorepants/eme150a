@@ -17,7 +17,7 @@ One and Two. **Check the schedule periodically for changes.**
                - Uncertainty
                - Reliability, Tolerances, Units
 4  W Sep 28    Free body diagrams
-5  F Sep 30    Bending moment and shear diagrams                    Proj. 1: 25 designs
+5  F Sep 30    Bending moment and shear diagrams                    Proj. 1: 30 designs
 -- ----------  ------------------------------------  -------------  -----
 6  M Oct 3     - Multi-axial stress                                 HW #1
 7  W Oct 5     - Principal stress

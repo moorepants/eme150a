@@ -1,9 +1,6 @@
 :title: Plan for Friday, September 23, 2016
 :status: hidden
 
-TODO : We should brainstorm this together and improve it. Look up some reverse
-engineering activities to get ideas.
-
 Prep
 ====
 
@@ -20,15 +17,16 @@ Introduction to Project 1 9:00
 - Define reverse engineering and it's relevance to mechanical design.
 - Tell them that the final goal is to design a bicycle rack for a Unitrans bus
   (project part 2)
-- Using examples, give them an idea of how the different things that you would
-  add to your notebook when investigating an object with an "engineer's" eye.
-  They need a clear idea of  what constitues 1 item in the notebook.
+- Using an example stationary bicycle rack, give them an idea of how the
+  different things that you would add to your notebook when investigating an
+  object with an "engineer's" eye. They need a clear idea of  what constitues 1
+  item in the notebook. Be sure to explain "design aspects" so they get an idea
+  of the scope for a single item in the notebook.
 
 Quiz on past materials 9:15
 ===========================
 
 - Give quiz on Statics, Properties of Materials, Mechanics of Materials
-- Go over solution.
 
 Break 9:45
 ==========
@@ -42,25 +40,24 @@ Break into Teams 9:50
 - Each team should move to a individual table
 - Give few minutes for introductions
 
-Notebook Activity 9:20
-======================
+Notebook Activity 10:00
+=======================
 
-NOTE : If the students bring at least one laptop (or even just their phone) per
-group they could start investigating bicycle rack designs and we could have
-them focus on that instead of random objects in the room.
+- Remind them about the final design project: front mounted bicycle rack for
+  Unitrans.
+- Goal: make 5 design aspects in the notebook that describe aspects of the
+  bicycle rack designs they can think of or find online
+- Take 10 minutes to draw by yourself.
+- Walk around and help teams through all of this process.
+- Take 10 minutes to share design with team, take turns
+- Now, pick 5 ways to enhance 5 of your teammate's designs (10 minutes)
+- Pick one design aspect to share with the whole class and draw on rolling
+  whiteboard.
+- Have a rep from each team come up come up and share what they've done.
 
-- Each person should select an item in that they can find in the room that has
-  mechanical aspects.
-- Make 5 items in the notebook that describe aspects of the design
-- Take x minutes to share design with team
-- Now trade items with a team member
-- Make 5 items about the design
-- Share 5 items
-- Have people come up and share what they've done.
-
-Wrap Up
-=======
+Wrap Up 10:45
+=============
 
 - Explain project assignment. 30 designs about bicycle racks in notebook due
   next Friday. Bring notebook to class. Number design explanations.
-- Reading for prepartion on Monday.
+- Reading for prepartion on Monday will be posted on the website.
