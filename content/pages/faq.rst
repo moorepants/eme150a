@@ -9,3 +9,6 @@
    making my own websites. Canvas is needed to privately share information with
    you, like your grades. And Piazza offers a very nice interface for class Q &
    A.
+*Can I use a programmable calculator for the exams?*
+   No, I do not allow anything but a simple scientific calculator. Spend $10
+   and get one for the exams.
