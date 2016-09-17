@@ -93,6 +93,6 @@ Wrapup 9:45
 
 Remind them to:
 
-  - come to Bainer 2071 on Friday at 9 AM
-  - bring a design notebook
-  - fill out CATME by midnight tonight
+ - come to Bainer 2071 on Friday at 9 AM
+ - bring a design notebook
+ - fill out CATME by midnight tonight
