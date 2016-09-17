@@ -7,9 +7,7 @@ Class Activities
 =========== ====================================================================
 9:00-9:15   Introduction, meet your neighbors
 9:15-9:25   Questions about syllabus, about class, etc.
-9:25-9:35   What is mechanical engineering design? Team up with your three
-            nearest neighbors and come up with a definition of mechanical
-            design in your own words.
+9:25-9:35   What is mechanical engineering design?
 9:35-9:45   Discuss answers, write key words on the board
 9:45-9:50   Wrap up
 =========== ====================================================================
@@ -31,7 +29,7 @@ Intro 9:00
   - Tell your group your name
   - What machines you hope to design in the future
   - Ask a couple of students to volunteer and share with whole class what they
-    learned.
+    learned about their neighbors.
 
 Class Questions 9:15
 ====================
@@ -63,7 +61,7 @@ Answers 9:35
 Have students say their definitions. While they answer write down important
 words on the board. After you get about 10 to 15 key words, state a defintion
 using the collected words. Or have them all rewrite their definition with all
-the words. You can share your definition too. My is below:
+the words. You can share your definition too. Mine is below:
 
    The process of creating a solution to a problem or need utilizing mechanical
    systems and principles under constraints such as limited resources, limited
@@ -86,8 +84,9 @@ Emphasize that this is iterative!
 6. Test prototypes best concepts to see if they actually meet the needs and
    specs
 7. Select best concept
-
-TODO : Update the above once I look at the EME 185 book again.
+8. Refine the design until specifications are met
+9. Develop a implementation plan
+10. Implement
 
 Wrapup 9:45
 ===========
