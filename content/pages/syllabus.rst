@@ -68,6 +68,7 @@ Instructors
 
 | Jason K. Moore
 | 2095 Bainer Hall
+| 530-752-4805
 | jkm@ucdavis.edu
 |
 | Destiny Garcia
@@ -93,7 +94,7 @@ times, please find an available time on Jason's schedule_ and email him with
 the request.
 
 Destiny will hold office hours on Wednesdays from 1-2PM and Fridays from 12-1PM
-in the MAE Design Studio 2071 Bainer Hall.
+in a TBA room.
 
 .. _schedule: http://www.moorepants.info/work-calendar.html
 
@@ -113,9 +114,9 @@ Feel free to discuss homework assignments and work on them together, but each
 student must turn in a *unique* solution. Keep in mind that actually doing all
 of the homework yourself is critical for learning and passing the course.
 
-The first project will be an individual project but have elements of
-collaboration built in. The second project will be a group effort but also
-include individual evaluation based on peer evaluations.
+The first part of the project will be an mostly individual but have elements of
+collaboration built in. The second part of the project will be a group effort
+but also include individual evaluation based on peer evaluations.
 
 Textbook
 ========
@@ -126,7 +127,7 @@ McGraw Hill Education. ISBN 978-0-07-339820-4 [`Book Information`_]
 .. _Book Information: http://highered.mheducation.com/sites/0073398209/information_center_view0/index.html
 
 Reading will be assigned from the textbook. I will do my best to provide the
-homework in a way that doesn't require you purchase the book to read any
+homework in a way that doesn't require you to purchase the book to read any
 problems but this is not guaranteed. Older editions will be more than
 sufficient for reading and studying. Keep in mind that this particular textbook
 is one of the better references to have for your career if you work in
@@ -140,16 +141,14 @@ throughout the course along with class statistics. Check the website on a
 regular basis to gauge your performance. Keep in mind that **15% is deducted
 per business day late** on all assignments.
 
-================  ===
-Homework          10%
-In class          10%
-Design Project 1  20%
-Design Project 2  20%
-Midterm           20%
-Final             20%
-================  ===
-
-.. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
+=====================  ===
+Homework               10%
+In class               10%
+Design Project Part 1  20%
+Design Project Part 2  20%
+Midterm                20%
+Final                  20%
+=====================  ===
 
 Homework
    Weekly homework will be assigned which will be due before class the
@@ -158,21 +157,22 @@ Homework
 In class
    There will be a variety of in class assignments and quizzes that may count
    towards your grade.
-`Design Projects`_
-   There will be two design projects, one for the first half of the course and
-   one for the second. Grades will be determined based on individual
+`Design Project`_
+   There will be a two part design project, one for the first half of the
+   course and one for the second. Grades will be determined based on individual
    performance, group performance, and peer evaluations. To pass the course,
-   each student must complete the two projects.
+   each student must complete the two projects. The part 2 grade will be
+   modified based on peer evaluations.
 
 .. _Design Projects: {filename}/pages/projects.rst
 
 Canvas
 ======
 
-We will make use of Canvas for the course. Log in to canvas.ucdavis.edu with
-you Kerberos ID and passphrase then select **EME 150A 001 FQ 2016**.
+We will make use of Canvas for the course. Log in to canvas.ucdavis.edu_ with
+your Kerberos ID and passphrase then select **EME 150A 001 FQ 2016**.
 
-We will be using several features in smartsite:
+We will be using several features in canvas:
 
 Announcements
    This will be my primary communication avenue to you. These announcements
@@ -194,8 +194,8 @@ Communications
 Email
 -----
 
-Personal electronic correspondence from the instructors will be made to your
-UCD email address. It is your responsibility to check this regularly.
+Electronic correspondence from the instructors will be made to your UCD email
+address. It is your responsibility to check this regularly.
 
 Electronic announcements from the instructors to the whole class will be made
 through Canvas. By default, Canvas will automatically send the announcement to
@@ -214,4 +214,9 @@ projects, etc that is not of a private nature. Piazza allows both the
 instructors and students to collectively answer questions for the whole classes
 benefit. The instructors can also endorse the student answer if it is correct.
 The top student askers and answerers, to be judged by the instructors,
-will be rewarded with bonus points to their final grade.
+will be rewarded with bonus points to their final grade. The link to the Piazza
+site is here:
+
+http://piazza.com/ucdavis/fall2016/eme150a/home
+
+.. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
