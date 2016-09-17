@@ -4,11 +4,11 @@
 Introduction
 ============
 
-The first project for the course will introduce you to `reverse engineering`_.
-It is important for an engineer to develop the ability to observe existing
-products or systems and determine how they function and why they were designed
-they way they were. Most, if not all, new ideas are generated after observing
-and experiencing existing engineering solutions [1]_.
+The first part of the project for the course will introduce you to `reverse
+engineering`_.  It is important for an engineer to develop the ability to
+observe existing products or systems and determine how they function and why
+they were designed they way they were. Most, if not all, new ideas are
+generated after observing and experiencing existing engineering solutions [1]_.
 
 During this project you will:
 
@@ -19,12 +19,12 @@ During this project you will:
 - peer review presentations and reports
 - draft written technical documents about existing designs
 
-This is a lead up to the `second project`_ in the course. The second project is
-focused on designing a bicycle rack for a Unitrans bus. In this project you
-will reverse engineer various existing bicycle racks.
+This is a lead up to the `second part of the project`_ in the course. The
+second part is focused on designing a bicycle rack for a Unitrans bus. In this
+project you will reverse engineer various existing bicycle racks.
 
 .. _reverse engineering: https://en.wikipedia.org/wiki/Reverse_engineering
-.. _second project: {filename}/pages/projects.rst
+.. _second part of the project: {filename}/pages/projects.rst
 
 .. [1] "If I have seen further, it is by standing on the shoulders of giants."
    -- Isaac Newton https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
@@ -33,26 +33,27 @@ Instructions
 ============
 
 The primary task is to maintain a notebook with design information about the
-designs you research. You should purchase a notebook with blank line-less pages
-so that you can take notes and generate sketches of the products and systems
-you observe and discover. Carry the notebook with you regularly and using an
-engineer's "eye" keep a log in the notebook concerning your observations.
-You'll ultimately need to detail the research you collect in a formal written
-report. The report draft will be peer reviewed by your teammates and then
-graded by the instructors. Your design notebook must be submitted with the
-final written report.
+design aspects that you research. You should purchase a notebook with blank
+line-less pages so that you can take notes and generate sketches of the
+products and systems you observe and discover. Carry the notebook with you
+regularly and using an engineer's "eye" keep a log in the notebook concerning
+your observations.  You'll ultimately need to detail the research you collect
+in a formal written report. The report draft will be peer reviewed by your
+teammates and then graded by the instructors. Your design notebook must be
+submitted with the final written report.
 
 What to Research
 ================
 
 Many transit systems (bus, rail, etc) allow passengers to bring their bicycles
 aboard. For example, Yolobus has front mounted bicycle racks, Amtrak's Capitol
-Corridor has bike hooks, Sacramento's light rail has bike hooks, etc. In the
-second half of the course your team will be designing a front mounted bicycle
-rack for a Unitrans bus. Your job for the first half of the course is to learn
-as much as you possibly can about existing bicycle rack technology to help
-inform your future design. You should investigate all types of bicycle racks:
-those for automobiles, buses, trains, and even stationary racks.
+Corridor has bike hooks, Sacramento's light rail has bike hooks, the BART has
+designated spaces but no racks, etc. In the second half of the course your team
+will be designing a front mounted bicycle rack for a Unitrans bus. Your job for
+the first half of the course is to learn as much as you possibly can about
+existing bicycle rack technology to help inform your future design. You should
+investigate all types of bicycle racks: those for automobiles, buses, trains,
+and even stationary racks.
 
 Timeline
 ========
@@ -62,21 +63,21 @@ Friday September 23
    kickoff group sketching activity to get everyone started.
 Friday Septmeber 30
    Each student will bring their notebook to class with at least 30 different
-   bicycle rack designs. Keep in mind that each item can be an aspect of a full
-   bicycle rack design. **Number your designs.** The instructors will take a
-   grade for your notebook in class.
+   bicycle rack designs or design aspects. Keep in mind that each item can be
+   an aspect of a full bicycle rack design. **Number your designs.** The
+   instructors will take a grade for your notebook in class.
 Friday October 7
-   Continue to collect designs, but during the previous week you should choose
-   5 designs or design aspects that are you favorite and flesh out the details
-   of the designs in your notebook with more notes, calculations, sketches,
-   etc. During class you will present your top two designs to your group in a
-   "lighting explanation", i.e. 2 minutes per design with 2 minutes group
-   feedback per design. We will check for the five detailed designs in class.
-   **Number your designs.**
+   Continue to collect design aspects, but during the previous week you should
+   choose 5 designs or design aspects that are you favorite and flesh out the
+   details of the designs in your notebook with more notes, calculations,
+   sketches, etc. During class you will present your top two design aspects to
+   your group in a "lighting explanation", i.e. 2 minutes per design with 2
+   minutes group feedback per design. We will check for the five detailed
+   designs in class. **Number your designs.**
 Friday October 14
    During the previous week you should choose your top design to detail in your
    report. First drafts will be due at the beginning of class. To "turn in" the
-   draft you need to share it via Google drive with both instructors and your
+   draft you need to share it via Google Drive with both instructors and your
    group members. The draft must be shared before the beginning of class on
    Friday. We will give an introduction to peer review process during class and
    do peer review in class.
@@ -154,8 +155,8 @@ limit you.**
 Report
 ======
 
-The goal of the report is to explain the designs you studied by giving the
-reader an idea of how it functions and why it was designed the way it was.
+The goal of the report is to explain the design aspects you studied by giving
+the reader an idea of how it functions and why it was designed the way it was.
 
 The main content items we are looking for are:
 
@@ -230,6 +231,8 @@ Formatting
   <https://chromebookandroidnews.wordpress.com/2014/09/08/how-to-caption-and-wrap-text-around-images-or-tables-in-google-docs/>`_
   for a method of adding captions with Google Docs.
 - Use whatever citation style you prefer.
+- Photographed or scanned sketches are not acceptable unless they are extremely
+  clear, neat, and legible.
 
 Peer Review
 ===========
@@ -266,7 +269,7 @@ Tips:
 Grading
 =======
 
-The grade for Project 1 will be broken down as follows:
+The grade for Project Part 1 will be broken down as follows:
 
 ==================  ===
 30 Designs          10%
