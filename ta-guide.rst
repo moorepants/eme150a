@@ -137,7 +137,7 @@ Instructor Feedback
 ===================
 
 I collect feedback on the Github issues page
-https://github.com/moorepants/eme150a-website/issues for anything that we need
+https://github.com/moorepants/eme150a/issues for anything that we need
 to note for the future. These can be things that need to fixed on the website,
 ideas for improving the course, things that suck about the course, etc.
 
