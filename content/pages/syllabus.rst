@@ -164,7 +164,7 @@ In class
    each student must complete the two projects. The part 2 grade will be
    modified based on peer evaluations.
 
-.. _Design Projects: {filename}/pages/projects.rst
+.. _Design Project: {filename}/pages/projects.rst
 
 Canvas
 ======

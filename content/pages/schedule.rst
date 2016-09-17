@@ -9,9 +9,9 @@ One and Two. **Check the schedule periodically for changes.**
 == ==========  ====================================  =============  =====
 #  Date        Topic                                 Materials      Assignment Due
 == ==========  ====================================  =============  =====
-1  W Sep 21    - Class introduction                                 CATME Survey
+1  W Sep 21    - Class introduction                  `Prep 1`_      CATME Survey
                - Introduction to mechanical design
-2  F Sep 23    - Project 1 introduction
+2  F Sep 23    - Project 1 introduction              `Prep 2`_
 -- ----------  ------------------------------------  -------------  -----
 3  M Sep 26    - Factor of Safety
                - Uncertainty
@@ -71,6 +71,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 == ==========  ====================================  =============  =====
 
 .. _Prep 1: {filename}/pages/materials/prep-01.rst
+.. _Prep 2: {filename}/pages/materials/prep-02.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 

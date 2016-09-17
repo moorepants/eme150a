@@ -6,22 +6,12 @@ Preparation
 
 These are the things you should do before class to be prepared for lecture:
 
-- Fill out the CATME survey for team formation by 12:00 pm Thursday. Check your
-  email!
 - Review the syllabus and class schedule and be ready to ask questions about
   them.
-- Read the over the description for `Project One`_ and be prepared to ask
-  questions about it in the second half of class.
-- Read sections 1-1 to 1-11 in the text book.
+- Read sections 1-1 to 1-9 in the text book.
 
-.. _Project One: {filename}/pages/project-one.rst
+Upcoming Due Dates
+==================
 
-Concepts
-========
-
-These are the main concepts that you should have an understanding of after the
-class (both from prepartion and in class).
-
-- What mechanical engineering design is.
-- Difference in stress and strength
-- The relationship in uncertainty and safety factor
+- Fill out the CATME survey for team formation by 11:59 pm Wednesday. Check
+  your email!

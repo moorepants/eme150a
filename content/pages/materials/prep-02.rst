@@ -1,29 +1,18 @@
-:title: Preparation for Monday, September 28, 2015
+:title: Preparation for Friday, September 23, 2016
 :status: hidden
 
 Preparation
 ===========
 
-- Read sections 1-12 to 1-17, 3-1
-- More info on free body diagrams can be found at
-  https://en.wikipedia.org/wiki/Free_body_diagram for example (or your previous
-  textbooks)
+- Purchase a design notebook for use in the class.
+- Read the over the description for `Project Part One`_ and be prepared to ask
+  questions about it in the second half of class.
+- Make sure to come to Bainer 2071 for Friday's class!
 
-Concepts
-========
-
-After this lesson you should be able to:
-
-- understand the difference in stochastic and deterministic failure criteria
-- compute reliability's base on Gaussian data
-- understand the relationship of factor of safety and reliability
-- understand when to use the appropriate choice of dimensions and tolerances
-- compute tolerance stack up
-- use appropriate units and sig figs
-- draw 2D and 3D free body diagrams of a mechanical structures
+.. _Project Part One: {filename}/pages/project-one.rst
 
 Upcoming Due Dates
 ==================
 
-- We will check for 50 designs in your design notebook on Friday Oct 2
-- Homework #1 will be due Monday, October 5
+- We will check for 30 designs in your design notebook on Friday Sep 23
+- Homework #1 will be due Monday, October 3
