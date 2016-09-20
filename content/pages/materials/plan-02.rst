@@ -10,7 +10,42 @@ Prep
   Make sure that this works with the TV beforehand.
 - Create examples sketches for demonstrations.
 
-Introduction to Project 1 9:00
+Review of past materials 9:00
+=============================
+
+Statics
+-------
+
+The key takeaway from statics is the ability to create and interpret free body
+diagrams. We will focus on find the internal loads in mechanical elements so
+that we can compute the stress and strain at any point on the element.
+Understanding the loads and constraints applied to various structures is
+critical for finding the internal loads and free body diagrams are the best way
+to visualize and organize that information.
+
+Discussion: Show them a mechanical structure and have them draw the free body
+diagram.
+
+Material Properties
+-------------------
+
+As a mechanical designer you will be responsible for choosing the best
+materials for a given design. The materials will need to have the appropriate
+strength, hardness, stiffness, corrosion resistance, weight, cost, and be
+manufacturable.
+
+Strength of Materials
+---------------------
+
+Finding the stress and strain at any given point in a mechanical element is
+critical to design. The relationships between geometric and material properties
+to stress and strain are the analytic key to designing mechanical elements that
+do not break and deflect the desired amount.
+
+Discussion: Have the students draw the stress-strain curve for steel and
+identify as much information and properties as they can on it.
+
+Introduction to Project 1 9:20
 ==============================
 
 - Tell them the learning objectives.
@@ -23,25 +58,20 @@ Introduction to Project 1 9:00
   item in the notebook. Be sure to explain "design aspects" so they get an idea
   of the scope for a single item in the notebook.
 
-Quiz on past materials 9:15
-===========================
-
-- Give quiz on Statics, Properties of Materials, Mechanics of Materials
-
-Break 9:45
-==========
-
-Five minute rest.
-
-Break into Teams 9:50
+Break into Teams 9:30
 =====================
 
 - Post teams on screen or board
 - Each team should move to a individual table
 - Give few minutes for introductions
 
-Notebook Activity 10:00
-=======================
+Break 9:40
+==========
+
+Chill
+
+Notebook Activity 9:50
+======================
 
 - Remind them about the final design project: front mounted bicycle rack for
   Unitrans.
@@ -55,8 +85,8 @@ Notebook Activity 10:00
   whiteboard.
 - Have a rep from each team come up come up and share what they've done.
 
-Wrap Up 10:45
-=============
+Wrap Up 10:45 (or earlier)
+==========================
 
 - Explain project assignment. 30 designs about bicycle racks in notebook due
   next Friday. Bring notebook to class. Number design explanations.
