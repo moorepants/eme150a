@@ -47,6 +47,7 @@
 <li>Be able to distinguish &quot;design factor&quot; and &quot;factor of safety&quot;</li>
 <li>Be able to compute the factor of safety</li>
 <li>Be able to define codes and standards in engineering context</li>
+<li>Be able to compute basic probalities</li>
 </ul>
 </div>
 <div class="section" id="intro-example-9-12">
@@ -55,6 +56,8 @@
 <p><a class="reference external" href="http://commandsafety.com/wp-content/uploads/sites/10/2011/07/7-17-2011-10-48-46-AM.jpg">http://commandsafety.com/wp-content/uploads/sites/10/2011/07/7-17-2011-10-48-46-AM.jpg</a></p>
 <p><a class="reference external" href="http://skywalk.kansascity.com/media/hyatt/img/articles/lobby_cropped_jpg_700x400_upscale_q85.jpg">http://skywalk.kansascity.com/media/hyatt/img/articles/lobby_cropped_jpg_700x400_upscale_q85.jpg</a></p>
 <ul>
+<li><p class="first">Hyatt Regency Hotel Walkway Collapse</p>
+</li>
 <li><p class="first">1981</p>
 </li>
 <li><p class="first">114 deaths, 200 injuries</p>
@@ -106,6 +109,12 @@ professional way&quot;, and the accident was an &quot;act of God&quot;
 <li>Needs margin to ensure failure rate or improbable</li>
 <li>Focus on areas of the part that are critical stress areas</li>
 </ul>
+<dl class="docutils">
+<dt>Strength</dt>
+<dd>Inherent property of the object geometry and material. S, Sy, Su</dd>
+<dt>Stress</dt>
+<dd>Property of the object's state and location. sigma, tau</dd>
+</dl>
 <div class="section" id="class-question">
 <h3>Class Question</h3>
 <p>If you are designing a diving board and you want to guarantee that it will
@@ -128,24 +137,45 @@ to the moment to ensure it never exceeds the yield strength.</li>
 <dl class="docutils">
 <dt>Design Factor</dt>
 <dd>The pre-design target safety margin, i.e. the desired factor of strength
-over max ??</dd>
+over max allowable strength. &quot;All elevators should have a design factor
+of 10.&quot;</dd>
 <dt>Factor of Safety</dt>
-<dd>The post design, actual, minimum factor of strength.</dd>
+<dd>The post design, i.e. actual, minimum factor of strength. &quot;The factor of
+safety of this elevator is 11.3.&quot;</dd>
 </dl>
 <p>FoS should always be &gt; than the DF!</p>
-<p>Why would the Factor of Safety be different than the design factor?</p>
+<p>FoS is deterministic based on absolutes</p>
+<dl class="docutils">
+<dt>Any ideas why the DF and FoS are different?</dt>
+<dd>Mention Table A-17 of preferred sizes.</dd>
+</dl>
 <p>Factor of Safety Method</p>
 <ul class="simple">
 <li>Analyze all loss of function modes</li>
 <li>Choose mode that leads to smallest design factor to govern decisions</li>
 </ul>
+<div class="math">
+\begin{equation*}
+n_d = \frac{loss of function parameter}{maximum allowable parameter}
+\end{equation*}
+</div>
+<div class="section" id="id1">
+<h3>Class Question</h3>
+<p>If the load that will cause failure is between 90 and 110 lbs and you'd like a
+design factor of 2, what is the max allowable load?</p>
+<div class="math">
+\begin{equation*}
+P_{max} = \frac{P_{fail}}{n_d} = \frac{90 \textrm{ lbs}}{2} = 45 \textrm{ lbs}
+\end{equation*}
+</div>
 <p>This is most typically:</p>
 <div class="math">
 \begin{equation*}
-n_d = \frac{S}{\sigma \textrm{ or } \tau}
+n_d = \frac{S}{\sigma_{max} \textrm{ or } \tau_{max}}
 \end{equation*}
 </div>
 <p>because stress may not vary linearly with load.</p>
+</div>
 <div class="section" id="aluminum-can-demo">
 <h3>Aluminum Can Demo</h3>
 <ul class="simple">
@@ -176,24 +206,6 @@ safety.</p>
 <p>What's wrong with this?:</p>
 <blockquote>
 The yield strength of hot rolled mild steel is 220 MPa.</blockquote>
-<dl class="docutils">
-<dt>Design factor</dt>
-<dd>deterministic based on absolutes</dd>
-</dl>
-<div class="math">
-\begin{equation*}
-n_d = \frac{loss of function parameter}{maximum allowable parameter}
-\end{equation*}
-</div>
-<div class="section" id="id1">
-<h3>Class Question</h3>
-<p>If the load that will cause failure is between 90 and 110 lbs and you'd like a
-design factor of 2, what is the max allowable load?</p>
-<div class="math">
-\begin{equation*}
-P_{max} = \frac{P_{fail}}{n_d} = \frac{90 \textrm{ lbs}}{2} = 45 \textrm{ lbs}
-\end{equation*}
-</div>
 <p>Uncertainty</p>
 <ul class="simple">
 <li>Gaussian distributions can model many real world observations</li>
@@ -203,7 +215,19 @@ manner.</li>
 are found by integration.</li>
 <li>The book provides a table of probabilities for a nominal Gaussian curve.</li>
 </ul>
-</div>
+<p>Selection of Design Factor</p>
+<ul class="simple">
+<li>subjective</li>
+<li>follow industry standards and codes</li>
+</ul>
+<p>Depends on:</p>
+<ul class="simple">
+<li>degree of uncertainty about loading</li>
+<li>degreee of uncertainty about material strength and structure</li>
+<li>consequences of failure &gt; human safety, economics</li>
+<li>cost of providing a high factor of safety</li>
+</ul>
+<p>Boils down to the probability of failure.</p>
 </div>
 <div class="section" id="standards-codes-9-45">
 <h2>Standards/Codes 9:45</h2>
