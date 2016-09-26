@@ -1,49 +1,72 @@
-:title: Plan for Wednesday, September 29, 2015
+:title: Plan for Monday, September 26, 2016
 :status: hidden
 
+9:00 Introduction
+=================
 
-- Poll students about devices in class:
-  - Laptop to class? On Fridays?
-  - Laptop or tablet?
-  - Laptop, tablet, or smart phone?
+- Call me Jason
+- A little about myself
+- Show them the optimal design results from the BMD conference
+- When you ask a question, start with your name.
+- Any questions about syllabus, class, etc for me?
 
-9:55-10:00  Factor of Safety question
-10:00-10:05 Break
-10:05-10:10 Project One intro activity
-10:10-10:20 Break up into CATME groups
-10:20-10:25 Team introductions
-10:25-10:45 Reverse engineering
-10:45-10:50 Discuss
+9:10 Learning Objectives
+========================
 
-In the news
------------
+- Be able to define strength
+- Be able to distinguish "design factor" and "factor of safety"
+- Be able to compute the factor of safety
+- Be able to define codes and standards in engineering context
 
-Ethics: Volkswagen scandal:
-https://en.wikipedia.org/wiki/Volkswagen_emissions_violations
+Intro Example 9:12
+==================
 
-Saftey: Mecca crane collapse:
-https://en.wikipedia.org/wiki/Mecca_crane_collapse
-An engineer for the group said that the crane was erected in "an extremely
-professional way", and the accident was an "act of God"
-https://thenypost.files.wordpress.com/2015/09/crane.jpg?w=840
+https://en.wikipedia.org/wiki/Engineering_disasters#Hyatt_Regency_Hotel_walkway_collapse_.281981.29
 
-Standards/Codes
-===============
+http://commandsafety.com/wp-content/uploads/sites/10/2011/07/7-17-2011-10-48-46-AM.jpg
 
-standard
-   set of specifications to achieve uniformity, efficiency, quality
-code
-   specs to control saftey, efficiency, performance
+http://skywalk.kansascity.com/media/hyatt/img/articles/lobby_cropped_jpg_700x400_upscale_q85.jpg
 
-Strength 9:30
+- 1981
+- 114 deaths, 200 injuries
+- Numerous people standing on suspended walkways
+- Alteration of original design
+- Findings:
+
+   - The maximum load capacity of the fourth floor walkway was only 53% the
+     maximum load capacity of Kansas City Building Code standards
+   - The fabrication alterations from the original design doubled the load that
+     was received by the fourth floor walkway
+   - The deformation and distortion of the fourth floor hanger rods support the
+     notion that the collapse began at that point
+   - No evidence that the quality of construction or material selection played
+     a role in the walkway collapse.
+
+Key concepts: Standards, Strength, Lack of quality control
+
+Mecca Crane Collapse 2015
+-------------------------
+
+- 111 people killed, 394 injured
+- Their report stated that the crane's 190 meter long boom was not sufficiently
+  secured by its operators so as to withstand the high winds present on the day
+  of the collapse, and that use of that crane in those 80–105 km/h winds was
+  well outside the manufacturer's recommended operating parameters.
+- http://www.aljazeera.com/mritems/Images/2015/9/12/da765cc303a64c18a03ee9755582b530_18.jpg
+- https://en.wikipedia.org/wiki/Mecca_crane_collapse
+- An engineer for the group said that the crane was erected in "an extremely
+  professional way", and the accident was an "act of God"
+  https://thenypost.files.wordpress.com/2015/09/crane.jpg?w=840
+
+Strength 9:16
 =============
 
-- Max stress < strength
+- Max stress of any part must be < strength
 - strength: property of the component/part/element
-- :math:`S` typically deontes strength
+- :math:`S` typically denotes strength
 - stress: a property of the component's state at a specific point
 - :math:`\sigma` normal stress and :math:`\tau` shear stress
-- Needs margin to ensure failure rare or improbable
+- Needs margin to ensure failure rate or improbable
 - Focus on areas of the part that are critical stress areas
 
 Class Question
@@ -62,8 +85,58 @@ C. Compute the maximum possible stress at points that are likely to have the
 D. Draw a moment diagram of the cantilever beam and find the highest stress due
    to the moment to ensure it never exceeds the yield strength.
 
-Uncertainty 9:45
-================
+Design Factor and Factor of safety 9:22
+=======================================
+
+Design Factor
+   The pre-design target safety margin, i.e. the desired factor of strength
+   over max ??
+Factor of Safety
+   The post design, actual, minimum factor of strength.
+
+FoS should always be > than the DF!
+
+Why would the Factor of Safety be different than the design factor?
+
+Factor of Safety Method
+
+- Analyze all loss of function modes
+- Choose mode that leads to smallest design factor to govern decisions
+
+This is most typically:
+
+.. math::
+
+   n_d = \frac{S}{\sigma \textrm{ or } \tau}
+
+because stress may not vary linearly with load.
+
+Aluminum Can Demo
+-----------------
+
+- cold formed
+- 92.5% to 97% aluminum, <5.5% magnesium, <1.6% manganese, <0.15% chromium
+- one of the most optimized designs you can find
+- their goal is to reduce material
+- 13.5 g (0.5 oz) or 30 cans per pound
+- one failure mode is internal pressure: pressure vessel design problem
+- one half trillion are made per year
+- excellent packing factor: 91%
+- small design changes can save millions of kg of aluminum
+- pressure in can gives strength: stand on full can but maybe not on empty one
+- video: http://thekidshouldseethis.com/post/the-ingenious-design-of-the-aluminum-beverage-can
+
+Sample Problem
+--------------
+
+A square cross section rod is loaded axially with a static load of 1000+/-10
+lbs. The strength of the material is 25 kpsi and the desired design factor is
+4. Determine the minimum width of the square cross section. Then select a
+preferred fractional inch size from Table A-17 and report the factor of
+safety.
+
+Why do we have factor of saftey? 9:35
+=====================================
 
 What's wrong with this?:
 
@@ -74,7 +147,7 @@ Design factor
 
 .. math::
 
-   n_d = \frac{loss of function paramter}{maximum allowable parameter}
+   n_d = \frac{loss of function parameter}{maximum allowable parameter}
 
 Class Question
 --------------
@@ -86,207 +159,26 @@ design factor of 2, what is the max allowable load?
 
    P_{max} = \frac{P_{fail}}{n_d} = \frac{90 \textrm{ lbs}}{2} = 45 \textrm{ lbs}
 
-Factor of safety
-================
-
-Factor of Safety Method
-
-- Analyze all loss of function modes
-- Choose mode that leads to smallest design factor to govern decisions
-
-Factor of Safety
-   The actual design factor after the part is fully designed.
-
-Why would the Factor of Safety be different than the design factor?
-
-This is most typically:
-
-.. math::
-
-   n_d = \frac{S}{\sigma \textrm{ or } \tau}
-
-because stress may not vary linearly with load.
-
-Sample Problem
---------------
-
-A square cross section rod is loaded axially with a static load of 1000+/-10
-lbs. The strength of the material is 25 kpsi and the desired design factor is
-4. Determine the minimum width of the square cross section. Then select a
-preferred fractional inch size from Table A-17 and report the factor of
-safety.
-
-9:00
-====
-
-- Questions?
-
-- Feedback
-
-  - How many drawings have you done?
-  - Work on handwriting and removing the notes too quickly.
-
-- Review of uncertainty
-
-  - Gaussian distributions can model many real world observations
-  - We can make predictions of quality, strenght, loads, etc in a stochastic
-    manner.
-  - Probabilities are the area under the Gaussian probaility density curve and
-    are found by integration.
-  - The book provides a table of probabilities for a nominal Gaussian curve.
-
-9:05
-====
-
-Free Body Diagrams
-
-- system: any isolated part or portion of a machine or structure
-- used to isolate and identify both internal and external loads on a design
-  element
-- defines:
-
-  - coordinate systems
-  - known and unknown forces
-
-:math:`\sum F = \frac{dp}{dt}` and :math:`\sum M = \frac{dH}{dt}`
-
-Static Equilibrium (no velocity)
-
-F = 0 and M = 0
-
-9:15
-====
-
-Exercise: FBD Question
-
-9:20
-====
-
-Example FBD
-
-9:35
-====
-
-Question: FBD diagram question
-
-9:45
-====
-
-- Questions?
-- HW Questions?
-- 50 designs due
-
-
-TODO
-====
-
-- Print Table A-10
-
-9:00
-====
-
-Rocklin mini maker faire: http://makerfairerocklin.com/ Oct 3
-
-Questions?
-
-Review mechanical design
-
-Review uncertainty
-   Every number has an uncertainity associated with it and you must take this
-   into account in design.
-Review design factor and factory of saftey
-   Design factors help account for uncertainity. The design factor is the
-   desired value and the factor of the safety is the actual value.
-
-9:05
-====
-
-Stochastic failure criteria and reliability
-
-Goals
------
-- Understand that uncertainty is more realistically modeled by statisical
-  models.
-- Be able to compute Gaussian probablities using a transform table.
-
-9:15
-====
-
-Exercise
-
-9:20
-====
-
-Dimensions, units, sig figs
-
-Tolerances
-----------
-
-- Nominal sizes are note exact sizes
-- Tolerance limits are specified as absolutes
-- Tight tolerances = higher costs
-- Dimensioning should include the minimum non-redudant info
-- Dimensions should be chosen based on part functionality
-- Tolerance stackup
-
-Units
------
-
-- We will be using two unit system: International System of Units and U.S.
-  Customary Units
-- US, Liberia, Burma only countries that use the U.S. system.
-- F = MLT^{-2}
-
-M = FT^2 / L = (pound-force) (second)^2 = lbf * s^2 / ft = slug
-
-- lbf: pound force
-- kip : kilo pounds force
-
-F = ML / T^2 = (kilogram) (meter) / (second)^2 = kg m / s^2 = N
-
-W = mg
-
-g = 9.81 m/s^2 = 32.2 ft/s^2
-
-- Mars climate orbiter: https://en.wikipedia.org/wiki/Mars_Climate_Orbiter
-- Cost about $600 million
-- output lbf s instead of N s
-
-Sig figs
---------
-
-- sig figs are inferred by shown digits (except leading): 0.700"
-- scientific notation: 706.0, 7.060x10^2, 0.7060x10^3, 7.060E2
-- the smallest sig figs in a calc fix the number of sig figs you should report
-- do all calcs at greatest accuracy possible and round at the end
-
-9:30
-====
-
-Tolerance stack up exercise.
-
-9:35
-====
-
-Free body diagrams
-
-- used to isolate and identify internal and external loads on a design element
-- includes coordinate system(s)
-- lists known and unknown forces acting on the element(s)
-- loads are required to determine stress in the member
-
-Static equilibrium:
-
-Sum F = 0
-Sum M = 0
-
-9:45
-====
-
-Exercise
-
-Collect feedback
-
-What we will go over next time: shear and moment diagrams for beams
-
-Homework will be posted after class.
+Uncertainty
+
+- Gaussian distributions can model many real world observations
+- We can make predictions of quality, strenght, loads, etc in a stochastic
+  manner.
+- Probabilities are the area under the Gaussian probaility density curve and
+  are found by integration.
+- The book provides a table of probabilities for a nominal Gaussian curve.
+
+Standards/Codes 9:45
+====================
+
+standard
+   set of specifications to achieve uniformity, efficiency, quality
+code
+   specs to control saftey, efficiency, performance
+
+Wrap Up 9:47
+============
+
+- Homework 1 will be posted after class
+- 30 designs are due Friday in class: bring notebook
+- Questions
