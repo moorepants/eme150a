@@ -1,33 +1,27 @@
-:title: Preparation for Friday, October 2
+:title: Preparation for Wednesday, September 28, 2016
 :status: hidden
 
 Preparation
 ===========
 
-- Read sections 3-2 and 3-3
-- For more information, read the wikipedia articles on `shear and moment
-  diagrams <https://en.wikipedia.org/wiki/Shear_and_moment_diagram>`_ and
-  `singularity functions
-  <https://en.wikipedia.org/wiki/Singularity_function>`_.
-- Try Examples 3-2 and 3-3 and/or one of the Problems 3-5 to 3-8
-- All 50 of your designs should be in your notebook and numbered for an in
-  class grade.
-- Be prepared to work on problems during the discussion session (time
-  dependent). You will spend the time working on the homework while Matt and I
-  help and do problems on the board.
+- Read sections 1-12 to 1-17, 3-1
+- More info on free body diagrams can be found at
+  https://en.wikipedia.org/wiki/Free_body_diagram for example (or your previous
+  textbooks)
 
 Concepts
 ========
 
 After this lesson you should be able to:
 
-- Understand the relationship between external loads and the internal shear
-  loads and bending moments.
-- Draw the shear load and bending moment diagrams for a variety of beams.
-- Utilize singularity functions to compute the shear loads and bending moments.
+- Compute reliability's base on Gaussian data
+- Understand the relationship of factor of safety and reliability
+- Understand when to use the appropriate choice of dimensions and tolerances
+- Compute tolerance stack up
+- Use appropriate units and sig figs
+- Draw 2D and 3D free body diagrams of a mechanical structures
 
 Upcoming Due Dates
 ==================
 
-- Homework #1 will be due Monday, October 5
-- Five in-notebook detailed designs will be due Friday, October 9th
+- Homework #1 will be due Monday, October 3
