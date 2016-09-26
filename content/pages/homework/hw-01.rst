@@ -1,8 +1,8 @@
 :title: Homework #01
-:subtitle: Monday, September 28, 2015
+:subtitle: Monday, September 26, 2016
 :status: hidden
 
-**DUE: Monday, October 05, 2015 before class in Box D in the MAE department.**
+**DUE: Monday, October 03, 2016 before class in Box B in the MAE department.**
 
 `PDF Version <{attach}/materials/hw-01.pdf>`_
 
@@ -10,12 +10,14 @@ Problem 1
 =========
 
 Your manufacturing company has been contracted to manufacture 10,000 custom
-cotter pins that secure the PTO to external attachments for a new tractor
+cotter pins that secure the PTO_ to external attachments for a new tractor
 model. The delivered outer diameter of the pins must be :math:`0.625\pm0.01"`.
 Your quality control team has run some test batches of the pins and have found
 that the manufacturing process produces a mean diameter of 0.621" with a
 standard deviation of 0.004". How many more pins will you have to make to
 ensure you deliver 10,000 pins that meet the criteria?
+
+.. _PTO: https://en.wikipedia.org/wiki/Power_take-off
 
 Problem 2
 =========
@@ -31,9 +33,13 @@ Problem 2
    It has been determined that the design factor for this part is to be 3 with
    respect to yielding. If the material is 1018 steel, will a cross section
    width of :math:`w=1cm` of the square bar be able to meet this design factor
-   if only the maximum normal stress is considered with :math:`P=60N`,
-   :math:`a=6cm`, and :math:`b=5cm`? Compute the actual factor of saftey to
+   if only the maximum normal stress is considered with :math:`P=120N`,
+   :math:`a=6cm`, and :math:`b=5cm`? Compute the actual factor of safety to
    show this.
+
+**Part 3**
+   Explain in words the difference between "design factor" and "factor of
+   safety".
 
 Problem 3
 =========

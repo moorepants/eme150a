@@ -4,11 +4,12 @@
 ============== ========== ================
 Homework       PDF        Due Date
 ============== ========== ================
-Homework #1    PDF #1     October 3, 2016
+`Homework #1`_ `PDF #1`_  October 3, 2016
 ============== ========== ================
 
+.. _Homework #1: {filename}/pages/homework/hw-01.rst
+
 ..
-   .. _Homework #1: {filename}/pages/homework/hw-01.rst
    .. _Homework #2: {filename}/pages/homework/hw-02.rst
    .. _Homework #3: {filename}/pages/homework/hw-03.rst
    .. _Homework #4: {filename}/pages/homework/hw-04.rst

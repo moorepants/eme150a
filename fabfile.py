@@ -96,7 +96,7 @@ def gh_pages():
     local("git push origin {github_pages_branch}".format(**env))
 
 
-def build_homework():
+def build_homework(num=None):
     """Collects the problems in the homework folder and constructs both a PDF
     and pelican page.
 
@@ -130,23 +130,21 @@ def build_homework():
         if not os.path.exists(d):
             os.makedirs(d)
 
-    assigned_dates = {'01': '2015/09/28',
-                      '02': '2015/10/05',
-                      '03': '2015/10/12',
-                      '04': '2015/10/19',
-                      '05': '2015/11/02',
-                      '06': '2015/11/09',
-                      '07': '2015/11/16',
-                      '08': '2015/11/23'}
+    assigned_dates = {'01': '2016/09/26',
+                      '02': '2016/10/03',
+                      '03': '2016/10/10',
+                      '04': '2016/10/17',
+                      '05': '2016/10/31',
+                      '06': '2016/11/07',
+                      '07': '2016/11/14',
+                      '08': '2016/11/21'}
 
     pdf_header_template = """\
 ================================
-EME 150A Fall 2015 Homework #{}
+EME 150A Fall 2016 Homework #{}
 ================================
 
-:date: {}
-
-**DUE: {} before class in Box D in the MAE department.**
+**DUE: {} before class in Box B in the MAE department.**
 """
 
     web_header_template = """\
@@ -154,7 +152,7 @@ EME 150A Fall 2015 Homework #{}
 :subtitle: {}
 :status: hidden
 
-**DUE: {} before class in Box D in the MAE department.**
+**DUE: {} before class in Box B in the MAE department.**
 
 `PDF Version <{{attach}}/materials/hw-{}.pdf>`_
 """
@@ -167,8 +165,11 @@ EME 150A Fall 2015 Homework #{}
 
     pelican_root_dir = os.path.abspath(os.path.curdir)
 
-    hw_nums = [name for name in os.listdir(hw_dir) if
-               os.path.isdir(os.path.join(hw_dir, name))]
+    if num is not None:
+        hw_nums = [num]
+    else:
+        hw_nums = [name for name in os.listdir(hw_dir) if
+                   os.path.isdir(os.path.join(hw_dir, name))]
 
     for hw_num in hw_nums:
 
@@ -196,7 +197,6 @@ EME 150A Fall 2015 Homework #{}
 
         with open(rst_filename, 'w') as f:
             hd = pdf_header_template.format(hw_num,
-                                            date_assigned.strftime(date_format),
                                             date_due.strftime(date_format))
             f.write(hd + text)
 
