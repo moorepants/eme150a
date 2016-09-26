@@ -19,7 +19,7 @@ One and Two. **Check the schedule periodically for changes.**
 4  W Sep 28    Free body diagrams
 5  F Sep 30    Bending moment and shear diagrams                    Proj. 1: 30 designs
 -- ----------  ------------------------------------  -------------  -----
-6  M Oct 3     - Multi-axial stress                                 HW #1
+6  M Oct 3     - Multi-axial stress                                 `HW #1`_
 7  W Oct 5     - Principal stress
 8  F Oct 7     - Mohr's circle
                - Proj. 1: lightning explanations                    Proj. 1: Five detailed designs
