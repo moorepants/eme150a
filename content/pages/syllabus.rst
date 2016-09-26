@@ -94,7 +94,7 @@ times, please find an available time on Jason's schedule_ and email him with
 the request.
 
 Destiny will hold office hours on Wednesdays from 1-2PM and Fridays from 12-1PM
-in a TBA room.
+in TB 207 Room 110.
 
 .. _schedule: http://www.moorepants.info/work-calendar.html
 
@@ -152,8 +152,8 @@ Final                  20%
 
 Homework
    Weekly homework will be assigned which will be due before class the
-   following week in the mechanical engineering homework **drop box** in Bainer
-   Hall.
+   following week in the mechanical engineering homework **drop box B** in
+   Bainer Hall.
 In class
    There will be a variety of in class assignments and quizzes that may count
    towards your grade.
