@@ -17,6 +17,7 @@
 - Be able to distinguish "design factor" and "factor of safety"
 - Be able to compute the factor of safety
 - Be able to define codes and standards in engineering context
+- Be able to compute basic probalities
 
 Intro Example 9:12
 ==================
@@ -27,6 +28,7 @@ http://commandsafety.com/wp-content/uploads/sites/10/2011/07/7-17-2011-10-48-46-
 
 http://skywalk.kansascity.com/media/hyatt/img/articles/lobby_cropped_jpg_700x400_upscale_q85.jpg
 
+- Hyatt Regency Hotel Walkway Collapse
 - 1981
 - 114 deaths, 200 injuries
 - Numerous people standing on suspended walkways
@@ -69,6 +71,11 @@ Strength 9:16
 - Needs margin to ensure failure rate or improbable
 - Focus on areas of the part that are critical stress areas
 
+Strength
+   Inherent property of the object geometry and material. S, Sy, Su
+Stress
+   Property of the object's state and location. sigma, tau
+
 Class Question
 --------------
 
@@ -90,24 +97,44 @@ Design Factor and Factor of safety 9:22
 
 Design Factor
    The pre-design target safety margin, i.e. the desired factor of strength
-   over max ??
+   over max allowable strength. "All elevators should have a design factor
+   of 10."
 Factor of Safety
-   The post design, actual, minimum factor of strength.
+   The post design, i.e. actual, minimum factor of strength. "The factor of
+   safety of this elevator is 11.3."
 
 FoS should always be > than the DF!
 
-Why would the Factor of Safety be different than the design factor?
+FoS is deterministic based on absolutes
+
+Any ideas why the DF and FoS are different?
+   Mention Table A-17 of preferred sizes.
 
 Factor of Safety Method
 
 - Analyze all loss of function modes
 - Choose mode that leads to smallest design factor to govern decisions
 
+.. math::
+
+   n_d = \frac{loss of function parameter}{maximum allowable parameter}
+
+Class Question
+--------------
+
+If the load that will cause failure is between 90 and 110 lbs and you'd like a
+design factor of 2, what is the max allowable load?
+
+.. math::
+
+   P_{max} = \frac{P_{fail}}{n_d} = \frac{90 \textrm{ lbs}}{2} = 45 \textrm{ lbs}
+
+
 This is most typically:
 
 .. math::
 
-   n_d = \frac{S}{\sigma \textrm{ or } \tau}
+   n_d = \frac{S}{\sigma_{max} \textrm{ or } \tau_{max}}
 
 because stress may not vary linearly with load.
 
@@ -142,23 +169,6 @@ What's wrong with this?:
 
    The yield strength of hot rolled mild steel is 220 MPa.
 
-Design factor
-   deterministic based on absolutes
-
-.. math::
-
-   n_d = \frac{loss of function parameter}{maximum allowable parameter}
-
-Class Question
---------------
-
-If the load that will cause failure is between 90 and 110 lbs and you'd like a
-design factor of 2, what is the max allowable load?
-
-.. math::
-
-   P_{max} = \frac{P_{fail}}{n_d} = \frac{90 \textrm{ lbs}}{2} = 45 \textrm{ lbs}
-
 Uncertainty
 
 - Gaussian distributions can model many real world observations
@@ -167,6 +177,20 @@ Uncertainty
 - Probabilities are the area under the Gaussian probaility density curve and
   are found by integration.
 - The book provides a table of probabilities for a nominal Gaussian curve.
+
+Selection of Design Factor
+
+- subjective
+- follow industry standards and codes
+
+Depends on:
+
+- degree of uncertainty about loading
+- degreee of uncertainty about material strength and structure
+- consequences of failure > human safety, economics
+- cost of providing a high factor of safety
+
+Boils down to the probability of failure.
 
 Standards/Codes 9:45
 ====================
