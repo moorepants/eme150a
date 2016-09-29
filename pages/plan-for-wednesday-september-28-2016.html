@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>Plan for Friday, October 2, 2015</title>
+        <title>Plan for Wednesday, September 28, 2016</title>
         <link rel="stylesheet" href="http://moorepants.github.io/eme150a/theme/css/main.css" />
         <link rel="stylesheet" href="http://moorepants.github.io/eme150a/theme/css/custom.css" />
 
@@ -28,40 +28,74 @@
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
-    <h1 class="entry-title">Plan for Friday, October 2, 2015</h1>
+    <h1 class="entry-title">Plan for Wednesday, September 28, 2016</h1>
     
     <div class="section" id="id1">
 <h2>9:00</h2>
-<p>Rocklin mini maker faire: <a class="reference external" href="http://makerfairerocklin.com/">http://makerfairerocklin.com/</a> Oct 3</p>
-<p>Questions?</p>
-<p>Review mechanical design</p>
 <dl class="docutils">
-<dt>Review uncertainty</dt>
-<dd>Every number has an uncertainity associated with it and you must take this
-into account in design.</dd>
-<dt>Review design factor and factory of saftey</dt>
+<dt>Review design factor and factor of safety</dt>
 <dd>Design factors help account for uncertainity. The design factor is the
-desired value and the factor of the safety is the actual value.</dd>
+target specification and the factor of the safety is the actual value.</dd>
 </dl>
-</div>
-<div class="section" id="id2">
-<h2>9:05</h2>
-<p>Stochastic failure criteria and reliability</p>
-<div class="section" id="goals">
-<h3>Goals</h3>
+<div class="section" id="objectives">
+<h3>Objectives</h3>
 <ul class="simple">
-<li>Understand that uncertainty is more realistically modeled by statisical
-models.</li>
-<li>Be able to compute Gaussian probablities using a transform table.</li>
+<li>be able to calculate factors of safety</li>
+<li>be able to use preferred size choices</li>
+<li>understand that uncertainty is more realistically modeled by statisical
+models</li>
+<li>be able to compute Gaussian probablities using a transform table</li>
 </ul>
 </div>
 </div>
-<div class="section" id="id3">
-<h2>9:15</h2>
+<div class="section" id="example-factor-of-saftey-calculation">
+<h2>9:10 Example: Factor of Saftey Calculation</h2>
+<p>A square cross section rod is loaded axially with a static load of 1000+/-10
+lbs. The strength of the material is 25 kpsi and the desired design factor is
+4. Determine the minimum width of the square cross section. Then select a
+preferred fractional inch size from Table A-17 and report the factor of
+safety.</p>
+</div>
+<div class="section" id="uncertainty">
+<h2>9:20 Uncertainty</h2>
+<p>Selection of Design Factor</p>
+<ul class="simple">
+<li>subjective</li>
+<li>follow industry standards and codes</li>
+</ul>
+<dl class="docutils">
+<dt>standard</dt>
+<dd>set of specifications to achieve uniformity, efficiency, quality</dd>
+<dt>code</dt>
+<dd>specs to control saftey, efficiency, performance</dd>
+</dl>
+<p>Depends on:</p>
+<ul class="simple">
+<li>degree of uncertainty about loading</li>
+<li>degreee of uncertainty about material strength and structure</li>
+<li>consequences of failure &gt; human safety, economics</li>
+<li>cost of providing a high factor of safety</li>
+</ul>
+<p>FoS is deterministic based on absolutes</p>
+<p>Boils down to the probability of failure.</p>
+<p>What's wrong with this?:</p>
+<blockquote>
+The yield strength of hot rolled mild steel is 220 MPa.</blockquote>
+<p>Uncertainty</p>
+<ul class="simple">
+<li>Gaussian distributions can model many real world observations</li>
+<li>We can make predictions of quality, strenght, loads, etc in a stochastic
+manner.</li>
+<li>Probabilities are the area under the Gaussian probaility density curve and
+are found by integration.</li>
+<li>The book provides a table of probabilities for a nominal Gaussian curve.</li>
+</ul>
+<p>Stochastic failure criteria and reliability</p>
+<p>Gaussian, table a-17 etc</p>
 <p>Exercise</p>
 </div>
-<div class="section" id="id4">
-<h2>9:20</h2>
+<div class="section" id="id2">
+<h2>9:35</h2>
 <p>Dimensions, units, sig figs</p>
 <div class="section" id="tolerances">
 <h3>Tolerances</h3>
@@ -106,172 +140,19 @@ Customary Units</li>
 </ul>
 </div>
 </div>
-<div class="section" id="id5">
-<h2>9:30</h2>
+<div class="section" id="id3">
+<h2>9:40</h2>
 <p>Tolerance stack up exercise.</p>
 </div>
-<div class="section" id="id6">
-<h2>9:35</h2>
-<p>Free body diagrams</p>
-<ul class="simple">
-<li>used to isolate and identify internal and external loads on a design element</li>
-<li>includes coordinate system(s)</li>
-<li>lists known and unknown forces acting on the element(s)</li>
-<li>loads are required to determine stress in the member</li>
-</ul>
-<p>Static equilibrium:</p>
-<p>Sum F = 0
-Sum M = 0</p>
-</div>
-<div class="section" id="id7">
-<h2>9:45</h2>
-<p>Exercise</p>
-<p>Collect feedback</p>
-<p>What we will go over next time: shear and moment diagrams for beams</p>
-<p>Homework will be posted after class.</p>
-</div>
-<div class="section" id="id8">
-<h2>9:05</h2>
-<p>Free Body Diagrams</p>
-<ul class="simple">
-<li>system: any isolated part or portion of a machine or structure</li>
-<li>used to isolate and identify both internal and external loads on a design
-element</li>
-<li>defines:<ul>
-<li>coordinate systems</li>
-<li>known and unknown forces</li>
-</ul>
-</li>
-</ul>
-<p><span class="math">\(\sum F = \frac{dp}{dt}\)</span> and <span class="math">\(\sum M = \frac{dH}{dt}\)</span></p>
-<p>Static Equilibrium (no velocity)</p>
-<p>F = 0 and M = 0</p>
-</div>
-<div class="section" id="id9">
-<h2>9:15</h2>
-<p>Exercise: FBD Question</p>
-</div>
-<div class="section" id="id10">
-<h2>9:20</h2>
-<p>Example FBD</p>
-</div>
-<div class="section" id="id11">
-<h2>9:35</h2>
-<p>Question: FBD diagram question</p>
-</div>
-<div class="section" id="id12">
+<div class="section" id="id4">
 <h2>9:45</h2>
 <ul class="simple">
 <li>Questions?</li>
 <li>HW Questions?</li>
-<li>50 designs due</li>
-</ul>
-</div>
-<div class="section" id="todo">
-<h2>TODO</h2>
-<ul class="simple">
-<li>Print Table A-10</li>
-</ul>
-</div>
-<div class="section" id="id13">
-<h2>9:00</h2>
-<ul class="simple">
-<li>The Martian Movie</li>
-<li>Questions?</li>
-<li>Are office hours at good times?</li>
-<li>Review: Free Body Diagrams<ul>
-<li>Draw system bound in whatever way is useful for problem</li>
-<li>Equilibrium: F = 0, M = 0</li>
-<li>Basic maximum stress for axial, bending, and torsion</li>
-</ul>
-</li>
-<li>Pin joint demo</li>
-</ul>
-<p>Today's goals:</p>
-<blockquote>
-<ul class="simple">
-<li>Review of transversely loaded beams</li>
-<li>Be able to draw shear and bending moment diagrams</li>
-<li>Utilize singularity functions to efficiently draw diagrams</li>
-</ul>
-</blockquote>
-</div>
-<div class="section" id="id14">
-<h2>9:10</h2>
-<p>Shear and Bending diagrams</p>
-<ul class="simple">
-<li>Relation of q, V, M</li>
-</ul>
-</div>
-<div class="section" id="id15">
-<h2>9:20</h2>
-<ul class="simple">
-<li>Shear and bending question</li>
-</ul>
-</div>
-<div class="section" id="id16">
-<h2>9:25</h2>
-<ul class="simple">
-<li>Singularity functions for beams</li>
-<li>Example with singularity functions</li>
-</ul>
-</div>
-<div class="section" id="id17">
-<h2>9:40</h2>
-<ul class="simple">
-<li>Singularity question</li>
-</ul>
-</div>
-<div class="section" id="id18">
-<h2>9:45</h2>
-<p>Wrap up</p>
-<ul class="simple">
-<li>Beam shear and moment values are piecewise functions</li>
-<li>Load, shear, and bending are related by derivatives</li>
-<li>Complex loadings can be more easily calculated with singularity functions</li>
-</ul>
-</div>
-<div class="section" id="id19">
-<h2>9:50</h2>
-<p>Break</p>
-</div>
-<div class="section" id="id20">
-<h2>10:00</h2>
-<ul class="simple">
-<li>Description of the next step in the project: 5 more detailed designs are due
-next friday.<ul>
-<li>Answer more questions, more sketches, add calculations</li>
-<li>Around 2 full notebook pages that are dense per design: ultimately will need
-3 pages of computer content for the final design</li>
-<li>Focus on designs that will allow you to think about the loads, stresses,
-strength, motion</li>
-<li>Describe lightning talks for next Friday<ul>
-<li>2 minutes to describe to your group a design</li>
-<li>2 designs per member</li>
-<li>practice before hand, make short script about main points (2 minutes
-doesn't give you time to flounder)</li>
-<li>2 minute review from groups</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>Questions?</p>
-</div>
-<div class="section" id="id21">
-<h2>10:10</h2>
-<ul class="simple">
-<li>Get in groups and work together on the homework or the provided examples</li>
-<li>Check on group sizes</li>
-<li>Have notebook out and ready for grading</li>
-</ul>
-</div>
-<div class="section" id="id22">
-<h2>10:45</h2>
-<ul class="simple">
-<li>Questions</li>
-<li>Collect feedback: feedback for the week will happen on Fridays</li>
-<li>positive, negative for the week and time spent outside of class</li>
+<li>30 designs due Friday</li>
+<li>HW 1 due Monday</li>
+<li>Read sections on free body diagrams and beam bending. 3-1 to 3-3</li>
+<li>Bring laptop to class with Anaconda Python 3.5 installed.</li>
 </ul>
 </div>
 
