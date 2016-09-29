@@ -9,16 +9,16 @@ One and Two. **Check the schedule periodically for changes.**
 == ==========  ====================================  =============  =====
 #  Date        Topic                                 Materials      Assignment Due
 == ==========  ====================================  =============  =====
-1  W Sep 21    - Class introduction                  `Prep 1`_      CATME Survey
-               - Introduction to mechanical design   `Notes 1`_
-2  F Sep 23    - Project 1 introduction              `Prep 2`_
-                                                     `Notes 2`_
+1  W Sep 21    - Class introduction                  - `Prep 1`_    CATME Survey
+               - Introduction to mechanical design   - `Notes 1`_
+2  F Sep 23    - Project 1 introduction              - `Prep 2`_
+                                                     - `Notes 2`_
 -- ----------  ------------------------------------  -------------  -----
-3  M Sep 26    - Factor of Safety                    `Prep 3`_
-                                                     `Notes 3`_
-4  W Sep 28    - Uncertainty                         `Prep 4`_
-               - Reliability, Tolerances, Units      `Notes 4`_
-5  F Sep 30    - Free body diagrams                  `Prep 5`_      Proj. 1: 30 designs
+3  M Sep 26    - Factor of Safety                    - `Prep 3`_
+                                                     - `Notes 3`_
+4  W Sep 28    - Uncertainty                         - `Prep 4`_
+               - Reliability, Tolerances, Units      - `Notes 4`_
+5  F Sep 30    - Free body diagrams                  - `Prep 5`_    Proj. 1: 30 designs
                - Bending moment and shear diagrams
                - Intro to SymPy for mechanics
 -- ----------  ------------------------------------  -------------  -----
