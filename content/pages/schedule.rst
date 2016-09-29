@@ -10,14 +10,16 @@ One and Two. **Check the schedule periodically for changes.**
 #  Date        Topic                                 Materials      Assignment Due
 == ==========  ====================================  =============  =====
 1  W Sep 21    - Class introduction                  `Prep 1`_      CATME Survey
-               - Introduction to mechanical design
+               - Introduction to mechanical design   `Notes 1`_
 2  F Sep 23    - Project 1 introduction              `Prep 2`_
+                                                     `Notes 2`_
 -- ----------  ------------------------------------  -------------  -----
 3  M Sep 26    - Factor of Safety                    `Prep 3`_
-4  W Sep 28    - Free body diagrams                  `Prep 4`_
-               - Uncertainty
-               - Reliability, Tolerances, Units
-5  F Sep 30    - Bending moment and shear diagrams   `Prep 5`_      Proj. 1: 30 designs
+                                                     `Notes 3`_
+4  W Sep 28    - Uncertainty                         `Prep 4`_
+               - Reliability, Tolerances, Units      `Notes 4`_
+5  F Sep 30    - Free body diagrams                  `Prep 5`_      Proj. 1: 30 designs
+               - Bending moment and shear diagrams
                - Intro to SymPy for mechanics
 -- ----------  ------------------------------------  -------------  -----
 6  M Oct 3     - Multi-axial stress                                 `HW #1`_
@@ -80,5 +82,8 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
 .. _Notes 1: {attach}/materials/notes-01.pdf
+.. _Notes 2: {attach}/materials/notes-02.pdf
+.. _Notes 3: {attach}/materials/notes-03.pdf
+.. _Notes 4: {attach}/materials/notes-04.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
