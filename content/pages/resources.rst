@@ -22,6 +22,22 @@ Tables
 .. [2] I'm looking for a better table for this. Something more like the book.
    Let me know if you find one (or make one). *-- Jason*
 
+Python for Mechanics
+====================
+
+We will be using Python in this class for our computations. Python is a general
+purpose high level programming language that has thousands of packages. You
+will need to download and install the Anaconda Distribution of Python (Python
+3.5 version) from:
+
+https://www.continuum.io/downloads
+
+Anaconda is also be available in the CAE lab in Bainer.
+
+We will primarily make use of SymPy_ to solve mechanical design problems.
+
+.. _SymPy: http://sympy.org
+
 Contact Stress Failures
 =======================
 
