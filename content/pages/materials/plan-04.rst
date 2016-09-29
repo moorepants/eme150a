@@ -1,39 +1,75 @@
-:title: Plan for Friday, October 2, 2015
+:title: Plan for Wednesday, September 28, 2016
 :status: hidden
 
 9:00
 ====
 
-Rocklin mini maker faire: http://makerfairerocklin.com/ Oct 3
-
-Questions?
-
-Review mechanical design
-
-Review uncertainty
-   Every number has an uncertainity associated with it and you must take this
-   into account in design.
-Review design factor and factory of saftey
+Review design factor and factor of safety
    Design factors help account for uncertainity. The design factor is the
-   desired value and the factor of the safety is the actual value.
+   target specification and the factor of the safety is the actual value.
 
-9:05
-====
+Objectives
+----------
+
+- be able to calculate factors of safety
+- be able to use preferred size choices
+- understand that uncertainty is more realistically modeled by statisical
+  models
+- be able to compute Gaussian probablities using a transform table
+
+9:10 Example: Factor of Saftey Calculation
+==========================================
+
+A square cross section rod is loaded axially with a static load of 1000+/-10
+lbs. The strength of the material is 25 kpsi and the desired design factor is
+4. Determine the minimum width of the square cross section. Then select a
+preferred fractional inch size from Table A-17 and report the factor of
+safety.
+
+9:20 Uncertainty
+================
+
+Selection of Design Factor
+
+- subjective
+- follow industry standards and codes
+
+standard
+   set of specifications to achieve uniformity, efficiency, quality
+code
+   specs to control saftey, efficiency, performance
+
+Depends on:
+
+- degree of uncertainty about loading
+- degreee of uncertainty about material strength and structure
+- consequences of failure > human safety, economics
+- cost of providing a high factor of safety
+
+FoS is deterministic based on absolutes
+
+Boils down to the probability of failure.
+
+What's wrong with this?:
+
+   The yield strength of hot rolled mild steel is 220 MPa.
+
+Uncertainty
+
+- Gaussian distributions can model many real world observations
+- We can make predictions of quality, strenght, loads, etc in a stochastic
+  manner.
+- Probabilities are the area under the Gaussian probaility density curve and
+  are found by integration.
+- The book provides a table of probabilities for a nominal Gaussian curve.
 
 Stochastic failure criteria and reliability
 
-Goals
------
-- Understand that uncertainty is more realistically modeled by statisical
-  models.
-- Be able to compute Gaussian probablities using a transform table.
-
-9:15
-====
+Gaussian, table a-17 etc
 
 Exercise
 
-9:20
+9:35
 ====
 
 Dimensions, units, sig figs
@@ -79,173 +115,17 @@ Sig figs
 - the smallest sig figs in a calc fix the number of sig figs you should report
 - do all calcs at greatest accuracy possible and round at the end
 
-9:30
+9:40
 ====
 
 Tolerance stack up exercise.
-
-9:35
-====
-
-Free body diagrams
-
-- used to isolate and identify internal and external loads on a design element
-- includes coordinate system(s)
-- lists known and unknown forces acting on the element(s)
-- loads are required to determine stress in the member
-
-Static equilibrium:
-
-Sum F = 0
-Sum M = 0
-
-9:45
-====
-
-Exercise
-
-Collect feedback
-
-What we will go over next time: shear and moment diagrams for beams
-
-Homework will be posted after class.
-
-9:05
-====
-
-Free Body Diagrams
-
-- system: any isolated part or portion of a machine or structure
-- used to isolate and identify both internal and external loads on a design
-  element
-- defines:
-
-  - coordinate systems
-  - known and unknown forces
-
-:math:`\sum F = \frac{dp}{dt}` and :math:`\sum M = \frac{dH}{dt}`
-
-Static Equilibrium (no velocity)
-
-F = 0 and M = 0
-
-9:15
-====
-
-Exercise: FBD Question
-
-9:20
-====
-
-Example FBD
-
-9:35
-====
-
-Question: FBD diagram question
 
 9:45
 ====
 
 - Questions?
 - HW Questions?
-- 50 designs due
-
-
-TODO
-====
-
-- Print Table A-10
-
-
-9:00
-====
-
-- The Martian Movie
-- Questions?
-- Are office hours at good times?
-- Review: Free Body Diagrams
-
-  - Draw system bound in whatever way is useful for problem
-  - Equilibrium: F = 0, M = 0
-  - Basic maximum stress for axial, bending, and torsion
-
-- Pin joint demo
-
-Today's goals:
-
- - Review of transversely loaded beams
- - Be able to draw shear and bending moment diagrams
- - Utilize singularity functions to efficiently draw diagrams
-
-9:10
-====
-
-Shear and Bending diagrams
-
-- Relation of q, V, M
-
-9:20
-====
-
-- Shear and bending question
-
-9:25
-====
-
-- Singularity functions for beams
-- Example with singularity functions
-
-9:40
-====
-
-- Singularity question
-
-9:45
-====
-
-Wrap up
-
-- Beam shear and moment values are piecewise functions
-- Load, shear, and bending are related by derivatives
-- Complex loadings can be more easily calculated with singularity functions
-
-9:50
-====
-
-Break
-
-10:00
-=====
-
-- Description of the next step in the project: 5 more detailed designs are due
-  next friday.
-
-  - Answer more questions, more sketches, add calculations
-  - Around 2 full notebook pages that are dense per design: ultimately will need
-    3 pages of computer content for the final design
-  - Focus on designs that will allow you to think about the loads, stresses,
-    strength, motion
-  - Describe lightning talks for next Friday
-
-    - 2 minutes to describe to your group a design
-    - 2 designs per member
-    - practice before hand, make short script about main points (2 minutes
-      doesn't give you time to flounder)
-    - 2 minute review from groups
-
-Questions?
-
-10:10
-=====
-
-- Get in groups and work together on the homework or the provided examples
-- Check on group sizes
-- Have notebook out and ready for grading
-
-10:45
-=====
-
-- Questions
-- Collect feedback: feedback for the week will happen on Fridays
-- positive, negative for the week and time spent outside of class
+- 30 designs due Friday
+- HW 1 due Monday
+- Read sections on free body diagrams and beam bending. 3-1 to 3-3
+- Bring laptop to class with Anaconda Python 3.5 installed.

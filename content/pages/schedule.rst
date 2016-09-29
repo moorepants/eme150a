@@ -17,7 +17,7 @@ One and Two. **Check the schedule periodically for changes.**
 4  W Sep 28    - Free body diagrams                  `Prep 4`_
                - Uncertainty
                - Reliability, Tolerances, Units
-5  F Sep 30    - Bending moment and shear diagrams                  Proj. 1: 30 designs
+5  F Sep 30    - Bending moment and shear diagrams   `Prep 5`_      Proj. 1: 30 designs
                - Intro to SymPy for mechanics
 -- ----------  ------------------------------------  -------------  -----
 6  M Oct 3     - Multi-axial stress                                 `HW #1`_
@@ -75,6 +75,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 2: {filename}/pages/materials/prep-02.rst
 .. _Prep 3: {filename}/pages/materials/prep-03.rst
 .. _Prep 4: {filename}/pages/materials/prep-04.rst
+.. _Prep 5: {filename}/pages/materials/prep-05.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 

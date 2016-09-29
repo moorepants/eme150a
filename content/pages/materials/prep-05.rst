@@ -10,11 +10,12 @@ Preparation
   `singularity functions
   <https://en.wikipedia.org/wiki/Singularity_function>`_.
 - Try Examples 3-2 and 3-3 and/or one of the Problems 3-5 to 3-8
-- All 50 of your designs should be in your notebook and numbered for an in
+- All 30 of your designs should be in your notebook and numbered for an in
   class grade.
-- Be prepared to work on problems during the discussion session (time
-  dependent). You will spend the time working on the homework while Matt and I
-  help and do problems on the board.
+- Bring your laptop with the Anaconda_ Python 3.5 distribution installed. We
+  will go over using SymPy to solve mechanics problems.
+
+.. _Anaconda: https://www.continuum.io/downloads
 
 Concepts
 ========
@@ -29,5 +30,5 @@ After this lesson you should be able to:
 Upcoming Due Dates
 ==================
 
-- Homework #1 will be due Monday, October 5
-- Five in-notebook detailed designs will be due Friday, October 9th
+- Homework #1 is due Monday, October 3
+- Five in-notebook detailed designs will be due Friday, October 7th
