@@ -9,6 +9,10 @@ General
   discussion section activities, etc. Please arrange this to fit our schedules.
 - If you want to meet with me, check my `work calendar`_ for an open weekday
   slot and send me a request via email.
+- I strictly use the Linux OS and strive to use open source tools for most of
+  my work. I prefer not to have to deal with any Microsoft Office suite file
+  types. Please avoid these and choose LibreOffice for Google equivalents so that we can easily
+  collaborate and share.
 
 .. _work calendar:  http://www.moorepants.info/work-calendar.html
 
