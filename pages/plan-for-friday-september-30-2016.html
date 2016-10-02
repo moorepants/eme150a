@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>Plan for Monday, October 5, 2015</title>
+        <title>Plan for Friday, September 30, 2016</title>
         <link rel="stylesheet" href="http://moorepants.github.io/eme150a/theme/css/main.css" />
         <link rel="stylesheet" href="http://moorepants.github.io/eme150a/theme/css/custom.css" />
 
@@ -28,15 +28,82 @@
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
-    <h1 class="entry-title">Plan for Monday, October 5, 2015</h1>
+    <h1 class="entry-title">Plan for Friday, September 30, 2016</h1>
     
-    <dl class="docutils">
-<dt>Review uncertainty</dt>
-<dd>Every number has an uncertainity associated with it and you must take this
-into account in design.</dd>
-</dl>
-<div class="section" id="id1">
-<h2>9:45</h2>
+    <div class="section" id="id1">
+<h2>9:00</h2>
+<div class="section" id="recap-of-uncertainty">
+<h3>Recap of uncertainty</h3>
+<ul class="simple">
+<li>Every number has an uncertainity associated with it and you must take this
+into account in design.</li>
+<li>Gaussian (Normal) Probability Density Functions can be used to make
+predictions if you know the mean and standard deviation.</li>
+<li>The standard normal curve is in Table A-10 and can be used to calculate
+probablities.</li>
+</ul>
+</div>
+<div class="section" id="learning-objectives">
+<h3>Learning Objectives</h3>
+<ul class="simple">
+<li>Be able to draw 3D free body diagrams of structural elements</li>
+<li>Be able to compute the 3D internal loads in structrual elements</li>
+<li>Be able to find the internal loads in a long slender beam</li>
+<li>Be able to use singularity functions to find shear and moment in beam</li>
+<li>Review of transversely loaded beams</li>
+<li>Be able to draw shear and bending moment diagrams</li>
+<li>Utilize singularity functions to efficiently draw diagrams</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id2">
+<h2>9:05</h2>
+<p>Dimensions, units, sig figs</p>
+<div class="section" id="tolerances">
+<h3>Tolerances</h3>
+<ul class="simple">
+<li>Nominal sizes are note exact sizes</li>
+<li>Tolerance limits are specified as absolutes</li>
+<li>Tight tolerances = higher costs</li>
+<li>Dimensioning should include the minimum non-redudant info</li>
+<li>Dimensions should be chosen based on part functionality</li>
+<li>Tolerance stackup</li>
+</ul>
+</div>
+<div class="section" id="units">
+<h3>Units</h3>
+<ul class="simple">
+<li>We will be using two unit system: International System of Units and U.S.
+Customary Units</li>
+<li>US, Liberia, Burma only countries that use the U.S. system.</li>
+<li>F = MLT^{-2}</li>
+</ul>
+<p>M = FT^2 / L = (pound-force) (second)^2 = lbf * s^2 / ft = slug</p>
+<ul class="simple">
+<li>lbf: pound force</li>
+<li>kip : kilo pounds force</li>
+</ul>
+<p>F = ML / T^2 = (kilogram) (meter) / (second)^2 = kg m / s^2 = N</p>
+<p>W = mg</p>
+<p>g = 9.81 m/s^2 = 32.2 ft/s^2</p>
+<ul class="simple">
+<li>Mars climate orbiter: <a class="reference external" href="https://en.wikipedia.org/wiki/Mars_Climate_Orbiter">https://en.wikipedia.org/wiki/Mars_Climate_Orbiter</a></li>
+<li>Cost about $600 million</li>
+<li>output lbf s instead of N s</li>
+</ul>
+</div>
+<div class="section" id="sig-figs">
+<h3>Sig figs</h3>
+<ul class="simple">
+<li>sig figs are inferred by shown digits (except leading): 0.700&quot;</li>
+<li>scientific notation: 706.0, 7.060x10^2, 0.7060x10^3, 7.060E2</li>
+<li>the smallest sig figs in a calc fix the number of sig figs you should report</li>
+<li>do all calcs at greatest accuracy possible and round at the end</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id3">
+<h2>9:10</h2>
 <p>Free body diagrams</p>
 <ul class="simple">
 <li>used to isolate and identify internal and external loads on a design element</li>
@@ -47,16 +114,6 @@ into account in design.</dd>
 <p>Static equilibrium:</p>
 <p>Sum F = 0
 Sum M = 0</p>
-</div>
-<div class="section" id="id2">
-<h2>9:45</h2>
-<p>Exercise</p>
-<p>Collect feedback</p>
-<p>What we will go over next time: shear and moment diagrams for beams</p>
-<p>Homework will be posted after class.</p>
-</div>
-<div class="section" id="id3">
-<h2>9:05</h2>
 <p>Free Body Diagrams</p>
 <ul class="simple">
 <li>system: any isolated part or portion of a machine or structure</li>
@@ -73,67 +130,32 @@ element</li>
 <p>F = 0 and M = 0</p>
 </div>
 <div class="section" id="id4">
-<h2>9:15</h2>
-<p>Exercise: FBD Question</p>
-</div>
-<div class="section" id="id5">
-<h2>9:20</h2>
-<p>Example FBD</p>
-</div>
-<div class="section" id="id6">
 <h2>9:35</h2>
-<p>Question: FBD diagram question</p>
-</div>
-<div class="section" id="id7">
-<h2>9:00</h2>
-<ul class="simple">
-<li>The Martian Movie</li>
-<li>Questions?</li>
-<li>Are office hours at good times?</li>
-<li>Review: Free Body Diagrams<ul>
-<li>Draw system bound in whatever way is useful for problem</li>
-<li>Equilibrium: F = 0, M = 0</li>
-<li>Basic maximum stress for axial, bending, and torsion</li>
-</ul>
-</li>
-<li>Pin joint demo</li>
-</ul>
-<p>Today's goals:</p>
-<blockquote>
-<ul class="simple">
-<li>Review of transversely loaded beams</li>
-<li>Be able to draw shear and bending moment diagrams</li>
-<li>Utilize singularity functions to efficiently draw diagrams</li>
-</ul>
-</blockquote>
-</div>
-<div class="section" id="id8">
-<h2>9:10</h2>
 <p>Shear and Bending diagrams</p>
 <ul class="simple">
 <li>Relation of q, V, M</li>
 </ul>
 </div>
-<div class="section" id="id9">
+<div class="section" id="id5">
 <h2>9:20</h2>
 <ul class="simple">
 <li>Shear and bending question</li>
 </ul>
 </div>
-<div class="section" id="id10">
+<div class="section" id="id6">
 <h2>9:25</h2>
 <ul class="simple">
 <li>Singularity functions for beams</li>
 <li>Example with singularity functions</li>
 </ul>
 </div>
-<div class="section" id="id11">
+<div class="section" id="id7">
 <h2>9:40</h2>
 <ul class="simple">
 <li>Singularity question</li>
 </ul>
 </div>
-<div class="section" id="id12">
+<div class="section" id="id8">
 <h2>9:45</h2>
 <p>Wrap up</p>
 <ul class="simple">
@@ -142,11 +164,11 @@ element</li>
 <li>Complex loadings can be more easily calculated with singularity functions</li>
 </ul>
 </div>
-<div class="section" id="id13">
+<div class="section" id="id9">
 <h2>9:50</h2>
 <p>Break</p>
 </div>
-<div class="section" id="id14">
+<div class="section" id="id10">
 <h2>10:00</h2>
 <ul class="simple">
 <li>Description of the next step in the project: 5 more detailed designs are due
@@ -169,7 +191,7 @@ doesn't give you time to flounder)</li>
 </ul>
 <p>Questions?</p>
 </div>
-<div class="section" id="id15">
+<div class="section" id="id11">
 <h2>10:10</h2>
 <ul class="simple">
 <li>Get in groups and work together on the homework or the provided examples</li>
@@ -177,60 +199,12 @@ doesn't give you time to flounder)</li>
 <li>Have notebook out and ready for grading</li>
 </ul>
 </div>
-<div class="section" id="id16">
+<div class="section" id="id12">
 <h2>10:45</h2>
 <ul class="simple">
 <li>Questions</li>
 <li>Collect feedback: feedback for the week will happen on Fridays</li>
 <li>positive, negative for the week and time spent outside of class</li>
-</ul>
-</div>
-<div class="section" id="id17">
-<h2>9:00</h2>
-<ul class="simple">
-<li>Any questions?</li>
-</ul>
-<div class="section" id="review-of-last-lesson">
-<h3>Review of last lesson</h3>
-<ul class="simple">
-<li>Tranversely loaded beams</li>
-<li>Shear and bending moment diagrams</li>
-<li>Singularity functions</li>
-</ul>
-<p>Questions?</p>
-</div>
-<div class="section" id="today-s-goals">
-<h3>Today's Goals</h3>
-<ul class="simple">
-<li>Describe the Cauchy stress tensor</li>
-<li>Compute the stress on an arbitrary plane</li>
-</ul>
-<p>Tufte bashes powerpoint.</p>
-<p><a class="reference external" href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB">http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB</a></p>
-</div>
-</div>
-<div class="section" id="id18">
-<h2>9:05</h2>
-<p>Multi-axial stress
-Cauchy Stress Tensor</p>
-</div>
-<div class="section" id="id19">
-<h2>9:15</h2>
-<p>Question on stress tensor</p>
-</div>
-<div class="section" id="id20">
-<h2>9:20</h2>
-<p>Derivation of stress on arbitrary plane</p>
-</div>
-<div class="section" id="id21">
-<h2>9:35</h2>
-<p>Example of plane stress calculation on an arbitrary plane</p>
-</div>
-<div class="section" id="id22">
-<h2>9:45</h2>
-<ul class="simple">
-<li>Wrap up</li>
-<li>Questions</li>
 </ul>
 </div>
 
