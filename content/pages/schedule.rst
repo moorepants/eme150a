@@ -28,7 +28,7 @@ One and Two. **Check the schedule periodically for changes.**
 8  F Oct 7     - Mohr's circle
                - Proj. 1: lightning explanations                    Proj. 1: Five detailed designs
 -- ----------  ------------------------------------  -------------  -----
-9  M Oct 10    - Elastic strain                                     HW #2
+9  M Oct 10    - Elastic strain                                     `HW #2`_
 10 W Oct 12    - Stress concentrations
 11 F Oct 14    - Curved beams                                       Proj. 1: Report Draft
                - Pressure vessels
@@ -89,3 +89,4 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 4: {attach}/materials/notes-04.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
+.. _HW #2: {filename}/pages/homework/hw-02.rst

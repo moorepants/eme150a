@@ -5,6 +5,7 @@
 Homework       PDF        Due Date
 ============== ========== ================
 `Homework #1`_ `PDF #1`_  October 3, 2016
+`Homework #2`_ `PDF #2`_  October 10, 2016
 ============== ========== ================
 
 .. _Homework #1: {filename}/pages/homework/hw-01.rst
