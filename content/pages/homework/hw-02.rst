@@ -1,12 +1,20 @@
 :title: Homework #02
-:subtitle: Monday, October 05, 2015
+:subtitle: Monday, October 03, 2016
 :status: hidden
 
-**DUE: Monday, October 12, 2015 before class in Box D in the MAE department.**
+**DUE: Monday, October 10, 2016 before class in Box B in the MAE department.**
 
 `PDF Version <{attach}/materials/hw-02.pdf>`_
 
 Problem 1
+=========
+
+Use singularity functions to find the shear and moment diagrams from Problem 2
+from `Homework 1`_.
+
+.. _Homework 1: {filename}/pages/homework/hw-01.rst
+
+Problem 2
 =========
 
 The solid rod shown in the figure is subject to the two loads at point B. The
@@ -14,24 +22,24 @@ rod has a radius of 0.75 in. Determine the state of stress at point A, sketch
 the stress cube, and write out the stress tensor with respect to the provided
 coordinate system.
 
-.. image:: {attach}/images/hw-02-prob-01.png
-   :class: homeworkfig
-
-Problem 2
-=========
-
-The normal stresses on threee sides of a triangular element are as indicated.
-Find the shear stresses, the principal stresses, and the principal directions.
-
 .. image:: {attach}/images/hw-02-prob-02.png
    :class: homeworkfig
 
 Problem 3
 =========
 
+The normal stresses on threee sides of a triangular element are as indicated.
+Find the shear stresses, the principal stresses, and the principal directions.
+
+.. image:: {attach}/images/hw-02-prob-03.png
+   :class: homeworkfig
+
+Problem 4
+=========
+
 The figure below shows the state of plane stress at a point. Draw the state of
 stress if the element is rotated counterclockwise :math:`40^\circ` relative to
 the given position. Use Mohr's circle to do the rotation and show the diagram.
 
-.. image:: {attach}/images/hw-02-prob-03.png
+.. image:: {attach}/images/hw-02-prob-04.png
    :class: homeworkfig
