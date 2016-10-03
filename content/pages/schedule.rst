@@ -19,7 +19,7 @@ One and Two. **Check the schedule periodically for changes.**
 4  W Sep 28    - Uncertainty                         - `Prep 4`_
                - Reliability, Tolerances, Units      - `Notes 4`_
 5  F Sep 30    - Free body diagrams                  - `Prep 5`_    Proj. 1: 30 designs
-               - Bending moment and shear diagrams
+               - Bending moment and shear diagrams   - `IPYNB 5`_
                - Intro to SymPy for mechanics
 -- ----------  ------------------------------------  -------------  -----
 6  M Oct 3     - Singularity functions               - `Prep 6`_    `HW #1`_
@@ -90,3 +90,5 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
+
+.. _IPYNB 5: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/sympy_for_mechanics.ipynb
