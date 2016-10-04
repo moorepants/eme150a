@@ -12,3 +12,6 @@
 *Can I use a programmable calculator for the exams?*
    No, I do not allow anything but a simple scientific calculator. Spend $10
    and get one for the exams.
+*Will we have to memorize equations for exams?*
+   You will have to know the basic equations from the course. Elaborate
+   equations will be provided. An equation sheet may also be allowed for exams.
