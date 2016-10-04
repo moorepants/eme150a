@@ -67,6 +67,35 @@ version) from:</p>
 <p>Anaconda is also be available in the CAE lab in Bainer.</p>
 <p>Alternatively, you can create Jupyter notebooks using the <a class="reference external" href="https://cloud.sagemath.com">SageMathCloud</a> or
 <a class="reference external" href="https://wakari.io">Wakari</a> web applications without having to install any software.</p>
+<div class="section" id="development-version-of-sympy">
+<h3>Development Version of SymPy</h3>
+<p>The next release of SymPy will include a singularity function module and a beam
+module for solving 2D beams, much like what we do in class. If you'd like to
+try this out pre-release, you'll need to install the development version of
+SymPy. It is recommended to make a new conda environment for this. If you open
+a terminal (OSX/Linux) or the Anaconda command prompt (Windows) you can enter
+these commands to set things up:</p>
+<pre class="literal-block">
+$ conda create -n sympy-dev python=3.5 anaconda
+$ source activate sympy-dev  # this is simply &quot;activate sympy-dev&quot; on Windows
+(sympy-dev)$ conda uninstall sympy
+</pre>
+<p>Now download the development version of SymPy from:</p>
+<p><a class="reference external" href="https://github.com/sympy/sympy/archive/master.zip">https://github.com/sympy/sympy/archive/master.zip</a></p>
+<p>and unzip the file in a known location, e.g.
+<tt class="docutils literal"><span class="pre">/home/jason/Downloads/sympy-master</span></tt>. Finally install with:</p>
+<pre class="literal-block">
+(sympy-dev)$ conda develop /home/jason/Downloads/sympy-master
+</pre>
+<p>Now, when you have this environment activated you will be using the development
+version. You can activate the environment from the Anaconda Navigator, Jupyter
+Notebook, or the command line. You can learn about using the two modules in the
+development documentation:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://docs.sympy.org/dev/modules/functions/special.html#module-sympy.functions.special.singularity_functions">Singularity Functions</a></li>
+<li><a class="reference external" href="http://docs.sympy.org/dev/modules/physics/continuum_mechanics/index.html">Beams</a></li>
+</ul>
+</div>
 </div>
 <div class="section" id="contact-stress-failures">
 <h2>Contact Stress Failures</h2>
