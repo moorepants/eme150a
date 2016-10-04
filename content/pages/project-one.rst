@@ -67,13 +67,21 @@ Friday Septmeber 30
    an aspect of a full bicycle rack design. **Number your designs.** The
    instructors will take a grade for your notebook in class.
 Friday October 7
-   Continue to collect design aspects, but during the previous week you should
-   choose 5 designs or design aspects that are you favorite and flesh out the
-   details of the designs in your notebook with more notes, calculations,
-   sketches, etc. During class you will present your top two design aspects to
-   your group in a "lighting explanation", i.e. 2 minutes per design with 2
-   minutes group feedback per design. We will check for the five detailed
-   designs in class. **Number your designs.**
+   Select 4 of the design aspects that you would like to detail further. For
+   each of these, generate approximately two pages of sketches, notes,
+   preliminary calculations, free body diagrams, schematics, diagrams, etc that
+   explain more detail about the design aspects. Your goal is to determine why
+   and how the designer choose this particular design and to explain the design
+   choices and reasoning in your own words. Focus on the mechanical engineering
+   aspects and be sure to talk about strength, geometry, materials, loads,
+   wear, etc. We will check for the four detailed designs in class. **Number
+   your designs.**
+
+   During class on Friday you will present your top two design aspects to your
+   group in a "lighting explanation", i.e. 2 minutes per design with 2 minutes
+   group feedback per design. These are informal and all you should need is
+   your voice and your sketchbook. I highly recommend practicing your 2 minute
+   pitch before class.
 Friday October 14
    During the previous week you should choose your top design to detail in your
    report. First drafts will be due at the beginning of class. To "turn in" the
@@ -193,7 +201,7 @@ paragraph should be plenty.
 Content Pages (three pages)
 ---------------------------
 
-- Introduction: Introduce the five designs and what you are you want us to
+- Introduction: Introduce the four designs and what you are you want us to
   learn about it.
 - Detailed explanations and descriptions: Text, figures, tables, equations, etc
   that explain the design and address some, more or all of the issues listed
