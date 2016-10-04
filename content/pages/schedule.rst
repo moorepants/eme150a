@@ -19,11 +19,11 @@ One and Two. **Check the schedule periodically for changes.**
 4  W Sep 28    - Uncertainty                         - `Prep 4`_
                - Reliability, Tolerances, Units      - `Notes 4`_
 5  F Sep 30    - Free body diagrams                  - `Prep 5`_    Proj. 1: 30 designs
-               - Bending moment and shear diagrams   - `IPYNB 5`_
-               - Intro to SymPy for mechanics
+               - Bending moment and shear diagrams   - `Notes 5`_
+               - Intro to SymPy for mechanics        - `IPYNB 5`_
 -- ----------  ------------------------------------  -------------  -----
 6  M Oct 3     - Singularity functions               - `Prep 6`_    `HW #1`_
-               - Multi-axial stress
+               - Multi-axial stress                  - `Notes 6`_
 7  W Oct 5     - Multi-axial stress                  - `Prep 7`_
                - Principal stress
 8  F Oct 7     - Mohr's circle
@@ -89,6 +89,8 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 2: {attach}/materials/notes-02.pdf
 .. _Notes 3: {attach}/materials/notes-03.pdf
 .. _Notes 4: {attach}/materials/notes-04.pdf
+.. _Notes 5: {attach}/materials/notes-05.pdf
+.. _Notes 6: {attach}/materials/notes-06.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
