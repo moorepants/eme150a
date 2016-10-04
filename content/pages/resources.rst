@@ -42,6 +42,37 @@ Wakari_ web applications without having to install any software.
 .. _Wakari: https://wakari.io
 .. _SymPy: http://sympy.org
 
+Development Version of SymPy
+----------------------------
+
+The next release of SymPy will include a singularity function module and a beam
+module for solving 2D beams, much like what we do in class. If you'd like to
+try this out pre-release, you'll need to install the development version of
+SymPy. It is recommended to make a new conda environment for this. If you open
+a terminal (OSX/Linux) or the Anaconda command prompt (Windows) you can enter
+these commands to set things up::
+
+   $ conda create -n sympy-dev python=3.5 anaconda
+   $ source activate sympy-dev  # this is simply "activate sympy-dev" on Windows
+   (sympy-dev)$ conda uninstall sympy
+
+Now download the development version of SymPy from:
+
+https://github.com/sympy/sympy/archive/master.zip
+
+and unzip the file in a known location, e.g.
+``/home/jason/Downloads/sympy-master``. Finally install with::
+
+   (sympy-dev)$ conda develop /home/jason/Downloads/sympy-master
+
+Now, when you have this environment activated you will be using the development
+version. You can activate the environment from the Anaconda Navigator, Jupyter
+Notebook, or the command line. You can learn about using the two modules in the
+development documentation:
+
+- `Singularity Functions <http://docs.sympy.org/dev/modules/functions/special.html#module-sympy.functions.special.singularity_functions>`_
+- `Beams <http://docs.sympy.org/dev/modules/physics/continuum_mechanics/index.html>`_
+
 Contact Stress Failures
 =======================
 
