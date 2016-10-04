@@ -1,12 +1,78 @@
-:title: Plan for Monday, October 5, 2015
+:title: Plan for Friday, September 30, 2016
 :status: hidden
 
+9:00
+====
 
-Review uncertainty
-   Every number has an uncertainity associated with it and you must take this
-   into account in design.
+Recap of uncertainty
+--------------------
 
-9:45
+- Every number has an uncertainity associated with it and you must take this
+  into account in design.
+- Gaussian (Normal) Probability Density Functions can be used to make
+  predictions if you know the mean and standard deviation.
+- The standard normal curve is in Table A-10 and can be used to calculate
+  probablities.
+
+Learning Objectives
+-------------------
+
+- Be able to draw 3D free body diagrams of structural elements
+- Be able to compute the 3D internal loads in structrual elements
+- Be able to find the internal loads in a long slender beam
+- Be able to use singularity functions to find shear and moment in beam
+
+- Review of transversely loaded beams
+- Be able to draw shear and bending moment diagrams
+- Utilize singularity functions to efficiently draw diagrams
+
+9:05
+====
+
+Dimensions, units, sig figs
+
+Tolerances
+----------
+
+- Nominal sizes are note exact sizes
+- Tolerance limits are specified as absolutes
+- Tight tolerances = higher costs
+- Dimensioning should include the minimum non-redudant info
+- Dimensions should be chosen based on part functionality
+- Tolerance stackup
+
+Units
+-----
+
+- We will be using two unit system: International System of Units and U.S.
+  Customary Units
+- US, Liberia, Burma only countries that use the U.S. system.
+- F = MLT^{-2}
+
+M = FT^2 / L = (pound-force) (second)^2 = lbf * s^2 / ft = slug
+
+- lbf: pound force
+- kip : kilo pounds force
+
+F = ML / T^2 = (kilogram) (meter) / (second)^2 = kg m / s^2 = N
+
+W = mg
+
+g = 9.81 m/s^2 = 32.2 ft/s^2
+
+- Mars climate orbiter: https://en.wikipedia.org/wiki/Mars_Climate_Orbiter
+- Cost about $600 million
+- output lbf s instead of N s
+
+Sig figs
+--------
+
+- sig figs are inferred by shown digits (except leading): 0.700"
+- scientific notation: 706.0, 7.060x10^2, 0.7060x10^3, 7.060E2
+- the smallest sig figs in a calc fix the number of sig figs you should report
+- do all calcs at greatest accuracy possible and round at the end
+
+9:10
 ====
 
 Free body diagrams
@@ -21,19 +87,6 @@ Static equilibrium:
 Sum F = 0
 Sum M = 0
 
-9:45
-====
-
-Exercise
-
-Collect feedback
-
-What we will go over next time: shear and moment diagrams for beams
-
-Homework will be posted after class.
-
-9:05
-====
 
 Free Body Diagrams
 
@@ -51,43 +104,8 @@ Static Equilibrium (no velocity)
 
 F = 0 and M = 0
 
-9:15
-====
-
-Exercise: FBD Question
-
-9:20
-====
-
-Example FBD
 
 9:35
-====
-
-Question: FBD diagram question
-
-9:00
-====
-
-- The Martian Movie
-- Questions?
-- Are office hours at good times?
-- Review: Free Body Diagrams
-
-  - Draw system bound in whatever way is useful for problem
-  - Equilibrium: F = 0, M = 0
-  - Basic maximum stress for axial, bending, and torsion
-
-- Pin joint demo
-
-Today's goals:
-
- - Review of transversely loaded beams
- - Be able to draw shear and bending moment diagrams
- - Utilize singularity functions to efficiently draw diagrams
-
-
-9:10
 ====
 
 Shear and Bending diagrams
@@ -175,53 +193,3 @@ Questions?
 
 
 
-9:00
-====
-
-- Any questions?
-
-Review of last lesson
----------------------
-
-- Tranversely loaded beams
-- Shear and bending moment diagrams
-- Singularity functions
-
-Questions?
-
-Today's Goals
--------------
-
-- Describe the Cauchy stress tensor
-- Compute the stress on an arbitrary plane
-
-Tufte bashes powerpoint.
-
-http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB
-
-9:05
-====
-
-Multi-axial stress
-Cauchy Stress Tensor
-
-9:15
-====
-
-Question on stress tensor
-
-9:20
-====
-
-Derivation of stress on arbitrary plane
-
-9:35
-====
-
-Example of plane stress calculation on an arbitrary plane
-
-9:45
-====
-
-- Wrap up
-- Questions
