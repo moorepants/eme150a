@@ -25,8 +25,9 @@ One and Two. **Check the schedule periodically for changes.**
 6  M Oct 3     - Singularity functions               - `Prep 6`_    `HW #1`_
                - Multi-axial stress                  - `Notes 6`_
 7  W Oct 5     - Multi-axial stress                  - `Prep 7`_
-               - Principal stress
-8  F Oct 7     - Mohr's circle
+                                                     - `Notes 7`_
+8  F Oct 7     - Principal stress
+               - Mohr's circle
                - Proj. 1: lightning explanations                    Proj. 1: Five detailed designs
 -- ----------  ------------------------------------  -------------  -----
 9  M Oct 10    - Elastic strain                                     `HW #2`_
@@ -91,6 +92,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 4: {attach}/materials/notes-04.pdf
 .. _Notes 5: {attach}/materials/notes-05.pdf
 .. _Notes 6: {attach}/materials/notes-06.pdf
+.. _Notes 7: {attach}/materials/notes-07.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
