@@ -1,11 +1,12 @@
-:title: Preparation for Friday, October 9, 2015
+:title: Preparation for Wednesday, October 5, 2016
 :status: hidden
 
 Preparation
 ===========
 
 - Read section 3-4, 3-5, 3-9, 3-10, 3-11, 3-12
-- Check on the Wikipedia page on `Cauchy's Stress Tensor <https://en.wikipedia.org/wiki/Cauchy_stress_tensor#Principal_stresses_and_stress_invariants>`_
+- Check on the Wikipedia page on `Cauchy's Stress Tensor
+  <https://en.wikipedia.org/wiki/Cauchy_stress_tensor#Principal_stresses_and_stress_invariants>`_
 
 Concepts
 ========
