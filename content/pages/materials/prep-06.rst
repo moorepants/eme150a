@@ -19,5 +19,5 @@ After this lesson you should be able to:
 Upcoming Due Dates
 ==================
 
-- Five in-notebook detailed designs will be due Friday, October 7th
+- Four in-notebook detailed designs will be due Friday, October 7th
 - Homework #2 will be due October 10th

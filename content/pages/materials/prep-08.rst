@@ -8,7 +8,7 @@ Preparation
 - For more info see the Wikipedia pages on `Cauchy's Stress Tensor
   <https://en.wikipedia.org/wiki/Cauchy_stress_tensor#Principal_stresses_and_stress_invariants>`_
   and `Mohr's Circle <https://en.wikipedia.org/wiki/Mohr's_circle>`_.
-- Make copies of two of your five designs to use during your `lightning talks
+- Make copies of two of your four designs to use during your `lightning talks
   <https://en.wikipedia.org/wiki/Lightning_talk>`_.
 - Have your notebook ready for grading in class, i.e. clearly label the 4
   designs and make it as easy as possible for us to find them. For example, you

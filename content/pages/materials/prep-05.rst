@@ -31,4 +31,4 @@ Upcoming Due Dates
 ==================
 
 - Homework #1 is due Monday, October 3
-- Five in-notebook detailed designs will be due Friday, October 7th
+- Four in-notebook detailed designs will be due Friday, October 7th
