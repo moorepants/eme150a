@@ -37,7 +37,7 @@ One and Two. **Check the schedule periodically for changes.**
                - Pressure vessels
                - Proj 1: Intro to peer review
 -- ----------  ------------------------------------  -------------  -----
-12 M Oct 17    - Contact stresses                                   HW #3, Proj. 1: Peer review
+12 M Oct 17    - Contact stresses                                   `HW #3`_, Proj. 1: Peer review
 13 W Oct 19    - Deformation and stiffness
 14 F Oct 21    - Deflections of beams                               Proj. 1: Report
 -- ----------  ------------------------------------  -------------  -----
@@ -99,5 +99,6 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
+.. _HW #3: {filename}/pages/homework/hw-03.rst
 
 .. _IPYNB 5: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/sympy_for_mechanics.ipynb
