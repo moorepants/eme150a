@@ -26,13 +26,14 @@ One and Two. **Check the schedule periodically for changes.**
                - Multi-axial stress                  - `Notes 6`_
 7  W Oct 5     - Multi-axial stress                  - `Prep 7`_
                                                      - `Notes 7`_
-8  F Oct 7     - Principal stress                    - `Prep 8`_
-               - Mohr's circle
+8  F Oct 7     - Multi-axial stress                  - `Prep 8`_
                - Proj. 1: lightning explanations                    Proj. 1: Four detailed designs
 -- ----------  ------------------------------------  -------------  -----
-9  M Oct 10    - Elastic strain                                     `HW #2`_
-10 W Oct 12    - Stress concentrations
-11 F Oct 14    - Curved beams                                       Proj. 1: Report Draft
+9  M Oct 10    - Principal stress                    -`Prep 9`_     `HW #2`_
+               - Mohr's circle
+10 W Oct 12    - Elastic strain
+11 F Oct 14    - Stress concentrations                              Proj. 1: Report Draft
+               - Curved beams
                - Pressure vessels
                - Proj 1: Intro to peer review
 -- ----------  ------------------------------------  -------------  -----
@@ -84,6 +85,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 6: {filename}/pages/materials/prep-06.rst
 .. _Prep 7: {filename}/pages/materials/prep-07.rst
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
+.. _Prep 9: {filename}/pages/materials/prep-09.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
