@@ -29,7 +29,7 @@ One and Two. **Check the schedule periodically for changes.**
 8  F Oct 7     - Multi-axial stress                  - `Prep 8`_
                - Proj. 1: lightning explanations                    Proj. 1: Four detailed designs
 -- ----------  ------------------------------------  -------------  -----
-9  M Oct 10    - Principal stress                    -`Prep 9`_     `HW #2`_
+9  M Oct 10    - Principal stress                    - `Prep 9`_    `HW #2`_
                - Mohr's circle
 10 W Oct 12    - Elastic strain
 11 F Oct 14    - Stress concentrations                              Proj. 1: Report Draft

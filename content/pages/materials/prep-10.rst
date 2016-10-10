@@ -41,6 +41,7 @@ Upcoming Due Dates
   and your team members before class on Friday the 16th.
 - `Homework #3 <{filename}/pages/homework/hw-03.rst>`_ is due Monday,
   October 19th.
+
 Preparation
 ===========
 
