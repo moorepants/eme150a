@@ -5,7 +5,7 @@ Introduction
 ============
 
 The first part of the project for the course will introduce you to `reverse
-engineering`_.  It is important for an engineer to develop the ability to
+engineering`_. It is important for an engineer to develop the ability to
 observe existing products or systems and determine how they function and why
 they were designed they way they were. Most, if not all, new ideas are
 generated after observing and experiencing existing engineering solutions [1]_.
@@ -37,7 +37,7 @@ design aspects that you research. You should purchase a notebook with blank
 line-less pages so that you can take notes and generate sketches of the
 products and systems you observe and discover. Carry the notebook with you
 regularly and using an engineer's "eye" keep a log in the notebook concerning
-your observations.  You'll ultimately need to detail the research you collect
+your observations. You'll ultimately need to detail the research you collect
 in a formal written report. The report draft will be peer reviewed by your
 teammates and then graded by the instructors. Your design notebook must be
 submitted with the final written report.
@@ -85,7 +85,7 @@ Friday October 7
 Friday October 14
    During the previous week you should choose your top design to detail in your
    report. First drafts will be due at the beginning of class. To "turn in" the
-   draft you need to share it via Google Drive with both instructors and your
+   draft you need to share your Google Document with both instructors and your
    group members. The draft must be shared before the beginning of class on
    Friday. We will give an introduction to peer review process during class and
    do peer review in class.
@@ -163,8 +163,9 @@ limit you.**
 Report
 ======
 
-The goal of the report is to explain the design aspects you studied by giving
-the reader an idea of how it functions and why it was designed the way it was.
+The goal of the report is to explain one of the designs or design aspects you
+studied by giving the reader a technically detailed idea of how it functions
+and why it was designed the way it was.
 
 The main content items we are looking for are:
 
@@ -173,6 +174,8 @@ The main content items we are looking for are:
 - You should identify the "need" that the design was meant to address.
 - You should comment on whether the need is or isn't addressed well, in your
   engineering opinion and explain why you think so.
+- You should detail the engineering specifications that the product claims to
+  meet and whether or not these are likely true.
 - What are the design's weaknesses and strengths, and why?
 - That you address one or more of the "things to address" above. If you choose
   one it should be thoroughly detailed and less so if you choose more.
@@ -198,20 +201,22 @@ This page should include title, author, student id, date, and course number and
 an abstract. The abstract should be a very short summary of the project. One
 paragraph should be plenty.
 
-Content Pages (three pages)
----------------------------
+Content Pages
+-------------
 
-- Introduction: Introduce the four designs and what you are you want us to
-  learn about it.
+The content should be no more than **three pages** long.
+
+- Introduction: Introduce the design and what you are you want us to learn
+  about it.
 - Detailed explanations and descriptions: Text, figures, tables, equations, etc
-  that explain the design and address some, more or all of the issues listed
+  that explain the designs and address some, more or all of the issues listed
   above.
 - Conclusion: Summary of what you learned and maybe things you'd still like to
   learn about the designs.
 
-We strongly encourage you to use visual communication liberally in the report.
-Reports should contain a significant amount of visual information such as
-sketches, drawings, word maps, etc.
+You should use visual communication liberally in the report. Reports should
+contain a significant amount of visual information such as sketches, drawings,
+word maps, etc.
 
 Reference Page
 --------------
@@ -239,8 +244,10 @@ Formatting
   <https://chromebookandroidnews.wordpress.com/2014/09/08/how-to-caption-and-wrap-text-around-images-or-tables-in-google-docs/>`_
   for a method of adding captions with Google Docs.
 - Use whatever citation style you prefer.
-- Photographed or scanned sketches are not acceptable unless they are extremely
-  clear, neat, and legible.
+- Photographed or scanned sketches are not acceptable unless they are
+  *extremely* clear, neat, and legible.
+- You may include copyrighted materials that depict the products in this
+  internal report but your sources must be cited.
 
 Peer Review
 ===========
@@ -277,11 +284,11 @@ Tips:
 Grading
 =======
 
-The grade for Project Part 1 will be broken down as follows:
+The grade for Part 1 of the Project will be broken down as follows:
 
 ==================  ===
 30 Designs          10%
-5 Detailed Designs  10%
+4 Detailed Designs  10%
 Report Draft        10%
 Draft Peer Review   10%
 Final Report        60%
