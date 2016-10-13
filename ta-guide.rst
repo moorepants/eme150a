@@ -86,6 +86,9 @@ CATME
 We will use CATME_ to select project teams and collect peer evaluations. Please
 request a CATME account well before class starts.
 
+To get the percent busy of all students in class, choose data and then "choose
+params" to see summary.
+
 .. _CATME: http://info.catme.org/
 
 Homework
