@@ -4,44 +4,25 @@
 Preparation
 ===========
 
-- Bring your laptop to class with Solidworks installed.
+- Read 3-13 on stress concentrations.
+- Have a look at the Wikipedia article on stress concentrations:
+  https://en.wikipedia.org/wiki/Stress_concentration
 - Read section section 3-18 on curved beams in the book.
-- Read section section 3-14 on stress in pressure vessels in the book.
 
 Concepts
 ========
 
 After this lesson you should be able to:
 
+- Find the change in stresses due to irregular features on an element.
 - Find the stresses in a curved beam using curve beam theory.
-- Compute stresses in a pressure vessel.
 
 Upcoming Due Dates
 ==================
 
-- The Solidworks FEA tutorial (see the Smartsite assignment) result is due
-  electronically before class.
-- The Project 1 Google Doc report draft should be shared with the instructors
-  and your team members before class.
+- The Project 1 Google Doc report draft should be shared with the **instructors
+  and your team members** before class.
+- Your peer review of your teammate's reports is due Monday the 17th by
+  midnight.
 - `Homework #3 <{filename}/pages/homework/hw-03.rst>`_ is due Monday,
-  October 19th.
-
-Preparation
-===========
-
-- Read section 3-19 in the book.
-
-Concepts
-========
-
-After this lesson you should be able to:
-
-- Understand the stress distributions in spherical and cylindrical contact.
-- Compute maximum stresses in contacted surfaces.
-
-Upcoming Due Dates
-==================
-
-- The peer review for project 1 is due before class on Wednesday, October 21st.
-- The final draft of your report is due on Friday, October 23rd.
-- Homework #4 is due Monday, October 26th.
+  October 17th.

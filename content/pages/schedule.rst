@@ -32,12 +32,12 @@ One and Two. **Check the schedule periodically for changes.**
 9  M Oct 10    - Principal stress                    - `Prep 9`_    `HW #2`_
                - Mohr's circle                       - `IPYNB 9`_
 10 W Oct 12    - Elastic strain                      - `Prep 10`_
-               - Stress concentrations
-11 F Oct 14    - Curved beams                                       Proj. 1: Report Draft
-               - Pressure vessels
+11 F Oct 14    - Stress concentrations               - `Prep 11`_   Proj. 1: Report Draft
+               - Curved beams
                - Proj 1: Intro to peer review
 -- ----------  ------------------------------------  -------------  -----
-12 M Oct 17    - Contact stresses                                   `HW #3`_, Proj. 1: Peer review
+12 M Oct 17    - Pressure vessels                                   `HW #3`_, Proj. 1: Peer review
+               - Contact stresses
 13 W Oct 19    - Deformation and stiffness
 14 F Oct 21    - Deflections of beams                               Proj. 1: Report
 -- ----------  ------------------------------------  -------------  -----
@@ -87,6 +87,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
+.. _Prep 11: {filename}/pages/materials/prep-11.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
