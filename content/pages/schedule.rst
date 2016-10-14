@@ -27,17 +27,19 @@ One and Two. **Check the schedule periodically for changes.**
 7  W Oct 5     - Multi-axial stress                  - `Prep 7`_
                                                      - `Notes 7`_
 8  F Oct 7     - Multi-axial stress                  - `Prep 8`_
-               - Proj. 1: lightning explanations                    Proj. 1: Four detailed designs
+               - Proj. 1: lightning explanations     - `Notes 8`_   Proj. 1: Four detailed designs
 -- ----------  ------------------------------------  -------------  -----
 9  M Oct 10    - Principal stress                    - `Prep 9`_    `HW #2`_
-               - Mohr's circle                       - `IPYNB 9`_
+               - Mohr's circle                       - `Notes 9`_
+                                                     - `IPYNB 9`_
 10 W Oct 12    - Elastic strain                      - `Prep 10`_
+                                                     - `Notes 10`_
 11 F Oct 14    - Stress concentrations               - `Prep 11`_   Proj. 1: Report Draft
+               - Pressure vessels                    - `Notes 11`_
                - Curved beams
                - Proj 1: Intro to peer review
 -- ----------  ------------------------------------  -------------  -----
-12 M Oct 17    - Pressure vessels                                   `HW #3`_, Proj. 1: Peer review
-               - Contact stresses
+12 M Oct 17    - Contact stresses                    - `Prep 12`_   `HW #3`_, Proj. 1: Peer review
 13 W Oct 19    - Deformation and stiffness
 14 F Oct 21    - Deflections of beams                               Proj. 1: Report
 -- ----------  ------------------------------------  -------------  -----
@@ -88,6 +90,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
 .. _Prep 11: {filename}/pages/materials/prep-11.rst
+.. _Prep 12: {filename}/pages/materials/prep-12.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
@@ -98,6 +101,10 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 5: {attach}/materials/notes-05.pdf
 .. _Notes 6: {attach}/materials/notes-06.pdf
 .. _Notes 7: {attach}/materials/notes-07.pdf
+.. _Notes 8: {attach}/materials/notes-08.pdf
+.. _Notes 9: {attach}/materials/notes-09.pdf
+.. _Notes 10: {attach}/materials/notes-10.pdf
+.. _Notes 11: {attach}/materials/notes-11.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
