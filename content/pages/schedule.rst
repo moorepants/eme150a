@@ -43,7 +43,7 @@ One and Two. **Check the schedule periodically for changes.**
 13 W Oct 19    - Deformation and stiffness
 14 F Oct 21    - Deflections of beams                               Proj. 1: Report
 -- ----------  ------------------------------------  -------------  -----
-15 M Oct 24    - Deformation and stiffness                          HW #4
+15 M Oct 24    - Deformation and stiffness                          `HW #4`_
 16 W Oct 26    - Catch up and review
 NA F Oct 28    **Midterm**
 -- ----------  ------------------------------------  -------------  -----
@@ -109,6 +109,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
 .. _HW #3: {filename}/pages/homework/hw-03.rst
+.. _HW #4: {filename}/pages/homework/hw-04.rst
 
 .. _IPYNB 5: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/sympy_for_mechanics.ipynb
 .. _IPYNB 9: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/principal_stresses.ipynb
