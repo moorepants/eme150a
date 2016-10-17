@@ -1,4 +1,4 @@
-:title: Preparation for Friday, October 23, 2015
+:title: Preparation for Wednesday, October 19, 2016
 :status: hidden
 
 Preparation
@@ -18,5 +18,6 @@ After this lesson you should be able to:
 Upcoming Due Dates
 ==================
 
-- Homework #4 is due Monday, October 26th.
-- The midterm is on Friday, October 30th.
+- The final report for part 1 of the project is Friday, October 21.
+- Homework #4 is due Monday, October 24th.
+- The midterm is on Friday, October 28th.
