@@ -36,3 +36,13 @@ points C and D. Use :math:`l = 1.2 \textrm{m}`, :math:`E = 180 \textrm{GPa}`,
 
 .. image:: {attach}/images/hw-04-prob-03.png
    :class: homeworkfig
+
+Problem 4
+=========
+
+Beverage cans are made from tin plated steel in some parts of the world instead
+of an aluminum alloy. Design a can that is a typical can size using 1018
+hot-rolled steel (Table A-20) such that it meets a specified design factor of 3
+against yielding if the maximum pressure that can be developed in the can by
+the undissolved CO2 is 350 KPa. How much thicker or thinner must the can walls
+be compared to a typical aluminum alloy can?
