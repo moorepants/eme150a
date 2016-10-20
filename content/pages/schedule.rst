@@ -42,7 +42,7 @@ One and Two. **Check the schedule periodically for changes.**
 12 M Oct 17    - Contact stresses                    - `Prep 12`_   `HW #3`_, Proj. 1: Peer review
                                                      - `Notes 12`_
 13 W Oct 19    - Deformation and stiffness           - `Prep 13`_
-14 F Oct 21    - Deflections of beams                               Proj. 1: Report
+14 F Oct 21    - Deflections of beams                - `Prep 14`_   Proj. 1: Report
 -- ----------  ------------------------------------  -------------  -----
 15 M Oct 24    - Deformation and stiffness                          `HW #4`_
 16 W Oct 26    - Catch up and review
@@ -93,6 +93,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 11: {filename}/pages/materials/prep-11.rst
 .. _Prep 12: {filename}/pages/materials/prep-12.rst
 .. _Prep 13: {filename}/pages/materials/prep-13.rst
+.. _Prep 14: {filename}/pages/materials/prep-14.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
