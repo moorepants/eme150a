@@ -42,7 +42,7 @@ One and Two. **Check the schedule periodically for changes.**
 12 M Oct 17    - Contact stresses                    - `Prep 12`_      `HW #3`_, Proj. 1: Peer review
                                                      - `Notes 12`_
 13 W Oct 19    - Multi-axial stress                  - `Prep 13`_
-               - Contact Stresses                    - `Notes 13`_
+               - Contact Stresses
 14 F Oct 21    - Deformation and stiffness           - `Prep 14`_      Proj. 1: Report
                - Deflections of beams                - `Notes 14`_
                                                      - `IPYNB 14`_
@@ -112,6 +112,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 10: {attach}/materials/notes-10.pdf
 .. _Notes 11: {attach}/materials/notes-11.pdf
 .. _Notes 12: {attach}/materials/notes-12.pdf
+.. _Notes 14: {attach}/materials/notes-14.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
