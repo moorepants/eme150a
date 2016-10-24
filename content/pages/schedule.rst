@@ -47,13 +47,14 @@ One and Two. **Check the schedule periodically for changes.**
                - Deflections of beams                - `Notes 14`_
                                                      - `IPYNB 14`_
 -- ----------  ------------------------------------  ----------------  -----
-15 M Oct 24    - Castigliano's Theorem                                 `HW #4`_
-16 W Oct 26    - Catch up and review
+15 M Oct 24    - Castigliano's Theorem               - `Prep 15`_      `HW #4`_
+16 W Oct 26    - Catch up and review                 - `Prep 16`_
 NA F Oct 28    **Midterm**
 -- ----------  ------------------------------------  ----------------  -----
 17 M Oct 31    - Project 2: Intro and ideation
 18 W Nov 2     - Statically indeterminate problems
                - Buckling and compression
+NA R Nov 3     - Unitrans Visit
 19 F Nov 4     - Prototyping                                           Proj. 2: Plan Memo
                - Midterm results review
 -- ----------  ------------------------------------  ----------------  -----
@@ -97,6 +98,8 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 12: {filename}/pages/materials/prep-12.rst
 .. _Prep 13: {filename}/pages/materials/prep-13.rst
 .. _Prep 14: {filename}/pages/materials/prep-14.rst
+.. _Prep 15: {filename}/pages/materials/prep-15.rst
+.. _Prep 16: {filename}/pages/materials/prep-16.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
@@ -112,6 +115,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 10: {attach}/materials/notes-10.pdf
 .. _Notes 11: {attach}/materials/notes-11.pdf
 .. _Notes 12: {attach}/materials/notes-12.pdf
+.. _Notes 13: {attach}/materials/notes-13.pdf
 .. _Notes 14: {attach}/materials/notes-14.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
