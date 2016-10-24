@@ -93,8 +93,8 @@ Bainer 2095. If you have a time conflict and need to meet outside of these
 times, please find an available time on Jason's schedule_ and email him with
 the request.
 
-Destiny will hold office hours on Wednesdays from 1-2PM and Fridays from 12-1PM
-in TB 207 Room 110.
+Destiny will hold office hours on Wednesdays from 1:30 - 2:30 PM in TB207 Rm 112, and Fridays from 12-1PM
+in TB207 Rm 110.
 
 .. _schedule: http://www.moorepants.info/work-calendar.html
 
