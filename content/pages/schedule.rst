@@ -42,12 +42,13 @@ One and Two. **Check the schedule periodically for changes.**
 12 M Oct 17    - Contact stresses                    - `Prep 12`_      `HW #3`_, Proj. 1: Peer review
                                                      - `Notes 12`_
 13 W Oct 19    - Multi-axial stress                  - `Prep 13`_
-               - Contact Stresses
+               - Contact Stresses                    - `Notes 13`_
 14 F Oct 21    - Deformation and stiffness           - `Prep 14`_      Proj. 1: Report
                - Deflections of beams                - `Notes 14`_
                                                      - `IPYNB 14`_
 -- ----------  ------------------------------------  ----------------  -----
 15 M Oct 24    - Castigliano's Theorem               - `Prep 15`_      `HW #4`_
+                                                     - `Notes 15`_
 16 W Oct 26    - Catch up and review                 - `Prep 16`_
 NA F Oct 28    **Midterm**
 -- ----------  ------------------------------------  ----------------  -----
@@ -117,6 +118,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 12: {attach}/materials/notes-12.pdf
 .. _Notes 13: {attach}/materials/notes-13.pdf
 .. _Notes 14: {attach}/materials/notes-14.pdf
+.. _Notes 15: {attach}/materials/notes-15.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
