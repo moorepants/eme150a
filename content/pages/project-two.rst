@@ -1,4 +1,4 @@
-:title: Project Two: Unitrans Bicycle Rack Design
+:title: Project Part Two: Unitrans Bicycle Rack Design
 :status: hidden
 
 Introduction
@@ -18,20 +18,22 @@ operate, easy to maintain, and be cost effective.
    discourage bringing bicycles on public transit because there simply isn't
    room. Davis is likely in this camp.
 
-Educational Objectives
-======================
+Learning Objectives
+===================
 
-- To learn to effectively use engineering analyses to guide design decisions in
-  an open ended problem.
-- To develop team work and collaboration skills around a technical mission.
-- To be able to describe your design using verbal, written, and graphical
-  communication means.
+- Students will be able to design a complex mechanical system.
+- Students will demonstrate the effective use of engineering analyses to guide
+  design decisions in an open-ended problem.
+- Students will develop team work and collaboration skills to support a
+  technical mission.
+- Students will be able to describe their design using verbal, written, and
+  graphical communication means.
 
 Project Goals
 =============
 
 - To collectively develop an open ended mechanical design that meets
-  static/dynamic failure criteria while meeting the stakeholder's needs.
+  static/dynamic failure criteria while meeting the client's needs.
 - To perform detailed static and dynamic failure analyses for your design to
   prove that your design meets all requirements and is safe for consumer use.
   You will need to report an overall factor of safety that should be
@@ -42,8 +44,8 @@ Project Goals
   and keep you materials well organized.
 - Include any pertinent information that you find during your research.
 
-Design Contraints and Feature Requirements
-==========================================
+Design Needs
+============
 
 - The bicycle rack must be able to carry at least two normal bicycles (wheel
   size 20" to 29", road and mountain width tire tread). The maximum weight of a
@@ -73,7 +75,7 @@ Design Contraints and Feature Requirements
 Obtaining Information
 =====================
 
-Matt and Jason will act as the project supervisors who are in direct contact
+Destiny and Jason will act as the project supervisors who are in direct contact
 with the stakeholder (Unitrans). To obtain information from the stakeholder or
 to find out information that isn't discoverable in your research you will ask
 your questions through Piazza. Your questions need to be professional, clearly
@@ -93,39 +95,49 @@ We will use the class period to introduce the project and begin the ideation
 process. After the introduction, you will join your team members to start
 developing your design ideas. We will follow this process:
 
-Question Generation (5 minutes)
-   Individually, on sticky notes, write down as many questions as you can think
-   of that will need to be answered to complete your design. Stick these notes
+Need Generation (5 minutes)
+   Individually, on sticky notes, write down as many needs as you can think of
+   that will need to be answered to complete your design. Stick these notes
    onto the wall by your team so every one can see them.
-Question review (5 minutes)
-   Read your teammates questions quickly to get an idea of what everyone is
-   thinking about.
-Question Grouping (5 minutes)
-   Pick 3-5 broad topic areas and group the questions into these topics.
-   Eliminate duplicates by combining them into one question.
+Need review (5 minutes)
+   Read your teammates needs quickly to get an idea of what everyone has come
+   up with.
+Need Grouping (5 minutes)
+   Come up with 3 to 5 broad topic areas and group the needs into these
+   topics. Eliminate duplicates by combining them into one need.
 Design Ideation Sketching (5 minutes)
-   At this point you will each go to the sheets of white paper on the walls and
-   sketch a design independently. Leave room for two sketches per person.
+   At this point you will each go to the whiteboards or use butcher paper on
+   the tables and sketch a design independently. Leave room for two big
+   sketches per person.
 Design Sketching Modifications (5 minutes)
    Next rotate positions so that you are in front of a teammate's design. Below
    the teammate's design, add, subtract, or modify their design to create a new
    design.
 Design Review and Discussion (10 minutes)
-    Now discuss the merits of each design idea. Add new questions and refine
-    the previous ones that will need to be determined to make decisions about
-    each design's merits.
+   Now discuss the merits of each design idea. Add new needs and refine the
+   previous ones that will need to be determined to make decisions about each
+   design's merits.
 
-TBA
----
+Thursday, November 3
+--------------------
 
 At least one team member will visit the Unitrans maintenance facility on campus
 to meet with Andrew Wyly, the Maintenance Manager. You will have the
-opportunity to ask many of the questions developed during the ideation session
-and inspect the bus for technical details. Be sure to bring a camera and a
-measuring device. This may be your only chance to inspect the actual bus in
-detail.
+opportunity to ask many questions to discover new needs and inspect the bus for
+technical details. Be sure to bring a camera and a measuring device. This may
+be your only chance to inspect the actual bus in detail.
 
 Location: http://campusmap.ucdavis.edu/?b=173
+
+Friday, November 4
+------------------
+
+This activity is intended to introduce students to lightweight prototyping.
+Prototyping can be a very useful tool for visualizing a design and even testing
+it for structural integrity and function. You will be responsible for bringing
+to detailed sketches of the top two design ideas you have to class. During
+class you will build simply prototypes of the design ideas and then evaluate
+them in terms of structural integrity and function.
 
 Friday, December 2
 ------------------
@@ -138,18 +150,18 @@ board, projector, handouts, etc. Your goal is communicate your technical
 information as clearly and succinctly as possible. Think carefully about the
 mediums you use to do this.
 
-Reports
-=======
+Memos and Reports
+=================
 
-You will create four memos that culminate in a final report. The reports will
-all be turned in as PDFs to Smartsite on the respective due date. Each memo
-should stand on its own and you will be able to use the content as a base to
-develop the final report.
+You will create four memos and a final report. The reports will all be turned
+in as PDFs to Canvas on the respective due date by 5pm. Each memo should stand
+on its own and you will be able to use the content as a base to develop the
+final report.
 
 - Each report or memo must be submitted as a single PDF document.
 - Your group is free to use any software you prefer to prepare the documents.
-- The memos and report should be treated as a professional documents and should
-  be self contained
+- The memos and report should be treated as professional documents and should
+  be self contained.
 - The audience you should write for is a technically competent reader, e.g.
   another engineering colleague or engineering management.
 
@@ -159,24 +171,25 @@ Memos
 The memos are at most one page. The formatting is not strict, but they should
 be professional. Use these to report the required progress and to act as drafts
 for your final report sections. The more you put into these this less work
-you'll need when preparing the final report.
+you'll need when preparing the final report. The primary purpose of these memos
+is to communicate your progress and to get feedback from the instructors.
 
 Plan and Ideation (Friday, November 4)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This report should show your team's plan of execution with action items,
+This memo should show your team's plan of execution with action items,
 milestones with dates, and projected team task assignments. Furthermore, you
-should report on the current state of the design, what questions you've found
-answers for and the plans for utilizing that information, and the top design
-concepts you will pursue.
+should report on the current state of the design, what needs you've come up
+with and the plans for utilizing that information, and the top design concepts
+you will pursue.
 
-Initial Design (Wednesday, November 9)
+Initial Design (Thursday, November 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This report should detail the primary concept that your team has selected to
+This memo should detail the primary concept that your team has selected to
 pursue. You should at least have back-of-the-envelope calculations, drawings,
 and other items in place that gives confidence that your design will likely
-meet the requirements and hold up to more scrutinous analyses.
+meet the needs and specifications and hold up to more scrutinous analyses.
 
 - Ideally pick one main one to start with that you can iterate, but you can
   mention multiple design ideas that you haven't chosen yet.
@@ -194,8 +207,8 @@ The static failure memo will need to show that your design will have a
 sufficient safety factor for static loads.
 
 - Identify the elements with the highest stresses due to static loadings.
-- Requirement: 250 lb standing on end of rack, but you need to locate other
-  unique failure points in your design too.
+- Requirement: 250 lb person standing on end of rack, but you need to locate
+  other unique failure points in your design too.
 - Show individual factor of safety for critical points (hand calcs required,
   FEA can be used to support your conclusions)
 - Report the overall factor of safety for the design.
@@ -219,7 +232,7 @@ Final Report
 ------------
 
 The final report in PDF format will be due via Smartsite by midnight Sunday,
-December 6th.
+December 4th.
 
 General Format
 ~~~~~~~~~~~~~~
@@ -250,8 +263,8 @@ figures, and list of tables showing a title and page number for all items.
 Content Sections
 ~~~~~~~~~~~~~~~~
 
-The main content of the report should not exceed 6 pages. The content should
-cover, but not be limited to, these topics:
+The main content of the report **should not exceed 6 pages**. The content
+should cover, but not be limited to, these topics:
 
 Introduction
    Provide the reader with the premise and motivation along with describing
@@ -259,9 +272,9 @@ Introduction
 Design Description
    This should provide a description of the design need, concept, operation,
    weaknesses/strengths, etc.
-Analysis
+Analysis and Justification
    This section should explain the results of the analyses you used to ensure
-   your design meets the constraints and requirements.
+   your design meets the needs, constraints, and requirements.
 Manufacturing
    This section should provide the estimates and explanations of
    manufacturability including costs.
@@ -349,3 +362,4 @@ Sample grading items
 - team work
 - utilization of tools and theory from your courses
 - deflection analysis
+- will it actually work and is this justified with good engineering analysis

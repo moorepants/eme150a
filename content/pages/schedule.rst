@@ -56,9 +56,9 @@ NA F Oct 28    **Midterm**
 17 M Oct 31    - Project 2: Intro and ideation
 18 W Nov 2     - Statically indeterminate problems
                - Buckling and compression
+               - Midterm results review
 NA R Nov 3     - Unitrans Visit
 19 F Nov 4     - Prototyping                                           Proj. 2: Plan Memo
-               - Midterm results review
 -- ----------  ------------------------------------  ----------------  -----
 20 M Nov 7     - Static failure theory: Ductile                        HW #5
 21 W Nov 9     - Static failure theory: Brittle
@@ -76,7 +76,8 @@ NA F Nov 11    Veteran's Day Holiday
 NA F Nov 25    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
 27 M Nov 28    Cumulative loading                                      HW #8, Proj 2.: Dynamic Failure Memo
-28 W Nov 30    Exam review
+28 W Nov 30    - Catch up
+               - Exam review
 29 F Dec 2     - Final Exam Review
                - Course evaluations
                - Project 2: Lightning talks
