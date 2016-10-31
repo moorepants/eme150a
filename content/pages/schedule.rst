@@ -54,7 +54,7 @@ One and Two. **Check the schedule periodically for changes.**
 NA F Oct 28    **Midterm**
 -- ----------  ------------------------------------  ----------------  -----
 17 M Oct 31    - Project 2: Intro and ideation
-18 W Nov 2     - Statically indeterminate problems
+18 W Nov 2     - Statically indeterminate problems   - `Prep 18`_
                - Buckling and compression
                - Midterm results review
 NA R Nov 3     - Unitrans Visit
@@ -104,6 +104,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 14: {filename}/pages/materials/prep-14.rst
 .. _Prep 15: {filename}/pages/materials/prep-15.rst
 .. _Prep 16: {filename}/pages/materials/prep-16.rst
+.. _Prep 18: {filename}/pages/materials/prep-18.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
