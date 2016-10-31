@@ -1,4 +1,4 @@
-:title: Preparation for Monday, October 23, 2016
+:title: Preparation for Wednesday, November 2, 2016
 :status: hidden
 
 Preparation
