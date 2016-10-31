@@ -60,7 +60,7 @@ NA F Oct 28    **Midterm**
 NA R Nov 3     - Unitrans Visit
 19 F Nov 4     - Prototyping                                           Proj. 2: Plan Memo
 -- ----------  ------------------------------------  ----------------  -----
-20 M Nov 7     - Static failure theory: Ductile                        HW #5
+20 M Nov 7     - Static failure theory: Ductile                        `HW #5`_
 21 W Nov 9     - Static failure theory: Brittle
 NA R Nov 10                                                            Proj. 2: Initial Design Memo
 NA F Nov 11    Veteran's Day Holiday
@@ -70,6 +70,7 @@ NA F Nov 11    Veteran's Day Holiday
 23 W Nov 16    - Crack growth
                - Marin parameters
 24 F Nov 18    - Stress concentrations                                 Proj. 2.: Static Failure Memo
+               - Research topics in Mech. Design
 -- ----------  ------------------------------------  ----------------  -----
 25 M Nov 21    Fluctuating stress                                      HW #7
 26 W Nov 23    Compound and cumulative loading
@@ -127,6 +128,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _HW #2: {filename}/pages/homework/hw-02.rst
 .. _HW #3: {filename}/pages/homework/hw-03.rst
 .. _HW #4: {filename}/pages/homework/hw-04.rst
+.. _HW #5: {filename}/pages/homework/hw-05.rst
 
 .. _IPYNB 5: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/sympy_for_mechanics.ipynb
 .. _IPYNB 9: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/principal_stresses.ipynb

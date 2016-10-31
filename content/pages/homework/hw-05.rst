@@ -1,8 +1,8 @@
 :title: Homework #05
-:subtitle: Monday, November 02, 2015
+:subtitle: Monday, October 31, 2016
 :status: hidden
 
-**DUE: Monday, November 09, 2015 before class in Box D in the MAE department.**
+**DUE: Monday, November 07, 2016 before class in Box B in the MAE department.**
 
 `PDF Version <{attach}/materials/hw-05.pdf>`_
 
