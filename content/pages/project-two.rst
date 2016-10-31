@@ -179,9 +179,8 @@ Plan and Ideation (Friday, November 4)
 
 This memo should show your team's plan of execution with action items,
 milestones with dates, and projected team task assignments. Furthermore, you
-should report on the current state of the design, what needs you've come up
-with and the plans for utilizing that information, and the top design concepts
-you will pursue.
+should report on the current state of your design process, what needs you've
+come up with and the plans for utilizing that information.
 
 Initial Design (Thursday, November 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -362,4 +361,4 @@ Sample grading items
 - team work
 - utilization of tools and theory from your courses
 - deflection analysis
-- will it actually work and is this justified with good engineering analysis
+- will it actually work, including engineering justifitication
