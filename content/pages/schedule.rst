@@ -58,19 +58,19 @@ NA F Oct 28    **Midterm**
                - Buckling and compression
                - Midterm results review
 NA R Nov 3     - Unitrans Visit
-19 F Nov 4     - Prototyping                                           Proj. 2: Plan Memo
+19 F Nov 4     - Prototyping                         - `Prep 19`_      Proj. 2: Plan Memo
 -- ----------  ------------------------------------  ----------------  -----
-20 M Nov 7     - Static failure theory: Ductile                        `HW #5`_
-21 W Nov 9     - Static failure theory: Brittle
+20 M Nov 7     - Buckling and Compression                              `HW #5`_
+21 W Nov 9     - Static failure theory: Ductile      - `Prep 21`_
 NA R Nov 10                                                            Proj. 2: Initial Design Memo
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
-22 M Nov 14    - Fatigue Failure Introduction                          HW #6
+22 M Nov 14    - Static failure theory: Brittle                        HW #6
+23 W Nov 16    - Fatigue Failure Introduction
                - S-N curves and endurance limits
-23 W Nov 16    - Crack growth
+24 F Nov 18    - Crack growth                                          Proj. 2.: Static Failure Memo
                - Marin parameters
-24 F Nov 18    - Stress concentrations                                 Proj. 2.: Static Failure Memo
-               - Research topics in Mech. Design
+               - Stress concentrations
 -- ----------  ------------------------------------  ----------------  -----
 25 M Nov 21    Fluctuating stress                                      HW #7
 26 W Nov 23    Compound and cumulative loading
@@ -105,6 +105,8 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 15: {filename}/pages/materials/prep-15.rst
 .. _Prep 16: {filename}/pages/materials/prep-16.rst
 .. _Prep 18: {filename}/pages/materials/prep-18.rst
+.. _Prep 19: {filename}/pages/materials/prep-19.rst
+.. _Prep 21: {filename}/pages/materials/prep-21.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
