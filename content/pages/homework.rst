@@ -1,15 +1,16 @@
 :title: Homework
 :sortorder: 3
 
-============== ========== ================
+============== ========== =================
 Homework       PDF        Due Date
-============== ========== ================
+============== ========== =================
 `Homework #1`_ `PDF #1`_  October 3, 2016
 `Homework #2`_ `PDF #2`_  October 10, 2016
 `Homework #3`_ `PDF #3`_  October 17, 2016
 `Homework #4`_ `PDF #4`_  October 24, 2016
 `Homework #5`_ `PDF #5`_  November 7, 2016
-============== ========== ================
+`Homework #6`_ `PDF #6`_  November 14, 2016
+============== ========== =================
 
 .. _Homework #1: {filename}/pages/homework/hw-01.rst
 .. _Homework #2: {filename}/pages/homework/hw-02.rst
