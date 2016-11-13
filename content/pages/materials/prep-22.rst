@@ -4,17 +4,17 @@
 Preparation
 ===========
 
-- Read sections 6-7 through 6-10
+- Read sections 5-8 to 5-11
 
 Concepts
 ========
 
-- Fatigue strength
-- Endurance limit
-- Endurance limit modifying factors (Marin parameters)
+After this lesson you will be able to:
+
+- Utilize brittle failure theories to determine if a part fails.
 
 Upcoming Due Dates
 ==================
 
-- Project 2 Memo 3 for Static Failure is due on Friday, November 20th
-- Homework 7 is due Monday, November 23rd
+- The static failure memo is due Friday, November 18th.
+- Homework 7 is due Monday, November 21st.

@@ -65,7 +65,7 @@ NA R Nov 3     - Unitrans Visit
 NA R Nov 10                                                            Proj. 2: Initial Design Memo
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
-22 M Nov 14    - Static failure theory: Brittle                        `HW #6`_
+22 M Nov 14    - Static failure theory: Brittle      - `Prep 22`_      `HW #6`_
 23 W Nov 16    - Fatigue Failure Introduction
                - S-N curves and endurance limits
 24 F Nov 18    - Crack growth                                          Proj. 2.: Static Failure Memo
@@ -107,6 +107,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Prep 18: {filename}/pages/materials/prep-18.rst
 .. _Prep 19: {filename}/pages/materials/prep-19.rst
 .. _Prep 21: {filename}/pages/materials/prep-21.rst
+.. _Prep 22: {filename}/pages/materials/prep-22.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
