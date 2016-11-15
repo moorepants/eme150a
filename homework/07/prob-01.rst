@@ -1,8 +1,10 @@
 Problem 1
 =========
 
-(1) Estimate the endurance limit and the low cycle fatigue strength for an
-axially loaded ground steel specimen with :math:`S_{ut} = 150 \mathrm{ksi}`,
-:math:`d= 1.0 \mathrm{in}`, and :math:`T = 70^\circ \mathrm{F}`. (2) Determine
-the expected life for :math:`\sigma_a = 75 \mathrm{ksi}` and :math:`\sigma_m=0
-\mathrm{ksi}`.
+Determine the safety factors at points A and B for the bracket shown below.  It
+is made of ASTM Class 50 Cast Iron (Table A-24). The variables have the
+following values: l = 6in, a = 8 in, d = 1.5 in, F = 1000 lb. Use the modified
+Mohr Theory.
+
+.. image:: hw-07-prob-01.png
+   :class: homeworkfig

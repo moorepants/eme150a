@@ -1,7 +1,7 @@
 Problem 3
 =========
 
-Given a 2024-T3 aluminum specimen forged to :math:`2.0 \mathrm{in}` round,
-determine the fatigue strength for :math:`3 \times 10^7` cycles of loading for
-fully reversed torsion. Note that for non-ferrous metals, the unmodified
-fatigue strength is taken at :math:`N = 5 \times 10^8` cycles (see Table A-24).
+Determine the required diameter for a round steel element that is axially
+loaded from -2500 to 2500 lb in fully reversed cycles. Assume it is ground,
+:math:`S_{ut} = 150 \mathrm{ksi}`, and is loaded at :math:`T = 70^\circ
+\mathrm{F}`. Determine the diameter for infinite life and :math:`10^3` cycles.

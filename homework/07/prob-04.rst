@@ -1,9 +1,7 @@
 Problem 4
 =========
 
-A simple hot rolled 1020 steel cantilever beam of length 0.6 m is loaded
-transversely at the end with a fully reversing load of :math:`\pm 5
-\mathrm{kN}`. The beam has a rectangular cross section with a width of
-:math:`40 \mathrm{mm}`. What is the required height of the beam's cross section
-to guarantee safe operation up to :math:`N = 10^4 \mathrm{cycles}` with a
-design factor of 2? Neglect any stress concentrations.
+Given a 2024-T3 aluminum specimen forged to :math:`2.0 \mathrm{in}` round,
+determine the fatigue strength for :math:`3 \times 10^7` cycles of loading for
+fully reversed torsion. Note that for non-ferrous metals, the unmodified
+fatigue strength is taken at :math:`N = 5 \times 10^8` cycles (see Table A-24).

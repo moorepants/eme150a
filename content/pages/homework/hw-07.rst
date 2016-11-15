@@ -1,12 +1,23 @@
 :title: Homework #07
-:subtitle: Monday, November 16, 2015
+:subtitle: Monday, November 14, 2016
 :status: hidden
 
-**DUE: Monday, November 23, 2015 before class in Box D in the MAE department.**
+**DUE: Monday, November 21, 2016 before class in Box B in the MAE department.**
 
 `PDF Version <{attach}/materials/hw-07.pdf>`_
 
 Problem 1
+=========
+
+Determine the safety factors at points A and B for the bracket shown below.  It
+is made of ASTM Class 50 Cast Iron (Table A-24). The variables have the
+following values: l = 6in, a = 8 in, d = 1.5 in, F = 1000 lb. Use the modified
+Mohr Theory.
+
+.. image:: {attach}/images/hw-07-prob-01.png
+   :class: homeworkfig
+
+Problem 2
 =========
 
 (1) Estimate the endurance limit and the low cycle fatigue strength for an
@@ -15,7 +26,7 @@ axially loaded ground steel specimen with :math:`S_{ut} = 150 \mathrm{ksi}`,
 the expected life for :math:`\sigma_a = 75 \mathrm{ksi}` and :math:`\sigma_m=0
 \mathrm{ksi}`.
 
-Problem 2
+Problem 3
 =========
 
 Determine the required diameter for a round steel element that is axially
@@ -23,7 +34,7 @@ loaded from -2500 to 2500 lb in fully reversed cycles. Assume it is ground,
 :math:`S_{ut} = 150 \mathrm{ksi}`, and is loaded at :math:`T = 70^\circ
 \mathrm{F}`. Determine the diameter for infinite life and :math:`10^3` cycles.
 
-Problem 3
+Problem 4
 =========
 
 Given a 2024-T3 aluminum specimen forged to :math:`2.0 \mathrm{in}` round,
@@ -31,7 +42,7 @@ determine the fatigue strength for :math:`3 \times 10^7` cycles of loading for
 fully reversed torsion. Note that for non-ferrous metals, the unmodified
 fatigue strength is taken at :math:`N = 5 \times 10^8` cycles (see Table A-24).
 
-Problem 4
+Problem 5
 =========
 
 A simple hot rolled 1020 steel cantilever beam of length 0.6 m is loaded

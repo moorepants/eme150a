@@ -72,7 +72,7 @@ NA F Nov 11    Veteran's Day Holiday
                - Marin parameters
                - Stress concentrations
 -- ----------  ------------------------------------  ----------------  -----
-25 M Nov 21    Fluctuating stress                                      HW #7
+25 M Nov 21    Fluctuating stress                                      `HW #7`_
 26 W Nov 23    Compound and cumulative loading
 NA F Nov 25    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
@@ -134,6 +134,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _HW #4: {filename}/pages/homework/hw-04.rst
 .. _HW #5: {filename}/pages/homework/hw-05.rst
 .. _HW #6: {filename}/pages/homework/hw-06.rst
+.. _HW #7: {filename}/pages/homework/hw-07.rst
 
 .. _IPYNB 5: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/sympy_for_mechanics.ipynb
 .. _IPYNB 9: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/principal_stresses.ipynb

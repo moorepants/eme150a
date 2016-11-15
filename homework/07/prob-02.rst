@@ -1,7 +1,8 @@
 Problem 2
 =========
 
-Determine the required diameter for a round steel element that is axially
-loaded from -2500 to 2500 lb in fully reversed cycles. Assume it is ground,
-:math:`S_{ut} = 150 \mathrm{ksi}`, and is loaded at :math:`T = 70^\circ
-\mathrm{F}`. Determine the diameter for infinite life and :math:`10^3` cycles.
+(1) Estimate the endurance limit and the low cycle fatigue strength for an
+axially loaded ground steel specimen with :math:`S_{ut} = 150 \mathrm{ksi}`,
+:math:`d= 1.0 \mathrm{in}`, and :math:`T = 70^\circ \mathrm{F}`. (2) Determine
+the expected life for :math:`\sigma_a = 75 \mathrm{ksi}` and :math:`\sigma_m=0
+\mathrm{ksi}`.
