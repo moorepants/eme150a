@@ -62,7 +62,8 @@ NA R Nov 3     - Unitrans Visit
 -- ----------  ------------------------------------  ----------------  -----
 20 M Nov 7     - Buckling and Compression            - `Notes 20`_     `HW #5`_
 21 W Nov 9     - Static failure theory: Ductile      - `Prep 21`_
-NA R Nov 10                                          - `Notes 21`_     Proj. 2: Initial Design Memo
+                                                     - `Notes 21`_
+NA R Nov 10                                                            Proj. 2: Initial Design Memo
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
 22 M Nov 14    - Static failure theory: Brittle      - `Prep 22`_      `HW #6`_
