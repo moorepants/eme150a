@@ -54,18 +54,19 @@ One and Two. **Check the schedule periodically for changes.**
 NA F Oct 28    **Midterm**
 -- ----------  ------------------------------------  ----------------  -----
 17 M Oct 31    - Project 2: Intro and ideation
-18 W Nov 2     - Statically indeterminate problems   - `Prep 18`_
-               - Buckling and compression
+18 W Nov 2     - Castigliano's Theorem (Curved)      - `Prep 18`_
+               - Statically indeterminate problems   - `Notes 18`_
                - Midterm results review
 NA R Nov 3     - Unitrans Visit
 19 F Nov 4     - Prototyping                         - `Prep 19`_      Proj. 2: Plan Memo
 -- ----------  ------------------------------------  ----------------  -----
-20 M Nov 7     - Buckling and Compression                              `HW #5`_
+20 M Nov 7     - Buckling and Compression            - `Notes 20`_     `HW #5`_
 21 W Nov 9     - Static failure theory: Ductile      - `Prep 21`_
-NA R Nov 10                                                            Proj. 2: Initial Design Memo
+NA R Nov 10                                          - `Notes 21`_     Proj. 2: Initial Design Memo
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
 22 M Nov 14    - Static failure theory: Brittle      - `Prep 22`_      `HW #6`_
+                                                     - `Notes 22`_
 23 W Nov 16    - Fatigue Failure Introduction
                - S-N curves and endurance limits
 24 F Nov 18    - Crack growth                                          Proj. 2.: Static Failure Memo
@@ -127,6 +128,10 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 14: {attach}/materials/notes-14.pdf
 .. _Notes 15: {attach}/materials/notes-15.pdf
 .. _Notes 16: {attach}/materials/notes-16.pdf
+.. _Notes 18: {attach}/materials/notes-18.pdf
+.. _Notes 20: {attach}/materials/notes-20.pdf
+.. _Notes 21: {attach}/materials/notes-21.pdf
+.. _Notes 22: {attach}/materials/notes-22.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
