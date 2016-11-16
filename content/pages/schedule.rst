@@ -68,7 +68,7 @@ NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
 22 M Nov 14    - Static failure theory: Brittle      - `Prep 22`_      `HW #6`_
                                                      - `Notes 22`_
-23 W Nov 16    - Fatigue Failure Introduction
+23 W Nov 16    - Fatigue Failure Introduction        - `Notes 23`_
                - S-N curves and endurance limits
 24 F Nov 18    - Crack growth                                          Proj. 2.: Static Failure Memo
                - Marin parameters
@@ -133,6 +133,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 20: {attach}/materials/notes-20.pdf
 .. _Notes 21: {attach}/materials/notes-21.pdf
 .. _Notes 22: {attach}/materials/notes-22.pdf
+.. _Notes 23: {attach}/materials/notes-23.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
