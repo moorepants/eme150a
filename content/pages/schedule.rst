@@ -70,7 +70,7 @@ NA F Nov 11    Veteran's Day Holiday
                                                      - `Notes 22`_
 23 W Nov 16    - Fatigue Failure Introduction        - `Notes 23`_
                - S-N curves and endurance limits
-24 F Nov 18    - Crack growth                                          Proj. 2.: Static Failure Memo
+24 F Nov 18    - Crack growth                        ` `Notes 24`_     Proj. 2.: Static Failure Memo
                - Marin parameters
                - Stress concentrations
 -- ----------  ------------------------------------  ----------------  -----
@@ -134,6 +134,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _Notes 21: {attach}/materials/notes-21.pdf
 .. _Notes 22: {attach}/materials/notes-22.pdf
 .. _Notes 23: {attach}/materials/notes-23.pdf
+.. _Notes 24: {attach}/materials/notes-24.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
