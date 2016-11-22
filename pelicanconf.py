@@ -16,8 +16,9 @@ TIMEZONE = 'US/Pacific'
 DEFAULT_LANG = 'en'
 
 PLUGIN_PATHS = [join(expanduser("~"), 'src', 'pelican-plugins')]
-PLUGINS = ['render_math']
+PLUGINS = ['render_math', 'headerid']
 MATH_JAX = {'color':'black'}
+HEADERID_LINK_CHAR = "¶"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
