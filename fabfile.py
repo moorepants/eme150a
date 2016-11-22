@@ -137,7 +137,7 @@ def build_homework(num=None):
                       '05': '2016/10/31',
                       '06': '2016/11/07',
                       '07': '2016/11/14',
-                      '08': '2016/11/21'}
+                      '08': '2016/11/23'}
 
     pdf_header_template = """\
 ================================
@@ -152,7 +152,7 @@ EME 150A Fall 2016 Homework #{}
 :subtitle: {}
 :status: hidden
 
-**DUE: {} before class in Box B in the MAE department.**
+**DUE: {} before noon in Box B in the MAE department.**
 
 `PDF Version <{{attach}}/materials/hw-{}.pdf>`_
 """

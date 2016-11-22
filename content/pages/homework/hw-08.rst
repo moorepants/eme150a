@@ -1,8 +1,8 @@
 :title: Homework #08
-:subtitle: Monday, November 23, 2015
+:subtitle: Wednesday, November 23, 2016
 :status: hidden
 
-**DUE: Monday, November 30, 2015 before class in Box D in the MAE department.**
+**DUE: Wednesday, November 30, 2016 before noon in Box B in the MAE department.**
 
 `PDF Version <{attach}/materials/hw-08.pdf>`_
 

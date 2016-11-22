@@ -78,16 +78,16 @@ NA F Nov 11    Veteran's Day Holiday
 26 W Nov 23    Compound and cumulative loading
 NA F Nov 25    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
-27 M Nov 28    Cumulative loading                                      HW #8, Proj 2.: Dynamic Failure Memo
-28 W Nov 30    - Catch up
+27 M Nov 28    Cumulative loading
+28 W Nov 30    - Catch up                                              `HW #8`_, Proj 2.: Dynamic Failure Memo
                - Exam review
 29 F Dec 2     - Final Exam Review
                - Course evaluations
                - Project 2: Lightning talks
 -- ----------  ------------------------------------  ----------------  -----
-NA U Dec 4     NA                                                      Proj 2.: Final Report
-                                                                       CATME Peer Eval
 NA W Dec 7     **Final Exam** 8:00-10:00AM
+NA F Dec 9     NA                                                      Proj 2.: Final Report
+                                                                       CATME Peer Eval
 == ==========  ====================================  ================  =====
 
 .. _Prep 1: {filename}/pages/materials/prep-01.rst
@@ -144,6 +144,7 @@ NA W Dec 7     **Final Exam** 8:00-10:00AM
 .. _HW #5: {filename}/pages/homework/hw-05.rst
 .. _HW #6: {filename}/pages/homework/hw-06.rst
 .. _HW #7: {filename}/pages/homework/hw-07.rst
+.. _HW #8: {filename}/pages/homework/hw-08.rst
 
 .. _IPYNB 5: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/sympy_for_mechanics.ipynb
 .. _IPYNB 9: http://nbviewer.jupyter.org/github/moorepants/eme150a/blob/master/content/materials/notebooks/principal_stresses.ipynb
