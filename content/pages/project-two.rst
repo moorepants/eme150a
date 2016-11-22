@@ -215,8 +215,8 @@ sufficient safety factor for static loads.
 - Explanations on what you may need to redesign to make it safer: material
   choice, geometry changes, etc.
 
-Dynamic Failure (Monday November 28)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dynamic Failure (Wednesday, November 30)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The dynamic failure memo will need to show that your your design will have a
 sufficient safety factor for dynamic loads.
@@ -273,7 +273,9 @@ Design Description
    weaknesses/strengths, etc.
 Analysis and Justification
    This section should explain the results of the analyses you used to ensure
-   your design meets the needs, constraints, and requirements.
+   your design meets the needs, constraints, and requirements. You should
+   justify your design in terms of safety with respect to static failure,
+   dynamic failure, and deflection.
 Manufacturing
    This section should provide the estimates and explanations of
    manufacturability including costs.
