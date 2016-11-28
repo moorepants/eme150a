@@ -303,24 +303,27 @@ Lightning Talk
 ==============
 
 Your team will have 5 minutes to pitch your design. The talk will be followed
-by 1 minute of questions while the next team sets up. The intended audience for
-your pitch will be engineering management and a potential purchaser of the
+by 5 minutes of questions while the next team sets up. The intended audience
+for your pitch will be engineering management and a potential purchaser of the
 product, so adjust your content appropriately. You should touch on the design
-features, analyses for failure, manufacturing and cost, etc.
+features, analyses for failure, manufacturing and cost, etc. One person will be
+selected randomly from each group to give the talk. This means that everyone
+has to prepare to give the talk and it is in you best interest to help each
+other practice.
 
 Suggestion:
 
 - Make ten slides that will be shown for 30 seconds each (each team member
   makes 2-3 slides).
 - Each slide has an accompanying script that focuses on the main points.
-- Pick one person to deliver the talk.
+- Make sure your computer works with the TV in the design studio (Bainer 2071).
 
-Notes
+Notes:
 
 - We will be very strict with time. You will be cut off at 5 minutes!
-- Can use visuals: doc camera, board, projector
+- Can use visuals: board or TV
 - It takes more time than you expect to make it concise!
-- Your grade will come from the three judges.
+- Your grade will come from the participating judges.
 - The best talk, based on class vote, will get a prize!
 
 - https://en.wikipedia.org/wiki/Lightning_talk
@@ -338,10 +341,12 @@ Plan Memo               5%
 Initial Memo            5%
 Static Failure Memo     5%
 Dynamic Failure Memo    5%
-Peer Evaluations        10%
-Lightning Talk          10%
+Lightning Talk          20%
 Final Report            60%
 ======================  ===
+
+The peer evaluations will be used to scale your project grade based on you and
+your teams ratings.
 
 Sample grading items
 --------------------
