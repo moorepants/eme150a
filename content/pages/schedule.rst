@@ -75,14 +75,14 @@ NA F Nov 11    Veteran's Day Holiday
                - Stress concentrations
 -- ----------  ------------------------------------  ----------------  -----
 25 M Nov 21    Fluctuating stress                    - `Notes 25`_     `HW #7`_
-26 W Nov 23    Compound and cumulative loading
+26 W Nov 23    Fatigue review                        - `Notes 26`_
 NA F Nov 25    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
-27 M Nov 28    Cumulative loading
+27 M Nov 28    Compound and cumulative loading       - `Prep 27`_
 28 W Nov 30    - Catch up                                              `HW #8`_, Proj 2.: Dynamic Failure Memo
                - Exam review
-29 F Dec 2     - Final Exam Review
-               - Course evaluations
+29 F Dec 2     - Course evaluations
+               - Final Exam Review
                - Project 2: Lightning talks
 -- ----------  ------------------------------------  ----------------  -----
 NA W Dec 7     **Final Exam** 8:00-10:00AM
@@ -110,6 +110,7 @@ NA F Dec 9     NA                                                      Proj 2.: 
 .. _Prep 19: {filename}/pages/materials/prep-19.rst
 .. _Prep 21: {filename}/pages/materials/prep-21.rst
 .. _Prep 22: {filename}/pages/materials/prep-22.rst
+.. _Prep 27: {filename}/pages/materials/prep-27.rst
 
 .. _Plan 1: {filename}/pages/materials/plan-01.rst
 
@@ -136,6 +137,7 @@ NA F Dec 9     NA                                                      Proj 2.: 
 .. _Notes 23: {attach}/materials/notes-23.pdf
 .. _Notes 24: {attach}/materials/notes-24.pdf
 .. _Notes 25: {attach}/materials/notes-25.pdf
+.. _Notes 26: {attach}/materials/notes-26.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
