@@ -79,11 +79,12 @@ NA F Nov 11    Veteran's Day Holiday
 NA F Nov 25    Thanksgiving Day Holiday
 -- ----------  ------------------------------------  ----------------  -----
 27 M Nov 28    Compound and cumulative loading       - `Prep 27`_
-28 W Nov 30    - Catch up                                              `HW #8`_, Proj 2.: Dynamic Failure Memo
+                                                     - `Notes 27`_
+28 W Nov 30    - Catch up                            - `Notes 28`_     `HW #8`_, Proj 2.: Dynamic Failure Memo
                - Exam review
 29 F Dec 2     - Course evaluations
                - Final Exam Review
-               - Project 2: Lightning talks
+               - Project 2: Lightning talks @ 9:40
 -- ----------  ------------------------------------  ----------------  -----
 NA W Dec 7     **Final Exam** 8:00-10:00AM
 NA F Dec 9     NA                                                      Proj 2.: Final Report
@@ -138,6 +139,8 @@ NA F Dec 9     NA                                                      Proj 2.: 
 .. _Notes 24: {attach}/materials/notes-24.pdf
 .. _Notes 25: {attach}/materials/notes-25.pdf
 .. _Notes 26: {attach}/materials/notes-26.pdf
+.. _Notes 27: {attach}/materials/notes-27.pdf
+.. _Notes 28: {attach}/materials/notes-28.pdf
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
