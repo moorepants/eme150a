@@ -4,20 +4,19 @@
 Final Information
 =================
 
-- Closed book, closed notes, no written materials allowed, no devices except a
-  non-programmable calculator and/or drawing implements.
+- Closed book, closed notes except for one sheet (front and back) of paper with
+  notes, no electronic devices except a calculator and/or drawing implements.
 - I'll provide the paper.
 - Comprehensive but focused more on content after the midterm. You will
   definitely need to know the main stress/strain concepts from the first
   portion to complete the problems from the second portion.
-- Same style as the midterm:
+- Possible types of questions (similar to midterm):
 
   - True/False
   - Multiple Choice
   - Short Answer
   - Long Answer
 
-- I will provide a sheet with the essential equations, tables, and graphs.
 - Review the instructor's class notes, your notes, the book sections, and the
   homeworks.
 
