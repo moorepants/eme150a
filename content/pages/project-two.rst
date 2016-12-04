@@ -239,6 +239,7 @@ General Format
 - The report should fit on 8.5" x 11" sheets of paper[2]_.
 - All margins should be 1".
 - The font of main text should be 11 pt Arial.
+- The text should be single spaced.
 - Number and caption all figures and tables.
 - The font size in captions can be 10 pt.
 - Include page numbers on every sheet.
