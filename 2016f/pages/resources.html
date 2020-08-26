@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Resources</title>
+        <link rel="stylesheet" href="http://moorepants.github.io/eme150a/2016f/theme/css/main.css" />
+        <link rel="stylesheet" href="http://moorepants.github.io/eme150a/2016f/theme/css/custom.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <script type="text/javascript"
+          src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://moorepants.github.io/eme150a/2016f/">EME 150A: Mechanical Design </a></h1>
+                <nav><ul>
+                    <li><a href="http://moorepants.github.io/eme150a/2016f/">Syllabus</a></li>
+                    <li><a href="http://moorepants.github.io/eme150a/2016f/pages/schedule.html">Schedule</a></li>
+                    <li><a href="http://moorepants.github.io/eme150a/2016f/pages/projects.html">Projects</a></li>
+                    <li><a href="http://moorepants.github.io/eme150a/2016f/pages/homework.html">Homework</a></li>
+                    <li class="active"><a href="http://moorepants.github.io/eme150a/2016f/pages/resources.html">Resources</a></li>
+                    <li><a href="http://moorepants.github.io/eme150a/2016f/pages/faq.html">FAQ</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+    <h1 class="entry-title">Resources</h1>
+    
+    <div class="section" id="exam-review">
+<h2>Exam Review<a class="headerlink" href="#exam-review" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="http://moorepants.github.io/eme150a/2016f/pages/final-exam-study-guide.html">Final Exam Study Guide</a></li>
+</ul>
+</div>
+<div class="section" id="tables">
+<h2>Tables<a class="headerlink" href="#tables" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Standard_normal_table">Standard Normal Table</a> (Table A-10 in <a class="footnote-reference" href="#id5" id="id1">[1]</a>)</li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Preferred_number">Preferred Sizes</a> (Table A-15 in <a class="footnote-reference" href="#id5" id="id2">[1]</a>) <a class="footnote-reference" href="#id6" id="id3">[2]</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/List_of_area_moments_of_inertia">Second moment of area for various shapes</a> (Table A-18 in the <a class="footnote-reference" href="#id5" id="id4">[1]</a>)</li>
+</ul>
+<table class="docutils footnote" frame="void" id="id5" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[1]</td><td><em>(<a class="fn-backref" href="#id1">1</a>, <a class="fn-backref" href="#id2">2</a>, <a class="fn-backref" href="#id4">3</a>)</em> <em>Shigley's Mechanical Engineering Design</em>, Budynas and Nisbett, 10th Edition,
+McGraw Hill Education. ISBN 978-0-07-339820-4</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id6" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id3">[2]</a></td><td>I'm looking for a better table for this. Something more like the book.
+Let me know if you find one (or make one). <em>-- Jason</em></td></tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="python-for-mechanics">
+<h2>Python for Mechanics<a class="headerlink" href="#python-for-mechanics" title="Permalink to this headline">¶</a></h2>
+<p>We will be using Python in this class for our computations. Python is a general
+purpose high level programming language that has thousands of packages. We will
+primarily make use of <a class="reference external" href="http://sympy.org">SymPy</a> to solve mechanical design problems. You will need
+to download and install the Anaconda Distribution of Python (Python 3.5
+version) from:</p>
+<p><a class="reference external" href="https://www.continuum.io/downloads">https://www.continuum.io/downloads</a></p>
+<p>Anaconda is also be available in the CAE lab in Bainer.</p>
+<p>Alternatively, you can create Jupyter notebooks using the <a class="reference external" href="https://cloud.sagemath.com">SageMathCloud</a> or
+<a class="reference external" href="https://wakari.io">Wakari</a> web applications without having to install any software.</p>
+<div class="section" id="development-version-of-sympy">
+<h3>Development Version of SymPy<a class="headerlink" href="#development-version-of-sympy" title="Permalink to this headline">¶</a></h3>
+<p>The next release of SymPy will include a singularity function module and a beam
+module for solving 2D beams, much like what we do in class. If you'd like to
+try this out pre-release, you'll need to install the development version of
+SymPy. It is recommended to make a new conda environment for this. If you open
+a terminal (OSX/Linux) or the Anaconda command prompt (Windows) you can enter
+these commands to set things up:</p>
+<pre class="literal-block">
+$ conda create -n sympy-dev python=3.5 anaconda
+$ source activate sympy-dev  # this is simply &quot;activate sympy-dev&quot; on Windows
+(sympy-dev)$ conda uninstall sympy
+</pre>
+<p>Now download the development version of SymPy from:</p>
+<p><a class="reference external" href="https://github.com/sympy/sympy/archive/master.zip">https://github.com/sympy/sympy/archive/master.zip</a></p>
+<p>and unzip the file in a known location, e.g.
+<tt class="docutils literal"><span class="pre">/home/jason/Downloads/sympy-master</span></tt>. Finally install with:</p>
+<pre class="literal-block">
+(sympy-dev)$ conda develop /home/jason/Downloads/sympy-master
+</pre>
+<p>Now, when you have this environment activated you will be using the development
+version. You can activate the environment from the Anaconda Navigator, Jupyter
+Notebook, or the command line. You can learn about using the two modules in the
+development documentation:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://docs.sympy.org/dev/modules/functions/special.html#module-sympy.functions.special.singularity_functions">Singularity Functions</a></li>
+<li><a class="reference external" href="http://docs.sympy.org/dev/modules/physics/continuum_mechanics/index.html">Beams</a></li>
+</ul>
+</div>
+</div>
+<div class="section" id="contact-stress-failures">
+<h2>Contact Stress Failures<a class="headerlink" href="#contact-stress-failures" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://upload.wikimedia.org/wikipedia/commons/1/18/Kontakt_Spannungsoptik.JPG">Contact stress visualization from photoelasticity</a></li>
+<li><a class="reference external" href="http://www.rttech.com.au/wp-content/uploads/2010/06/mt6.jpg">Gear teeth spalling</a></li>
+<li><a class="reference external" href="http://www.linearmotiontips.com/wp-content/uploads/2013/04/False-brinelling-300x300.jpg">Bearing Brinelling</a></li>
+<li>Pitting:<ul>
+<li><a class="reference external" href="http://www.differentials.com/wp-content/uploads/2011/12/Pitted-Bearing_0159.jpg">http://www.differentials.com/wp-content/uploads/2011/12/Pitted-Bearing_0159.jpg</a></li>
+<li><a class="reference external" href="http://www.knowyourparts.com/public/uploads/2013/06/61274DiagSolnsp_00000022462.jpg">http://www.knowyourparts.com/public/uploads/2013/06/61274DiagSolnsp_00000022462.jpg</a></li>
+<li><a class="reference external" href="http://thereliabilityroadmap.com/assets/images/pitting3.png">http://thereliabilityroadmap.com/assets/images/pitting3.png</a></li>
+<li><a class="reference external" href="http://thebiketube.com/sites/all/files/tutorials/pitted-ball-bearing-races.jpg">http://thebiketube.com/sites/all/files/tutorials/pitted-ball-bearing-races.jpg</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="fatigue-failures">
+<h2>Fatigue Failures<a class="headerlink" href="#fatigue-failures" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://youtu.be/93I6Wk7GZhI">R. R. Moore Fatigue Test of AL 6061-T6 [Video]</a></li>
+<li><a class="reference external" href="https://youtu.be/52knsY5AWIc">FATIMAT Rotating Bending Machine Prototype [Video]</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Fatigue_%28material%29#Notable_fatigue_failures">Notable Fatigue Failures</a></li>
+<li><a class="reference external" href="https://youtu.be/VFL2ybuxeUY">Xcelerator Cable Snap Accident</a></li>
+</ul>
+</div>
+
+</section>
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+          <address id="about" class="vcard body">
+            <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+              <a rel="license"
+                href="http://creativecommons.org/publicdomain/zero/1.0/">
+                <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+              </a>
+              <br />
+              To the extent possible under law,
+              <a rel="dct:publisher"
+                href="http://moorepants.info">
+                <span property="dct:title">Jason K. Moore</span>
+              </a>
+              has waived all copyright and related or neighboring rights to
+              <span property="dct:title">EME150A Mechanical Design Course Website</span>.
+              This work is published from:
+              <span property="vcard:Country" datatype="dct:ISO3166"
+                content="US" about="http://moorepants.info">
+              United States</span>.
+            </p>
+            Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+            <p>The source for the website is <a
+              href="https://github.com/moorepants/eme150a">hosted on
+              Github</a>. Report issues
+            and make contributions there.</p>
+          </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-15966419-8', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
